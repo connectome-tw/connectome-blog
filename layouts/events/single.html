@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <article>
+    {{/* Header: Title + meta (date · event_type only) */}}
+    <header id="single_header" class="mt-5 w-full">
+      {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h1>
+      <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        {{ partial "article-meta/event.html" (dict "context" .) }}
+      </div>
+    </header>
+
+    {{/* Summary — above cover image */}}
+    {{ with .Params.summary }}
+      <div class="article-summary w-full text-neutral-700 dark:text-neutral-300 mb-6 prose dark:prose-invert max-w-none">
+        {{ . | markdownify }}
+      </div>
+    {{ end }}
+
+    {{/* Hero (cover image) — object-contain, no stretch */}}
+    {{ if .Params.showHero | default (site.Params.article.showHero | default false) }}
+      {{ partial "hero/basic.html" . }}
+    {{ end }}
+
+    {{/* Body */}}
+    <section class="flex flex-col w-full max-w-none mt-0 prose dark:prose-invert">
+      <div class="min-w-0 min-h-0 max-w-fit">
+        <div class="article-content w-full mb-6 prose dark:prose-invert max-w-none">
+          {{ .Content }}
+        </div>
+        {{ partial "sharing-links.html" . }}
+      </div>
+    </section>
+
+    {{/* Footer */}}
+    <footer class="pt-8 w-full print:hidden">
+      {{ partial "article-pagination.html" . }}
+      {{ if .Params.showComments | default (site.Params.article.showComments | default false) }}
+        {{ if templates.Exists "partials/comments.html" }}
+          <div class="pt-3">
+            <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+            <div class="pt-3">
+              {{ partial "comments.html" . }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </footer>
+  </article>
+{{ end }}

@@ -1,0 +1,5 @@
+---
+  title: "Eric minwei Liu"
+---
+
+Eric is currently working as a research assistant in the Academia Sinica. He has bachelor degree in chemistry, information management and Master degree of pharmaceutical science at National Taiwan University. He also holds Master degree of biomedical informatics at Columbia University. Besides research work, he love travel and cuisine.

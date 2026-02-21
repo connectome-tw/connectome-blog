@@ -1,0 +1,329 @@
+# connectome.tw — Main menu (zh-tw)
+# Layout per design: 文章 (3-level) | 專欄 (dropdown) | 活動 | Connect 吧 | 關於我們
+
+# === 文章 — Top-level parent; contains 5 taxonomies, each with nested tags ===
+[[main]]
+  name = "文章"
+  identifier = "menu-posts"
+  pageRef = "posts"
+  weight = 10
+
+# — 產業 (under 文章)
+[[main]]
+  name = "產業"
+  parent = "menu-posts"
+  identifier = "menu-industry"
+  weight = 1
+[[main]]
+  name = "製藥"
+  parent = "menu-industry"
+  url = "/industry/製藥/"
+  weight = 1
+[[main]]
+  name = "醫材"
+  parent = "menu-industry"
+  url = "/industry/醫材/"
+  weight = 2
+[[main]]
+  name = "醫療照護"
+  parent = "menu-industry"
+  url = "/industry/醫療照護/"
+  weight = 3
+[[main]]
+  name = "智財"
+  parent = "menu-industry"
+  url = "/industry/智財/"
+  weight = 4
+[[main]]
+  name = "顧問"
+  parent = "menu-industry"
+  url = "/industry/顧問/"
+  weight = 5
+[[main]]
+  name = "食品"
+  parent = "menu-industry"
+  url = "/industry/食品/"
+  weight = 6
+[[main]]
+  name = "畜產、農業"
+  parent = "menu-industry"
+  url = "/industry/畜產、農業/"
+  weight = 7
+[[main]]
+  name = "育成/技轉"
+  parent = "menu-industry"
+  url = "/industry/育成技轉/"
+  weight = 8
+[[main]]
+  name = "委託研究 CRO"
+  parent = "menu-industry"
+  url = "/industry/委託研究_CRO/"
+  weight = 9
+[[main]]
+  name = "應用生技"
+  parent = "menu-industry"
+  url = "/industry/應用生技/"
+  weight = 10
+[[main]]
+  name = "生物資訊"
+  parent = "menu-industry"
+  url = "/industry/生物資訊/"
+  weight = 11
+
+# — 職務 (under 文章)
+[[main]]
+  name = "職務"
+  parent = "menu-posts"
+  identifier = "menu-job"
+  weight = 2
+[[main]]
+  name = "研究開發"
+  parent = "menu-job"
+  url = "/job_function/研究開發/"
+  weight = 1
+[[main]]
+  name = "專案管理"
+  parent = "menu-job"
+  url = "/job_function/專案管理/"
+  weight = 2
+[[main]]
+  name = "事業開發"
+  parent = "menu-job"
+  url = "/job_function/事業開發/"
+  weight = 3
+[[main]]
+  name = "法務與遵循"
+  parent = "menu-job"
+  url = "/job_function/法務與遵循/"
+  weight = 4
+[[main]]
+  name = "智財管理"
+  parent = "menu-job"
+  url = "/job_function/智財管理/"
+  weight = 5
+[[main]]
+  name = "臨床試驗"
+  parent = "menu-job"
+  url = "/job_function/臨床試驗/"
+  weight = 6
+[[main]]
+  name = "醫藥學術"
+  parent = "menu-job"
+  url = "/job_function/醫藥學術/"
+  weight = 7
+[[main]]
+  name = "產品經理"
+  parent = "menu-job"
+  url = "/job_function/產品經理/"
+  weight = 8
+[[main]]
+  name = "行銷"
+  parent = "menu-job"
+  url = "/job_function/行銷/"
+  weight = 9
+[[main]]
+  name = "業務代表"
+  parent = "menu-job"
+  url = "/job_function/業務代表/"
+  weight = 10
+[[main]]
+  name = "品質管制"
+  parent = "menu-job"
+  url = "/job_function/品質管制/"
+  weight = 11
+[[main]]
+  name = "品質保證"
+  parent = "menu-job"
+  url = "/job_function/品質保證/"
+  weight = 12
+[[main]]
+  name = "人力資源"
+  parent = "menu-job"
+  url = "/job_function/人力資源/"
+  weight = 13
+[[main]]
+  name = "顧問"
+  parent = "menu-job"
+  url = "/job_function/顧問/"
+  weight = 14
+[[main]]
+  name = "創業投資"
+  parent = "menu-job"
+  url = "/job_function/創業投資/"
+  weight = 15
+[[main]]
+  name = "創業家"
+  parent = "menu-job"
+  url = "/job_function/創業家/"
+  weight = 16
+[[main]]
+  name = "高階主管"
+  parent = "menu-job"
+  url = "/job_function/高階主管/"
+  weight = 17
+
+# — 地區 (under 文章)
+[[main]]
+  name = "地區"
+  parent = "menu-posts"
+  identifier = "menu-region"
+  weight = 3
+[[main]]
+  name = "美國"
+  parent = "menu-region"
+  url = "/region/美國/"
+  weight = 1
+[[main]]
+  name = "台灣"
+  parent = "menu-region"
+  url = "/region/台灣/"
+  weight = 2
+[[main]]
+  name = "中國"
+  parent = "menu-region"
+  url = "/region/中國/"
+  weight = 3
+[[main]]
+  name = "亞太"
+  parent = "menu-region"
+  url = "/region/亞太/"
+  weight = 4
+[[main]]
+  name = "歐洲"
+  parent = "menu-region"
+  url = "/region/歐洲/"
+  weight = 5
+
+# — 議題 (under 文章)
+[[main]]
+  name = "議題"
+  parent = "menu-posts"
+  identifier = "menu-topic"
+  weight = 4
+[[main]]
+  name = "職涯"
+  parent = "menu-topic"
+  url = "/topic/職涯/"
+  weight = 1
+[[main]]
+  name = "新創"
+  parent = "menu-topic"
+  url = "/topic/新創/"
+  weight = 2
+[[main]]
+  name = "學習與跨領域"
+  parent = "menu-topic"
+  url = "/topic/學習與跨領域/"
+  weight = 3
+[[main]]
+  name = "產業動態"
+  parent = "menu-topic"
+  url = "/topic/產業動態/"
+  weight = 4
+
+# — 範疇 (under 文章)
+[[main]]
+  name = "範疇"
+  parent = "menu-posts"
+  identifier = "menu-scope"
+  weight = 5
+[[main]]
+  name = "個人"
+  parent = "menu-scope"
+  url = "/scope/個人/"
+  weight = 1
+[[main]]
+  name = "團隊"
+  parent = "menu-scope"
+  url = "/scope/團隊/"
+  weight = 2
+[[main]]
+  name = "社群"
+  parent = "menu-scope"
+  url = "/scope/社群/"
+  weight = 3
+[[main]]
+  name = "產業"
+  parent = "menu-scope"
+  url = "/scope/產業/"
+  weight = 4
+[[main]]
+  name = "組織"
+  parent = "menu-scope"
+  url = "/scope/組織/"
+  weight = 5
+
+# === 專欄 — Dropdown with 10 column names (per design) ===
+[[main]]
+  name = "專欄"
+  identifier = "menu-columns"
+  weight = 100
+
+[[main]]
+  name = "吃炸魚薯條的日子：劍橋生技見聞"
+  parent = "menu-columns"
+  url = "/columns/吃炸魚薯條的日子：劍橋生技見聞/"
+  weight = 1
+[[main]]
+  name = "來自加州生技產業的十二封信"
+  parent = "menu-columns"
+  url = "/columns/來自加州生技產業的十二封信/"
+  weight = 2
+[[main]]
+  name = "中國好生醫"
+  parent = "menu-columns"
+  url = "/columns/中國好生醫/"
+  weight = 3
+[[main]]
+  name = "Boot Camp"
+  parent = "menu-columns"
+  url = "/columns/Boot-Camp/"
+  weight = 4
+[[main]]
+  name = "外派西遊記"
+  parent = "menu-columns"
+  url = "/columns/外派西遊記/"
+  weight = 5
+[[main]]
+  name = "業務人生"
+  parent = "menu-columns"
+  url = "/columns/業務人生/"
+  weight = 6
+[[main]]
+  name = "生技與資工的親密關係 – 跨領域產學見聞"
+  parent = "menu-columns"
+  url = "/columns/生技與資工的親密關係-跨領域產學見聞/"
+  weight = 7
+[[main]]
+  name = "跨領域學習資源"
+  parent = "menu-columns"
+  url = "/columns/跨領域學習資源/"
+  weight = 8
+[[main]]
+  name = "飛越太平洋 – 加州生技產學見聞"
+  parent = "menu-columns"
+  url = "/columns/飛越太平洋-加州生技產學見聞/"
+  weight = 9
+[[main]]
+  name = "醫藥顧問的中國筆記"
+  parent = "menu-columns"
+  url = "/columns/醫藥顧問的中國筆記/"
+  weight = 10
+
+# === 活動 ===
+[[main]]
+  name = "活動"
+  pageRef = "events"
+  weight = 110
+
+# === Connect 吧 (from design) ===
+[[main]]
+  name = "Connect 吧"
+  pageRef = "connectbar"
+  weight = 120
+
+# === 關於我們 ===
+[[main]]
+  name = "關於我們"
+  pageRef = "about"
+  weight = 130

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Region on Connectome</title>
+    <link>http://localhost:1313/region/</link>
+    <description>Recent content in Region on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/region/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>兩岸/中國</title>
+      <link>http://localhost:1313/region/%E5%85%A9%E5%B2%B8/%E4%B8%AD%E5%9C%8B/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/region/%E5%85%A9%E5%B2%B8/%E4%B8%AD%E5%9C%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>台灣</title>
+      <link>http://localhost:1313/region/%E5%8F%B0%E7%81%A3/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/region/%E5%8F%B0%E7%81%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>歐洲</title>
+      <link>http://localhost:1313/region/%E6%AD%90%E6%B4%B2/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/region/%E6%AD%90%E6%B4%B2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>美國</title>
+      <link>http://localhost:1313/region/%E7%BE%8E%E5%9C%8B/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/region/%E7%BE%8E%E5%9C%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>亞太</title>
+      <link>http://localhost:1313/region/%E4%BA%9E%E5%A4%AA/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/region/%E4%BA%9E%E5%A4%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

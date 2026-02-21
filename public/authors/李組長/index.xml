@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李組長 on Connectome</title>
+    <link>http://localhost:1313/authors/%E6%9D%8E%E7%B5%84%E9%95%B7/</link>
+    <description>Recent content in 李組長 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 20 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E6%9D%8E%E7%B5%84%E9%95%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」: 我所參與的人類基因體計畫</title>
+      <link>http://localhost:1313/posts/biotech-human-genome/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-human-genome/</guid>
+      <description>今天來說說人類基因體計畫。2001年是人類基因體（human genome）計畫重要的里程碑，當年科學家發表了人類基因體草圖。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-human-genome/feature.png" />
+    </item>
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」專欄創刊號 : 生物資訊？</title>
+      <link>http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/</guid>
+      <description>隨著人體基因定序的完成與測序技術的日新月異，生物資訊學近幾年可謂蓬勃發展。好像很常聽到生物資訊，但是生物資訊到底都在研究些什麼呢？之前看到一個非常有趣的講法﹝A beginner’s guide to bioinformatics﹞，雖然程度不同，但是只要你做過下列的事情，或許你也可以稱自己為生物資訊人。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

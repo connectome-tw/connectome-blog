@@ -1,0 +1,6 @@
+{{ $context := . }}
+{{ with $context.GetTerms "authors" }}
+  {{ range $i, $a := . }}
+    {{ if $i }}, {{ end }}<a href="{{ $a.RelPermalink }}" class="text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400">{{ $a.LinkTitle }}</a>
+  {{ end }}
+{{ end }}

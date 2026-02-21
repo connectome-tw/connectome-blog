@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周珮褀 on Connectome</title>
+    <link>http://localhost:1313/authors/%E5%91%A8%E7%8F%AE%E8%A4%80/</link>
+    <description>Recent content in 周珮褀 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 31 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E5%91%A8%E7%8F%AE%E8%A4%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biotech Consulting─the Life &amp;amp; the Work</title>
+      <link>http://localhost:1313/posts/biotech-consulting-life-n-work/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-consulting-life-n-work/</guid>
+      <description>Connectome 這次舉行的 Mini-Forum，很榮幸的請到 Diana Chavlah 來為我們分享她的國際經驗，一探她做為政治顧問、生技創投和專家證人的精彩國際職涯。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-consulting-life-n-work/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>生技技轉人員介紹</title>
+      <link>http://localhost:1313/posts/bio-technology-transfer/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bio-technology-transfer/</guid>
+      <description>常常講到產學合作的案例時，都會提到所謂技術移轉、授權等等，究竟技術移轉在做些什麼呢？其中所謂技轉人員又扮演什麼角色？而在生技這塊領域上的技轉人員，又有什麼不同的地方呢？ 且看 Connectome 為讀者所撰寫的介紹。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bio-technology-transfer/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>基亞生技實習分享─黃聖富</title>
+      <link>http://localhost:1313/posts/medigen-internship/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/medigen-internship/</guid>
+      <description>&lt;span style=&#34;color:rgb(0, 0, 0)&#34;&gt;黃聖富同學目前是台大生化科技研究所碩士班一年級的學生，趁著還沒開學的時候，參與了台大生技中心的產業實習課程，進入基亞生技公司的核酸檢驗部門，開始了為期兩週的實習。 &lt;/span&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/medigen-internship/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>我眼中的醫療生涯─吳沛燊</title>
+      <link>http://localhost:1313/posts/doctorcareer/</link>
+      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/doctorcareer/</guid>
+      <description>過去，醫師看似一個美好的職業，然而台灣現在的醫療環境已大不如前，對於即將踏入職場的準醫師來說，同樣面臨著挑戰。八月份Connectome邀請到從台大醫學系畢業的吳沛燊醫師，即將要踏入「白色巨塔」的他，怎麼樣看待他所將面臨的挑戰。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/doctorcareer/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

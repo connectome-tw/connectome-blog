@@ -1,0 +1,66 @@
+# connectome.tw — Hugo + Blowfish
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://connectome.tw/"
+defaultContentLanguage = "zh-tw"
+
+enableRobotsTXT = true
+hasCJKLanguage = true
+mainSections = ["posts"]
+summaryLength = 0
+buildDrafts = false
+buildFuture = false
+enableEmoji = true
+
+[pagination]
+  pagerSize = 100
+
+[imaging]
+  anchor = "Center"
+
+# Connectome taxonomies: industry, job_function, topic, region, scope, columns, authors, event_type
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  industry = "industry"
+  job_function = "job_function"
+  topic = "topic"
+  region = "region"
+  scope = "scope"
+  columns = "columns"
+  author = "authors"
+  series = "series"
+  event_type = "event_type"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 0
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "industry"
+    weight = 80
+
+  [[related.indices]]
+    name = "topic"
+    weight = 80
+
+  [[related.indices]]
+    name = "authors"
+    weight = 20
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

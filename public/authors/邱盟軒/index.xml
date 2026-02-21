@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邱盟軒 on Connectome</title>
+    <link>http://localhost:1313/authors/%E9%82%B1%E7%9B%9F%E8%BB%92/</link>
+    <description>Recent content in 邱盟軒 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 21 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E9%82%B1%E7%9B%9F%E8%BB%92/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>博士新鮮人，你/妳準備好登陸了嗎？</title>
+      <link>http://localhost:1313/posts/phds-ready-china/</link>
+      <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/phds-ready-china/</guid>
+      <description>臺灣的生技產業起飛也好一陣子了，從現今生技博士的就業情況，已能斷判發展的方向是否正確以及高度是否足夠。造成這結果的種種原因與解決方式不是簡單幾句話就能說明的，而無論是政府的撒錢補助或是公司企業大刀闊斧的改革，對於馬上踏入職場的新鮮人來說都是殘酷的緩不濟急。對我而言當下最有效率的方法，也只有忍痛離開了……</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/phds-ready-china/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>馮雅雯 on Connectome</title>
+    <link>http://localhost:1313/authors/%E9%A6%AE%E9%9B%85%E9%9B%AF/</link>
+    <description>Recent content in 馮雅雯 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 11 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E9%A6%AE%E9%9B%85%E9%9B%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>跨領域學習資源分享─TOP 6 國際線上學習網站</title>
+      <link>http://localhost:1313/posts/multidisciplinary-resource-top6-learning-website/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/multidisciplinary-resource-top6-learning-website/</guid>
+      <description>上班族的進修好去處，學生的資源大寶庫。人的求知慾一旦被打開就如同饕餮無法抑制的食慾般。先前多篇跨領域學習資源分享如「&lt;a href=&#34;http://localhost:1313/posts/multidisciplinary-clinical-trail-patent-medical-device-regulation/&#34; &gt;臨床試驗、專利工程、醫藥器材法規&lt;/a&gt;」和「&lt;a href=&#34;http://localhost:1313/posts/multidisciplinary-resource-management-biomedical-design/&#34; &gt;科技管理、醫療器材產品設計&lt;/a&gt;」是否已無法滿足你？Connectome 隆重推出 - 「TOP 6 國際線上學習網站」，入寶山切莫空手回，一起來場進擊的學習吧！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/multidisciplinary-resource-top6-learning-website/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Ready? GO!─兩岸醫衛合作已開跑！</title>
+      <link>http://localhost:1313/posts/cross-straits-medical-collaboration/</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cross-straits-medical-collaboration/</guid>
+      <description>最近沸沸揚揚的兩岸服務貿易協定，又再次掀起社會大眾對 ECFA 的質疑巨浪。親愛的讀者們，服貿之外，兩岸合作協定內容也包含醫藥衛生範疇。「醫藥衛生合作」乍聽之下對市井小民的衝擊似乎不大，但是，台灣的醫療技術世界知名，台灣的健保福利獨步全球，撇去健保黑價、醫療崩壞、醫病對立的堪慮未來，我們現在手上握有的醫療產業優勢遠比我們想像的還多。全球對大陸市場的垂涎早不只三尺，但，究竟誰才是俎上肉？【新聞導讀】的專欄作者無法具體回答，卻願意幫你拼湊出心中的答案。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cross-straits-medical-collaboration/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>外派西遊記 on Connectome</title>
+    <link>http://localhost:1313/columns/%E5%A4%96%E6%B4%BE%E8%A5%BF%E9%81%8A%E8%A8%98/</link>
+    <description>Recent content in 外派西遊記 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 09 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/columns/%E5%A4%96%E6%B4%BE%E8%A5%BF%E9%81%8A%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>外派西遊記 - 倫敦取經（二）</title>
+      <link>http://localhost:1313/posts/ernesto-03/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ernesto-03/</guid>
+      <description>&lt;strong&gt;外派到倫敦之後，經歷了許多不適應和挫折，我慢慢靠著尋找生活中與工作中的一些小小成就感，把自己的心態和自信心調回正軌，例如英文的進步，跟同事分享 local market 如何有效率的工作方式等等。「怕什麼，來了就不要讓自己後悔」，每天出門上班前，或是開會之前，我常常這樣對著自己精神喊話。&lt;/strong&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ernesto-03/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>外派西遊記 - 倫敦取經（一）</title>
+      <link>http://localhost:1313/posts/ernesto-02/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ernesto-02/</guid>
+      <description>&lt;strong&gt;在確定要去倫敦工作之後，我的心情是既期待又怕受傷害，到總公司工作，好像是一種美夢成真的感覺，在剛進公司做業務代表的時候想都沒想過會發生的事；但另一方面，卻又害怕英文表達能力不夠好，突然要在全英文的環境下工作，會不會被同事看不起？&lt;/strong&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ernesto-02/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>外派西遊記 - 衝破五指山</title>
+      <link>http://localhost:1313/posts/ernesto-01/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ernesto-01/</guid>
+      <description>其實一直想好好的紀錄之前被外派到倫敦的點點滴滴，但因為這段時間人生以超英趕美的速度前進著。這一年多，經歷求婚、結婚、父親去世、以及倫敦外派結束後到上海工作，一直都沒有心思好好靜下來回想這個奇幻的旅程。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ernesto-01/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

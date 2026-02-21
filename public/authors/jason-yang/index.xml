@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason-Yang on Connectome</title>
+    <link>http://localhost:1313/authors/jason-yang/</link>
+    <description>Recent content in Jason-Yang on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 16 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/jason-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>從椰林大道到第五大道之我見我聞</title>
+      <link>http://localhost:1313/posts/coconut-grove-fifth-avenue-information/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coconut-grove-fifth-avenue-information/</guid>
+      <description>為什麼很多人都想要出國工作？出國工作是不是前途發展的必要？要加強自己的哪些能力才是有幫助的？對於顧問業的工作內容很多人有想像，相信大家都會好奇顧問的執業內容是如何，Connectome本次邀請到現任職於全球知名管理顧問公司 IMS Consulting Group的Jason Yang為大家進行經驗分享，在會中以互動式問答及腦力激盪的方式，希望讓大家深刻瞭解在國外工作的本質與利基。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coconut-grove-fifth-avenue-information/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

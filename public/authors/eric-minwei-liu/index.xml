@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric minwei Liu on Connectome</title>
+    <link>http://localhost:1313/authors/eric-minwei-liu/</link>
+    <description>Recent content in Eric minwei Liu on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 02 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/eric-minwei-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>台灣微脂體研發與營運概述</title>
+      <link>http://localhost:1313/posts/tlc-taiwan-liposome-company-rd-opertations/</link>
+      <pubDate>Sat, 02 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tlc-taiwan-liposome-company-rd-opertations/</guid>
+      <description>&lt;a href=&#34;http://www.tlcbio.com/ch/&#34; title=&#34;前往台灣微脂體公司網站&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span style=&#34;color:rgb(0, 0, 0)&#34;&gt;台灣微脂體公司&lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;color:rgb(0, 0, 0)&#34;&gt; (Taiwan Liposome Company) 是一家專注於微脂體藥物釋放技術的公司，創立於 1997 年，目前有著適合於不同市場的各式產品線，而公司目標是著重在歐美和泛太平洋的亞洲市場。台灣微脂體在研發以及科技創新上已經獲得許多的獎項，在 BioSpectrumAsia 所做的採訪中，曾獲得中華民國經濟部傑出青年創新獎項 (outstanding young innovator) 的台灣微脂體總經理葉志鴻，分享了關於公司未來的海外市場擴張計畫。&lt;/span&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tlc-taiwan-liposome-company-rd-opertations/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>當邊界被跨越─亞洲生技業該如何因應</title>
+      <link>http://localhost:1313/posts/asiabiotech-response/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/asiabiotech-response/</guid>
+      <description>在上一&lt;a href=&#34;http://localhost:1313/posts/asiabiotech-challenge/&#34; &gt;篇當邊界被跨越─亞洲生技業面臨的挑戰與問題&lt;/a&gt;中，剖析了因應全球化浪潮，亞洲生技公司必須克服的困難，即技術與人才、法規、投資環境，而本篇文章更進一步的點出政府及企業可採取的方式來實際的增加整體競爭力，對於所有生技領域環節的參與人都是深具啟發性的一篇文章。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/asiabiotech-response/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>當邊界被跨越─亞洲生技業面臨的挑戰與問題</title>
+      <link>http://localhost:1313/posts/asiabiotech-challenge/</link>
+      <pubDate>Tue, 18 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/asiabiotech-challenge/</guid>
+      <description>全球化聽來似乎是已經進行已久的事，然而對於生醫產業卻不見得是這樣，對比資訊產業在全球化 的浪潮中取得長足的進步與發展，亞洲的生醫產業該如何面對全球化的競爭與合作? 而在這當中亞洲國家又存在著什麼樣的利基呢? Connectome 很榮幸的邀請讀者 Eric 為我們翻譯 When Borders Break Down – The new generation of Asian Biotechnology industry此一文章 ( 原文作者為臺灣微脂體總經理 George Yeh)，期待與讀者一起以更宏觀的角度看待此議題。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/asiabiotech-challenge/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

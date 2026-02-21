@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLASH GUY on Connectome</title>
+    <link>http://localhost:1313/authors/slash-guy/</link>
+    <description>Recent content in SLASH GUY on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/slash-guy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我想成為一名藥廠業務- 面試該怎麼準備？</title>
+      <link>http://localhost:1313/posts/slash-guy-preparing-interview/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/slash-guy-preparing-interview/</guid>
+      <description>回想當年剛畢業的時候，SLASH GUY 對於未來的就業也是感到忐忑不安。終於要面對自己的未來，怎麼樣能夠經濟獨立、不用仰賴家裡的資助呢？戒慎恐懼面對人生第一次的面試&amp;hellip;&amp;hellip;。身為過來人，他有甚麼經驗與學弟妹分享呢？</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/slash-guy-preparing-interview/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

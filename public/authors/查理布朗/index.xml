@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>查理布朗 on Connectome</title>
+    <link>http://localhost:1313/authors/%E6%9F%A5%E7%90%86%E5%B8%83%E6%9C%97/</link>
+    <description>Recent content in 查理布朗 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 16 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E6%9F%A5%E7%90%86%E5%B8%83%E6%9C%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」: 統計與生醫科技</title>
+      <link>http://localhost:1313/posts/biotech-x-computer-science-statistics/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-x-computer-science-statistics/</guid>
+      <description>統計學，過去較少受到重視，在後基因體時代它將對未來的產學界帶來什麼？</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-x-computer-science-statistics/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

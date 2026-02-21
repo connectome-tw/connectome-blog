@@ -1,0 +1,17 @@
+{{/* Event meta: date · event_type (clickable tag) — no word count, no reading time */}}
+{{ $context := . }}
+{{ if (reflect.IsMap . ) }}
+  {{ $context = .context }}
+{{ end }}
+
+{{ with $context }}
+  <div class="flex flex-row flex-wrap items-center">
+    {{ partial "meta/date.html" .Date }}
+    {{ with (.GetTerms "event_type") }}
+      {{ range . }}
+        <span class="px-2 text-primary-500">&middot;</span>
+        <a class="relative" href="{{ .RelPermalink }}">{{ partial "badge.html" .LinkTitle }}</a>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

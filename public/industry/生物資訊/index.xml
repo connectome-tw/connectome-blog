@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生物資訊 on Connectome</title>
+    <link>http://localhost:1313/industry/%E7%94%9F%E7%89%A9%E8%B3%87%E8%A8%8A/</link>
+    <description>Recent content in 生物資訊 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 11 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/industry/%E7%94%9F%E7%89%A9%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>找工作；找自己</title>
+      <link>http://localhost:1313/posts/us-job-seeking/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/us-job-seeking/</guid>
+      <description>&lt;strong&gt;找工作其實是找自己。當你懂了自己會什麼、想往哪裡去，工作就找到了。&lt;/strong&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/us-job-seeking/feature.gif" />
+    </item>
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」: 我所參與的人類基因體計畫</title>
+      <link>http://localhost:1313/posts/biotech-human-genome/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-human-genome/</guid>
+      <description>今天來說說人類基因體計畫。2001年是人類基因體（human genome）計畫重要的里程碑，當年科學家發表了人類基因體草圖。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-human-genome/feature.png" />
+    </item>
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」: 統計與生醫科技</title>
+      <link>http://localhost:1313/posts/biotech-x-computer-science-statistics/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-x-computer-science-statistics/</guid>
+      <description>統計學，過去較少受到重視，在後基因體時代它將對未來的產學界帶來什麼？</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-x-computer-science-statistics/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>裘莉與阿湯哥的聖戰─從基因檢測到預防性手術及犯罪預防</title>
+      <link>http://localhost:1313/posts/genetic-test/</link>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/genetic-test/</guid>
+      <description>去年全球熱門頭條 –「安潔莉納裘莉切除雙邊乳房」，相信大家還記憶猶新。她為求能陪伴孩子們多些時光而選擇動手術的舉動，贏得媒體大眾的一片讚賞。這舉動對於好萊塢首席女星的演藝生崖衝擊之大可想而知，但在一片美譽背後，媒體和評論家都忽略了未來人類健康照護的可能隱憂，其中牽涉到人權自由意志和政府監控等議題。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/genetic-test/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「生技與資工的親密關係─跨領域產學見聞」專欄創刊號 : 生物資訊？</title>
+      <link>http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/</guid>
+      <description>隨著人體基因定序的完成與測序技術的日新月異，生物資訊學近幾年可謂蓬勃發展。好像很常聽到生物資訊，但是生物資訊到底都在研究些什麼呢？之前看到一個非常有趣的講法﹝A beginner’s guide to bioinformatics﹞，雖然程度不同，但是只要你做過下列的事情，或許你也可以稱自己為生物資訊人。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/biotech-x-computer-science-bioinformatics/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

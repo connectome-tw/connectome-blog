@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陳瑞國 on Connectome</title>
+    <link>http://localhost:1313/authors/%E9%99%B3%E7%91%9E%E5%9C%8B/</link>
+    <description>Recent content in 陳瑞國 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E9%99%B3%E7%91%9E%E5%9C%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>百瑞精鼎 PAREXEL ─ 行銷分析部門實習經驗分享</title>
+      <link>http://localhost:1313/posts/internship-parexel-marketinganalyst/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/internship-parexel-marketinganalyst/</guid>
+      <description>又到了實習申請的季節了。還是學生的讀者，是不是考慮開始投遞履歷利用暑假空檔到夢想職位親身體驗呢？感謝讀者投稿，本篇與各位讀者分享在 CRO 行銷分析部門實習的心得。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/internship-parexel-marketinganalyst/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

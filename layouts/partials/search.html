@@ -1,0 +1,22 @@
+{{/* Override: Use Pagefind's prebuilt UI instead of Fuse.js */}}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<div
+  id="search-wrapper"
+  class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-[500]"
+  data-url="{{ "" | absLangURL }}">
+  <div
+    id="search-modal"
+    class="flex flex-col w-full max-w-3xl max-h-[85vh] min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800 p-4">
+    <header class="relative z-10 flex-none flex items-center justify-between mb-4">
+      <span class="text-lg font-bold">{{ i18n "search.open_button_title" }}</span>
+      <button
+        id="close-search-button"
+        class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+        title="{{ i18n "search.close_button_title" }}">
+        {{ partial "icon.html" "xmark" }}
+      </button>
+    </header>
+    {{/* Pagefind UI: flex-1 + min-h-0 lets it shrink; overflow-y-auto enables scroll */}}
+    <div id="search" class="flex-1 min-h-0 overflow-y-auto"></div>
+  </div>
+</div>

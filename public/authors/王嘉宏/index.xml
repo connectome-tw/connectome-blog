@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王嘉宏 on Connectome</title>
+    <link>http://localhost:1313/authors/%E7%8E%8B%E5%98%89%E5%AE%8F/</link>
+    <description>Recent content in 王嘉宏 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 22 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%8E%8B%E5%98%89%E5%AE%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>新創公司採訪─綠藤生機</title>
+      <link>http://localhost:1313/posts/entrepreneurship-greenvines/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/entrepreneurship-greenvines/</guid>
+      <description>綠藤生機是台灣第一個開發出「活體芽菜」栽培技術的團隊,創辦人為三位台大財金系同窗鄭涵睿、廖怡雯和許偉哲於2010年相繼放棄外商銀行與消費品公司的工作,在台大園藝系教授鄭正勇與林碧霞的協助下共同創辦,只因為懷抱著一個「想讓生活變得更美好」的理想及做一個對社會負責任的品牌。Connectome 聚焦於其創業的故事,訪問共同創辦人之一的廖怡雯,希望綠藤生機成功創業的故事能感動並啟發更多的新創團隊,為台灣的生技業注入更多的活水！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/entrepreneurship-greenvines/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>跨領域學習資源分享─中文線上大學開放課程</title>
+      <link>http://localhost:1313/posts/multidisciplinary-resource-online-course-chinese/</link>
+      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/multidisciplinary-resource-online-course-chinese/</guid>
+      <description>線上課程對於跨領域的學習者是個非常好的選擇，不論是需要先修一點基礎課程或者鑽研某些進階課程，都是方便且經濟實惠的自學途徑。Connectome 本期跨領域學習資源分享就要來介紹中文的線上免費大學開放課程，滿足您隨時隨地、隨心所欲學習的需求！別再拿麻煩、沒時間和貴鬆鬆當藉口了，Keep calm and study hard，讓我們再一起用力學習吧！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/multidisciplinary-resource-online-course-chinese/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2nd Boot Camp 專訪─擬開發山藥萃取物成為美國 FDA 定義之醫療食品</title>
+      <link>http://localhost:1313/posts/2nd-ascent-boot-camp-yam-extract/</link>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2nd-ascent-boot-camp-yam-extract/</guid>
+      <description>傳統的中藥遇上新穎的科技，會產生什麼樣的火花？中草藥不管對於疾病或強身都有諸多助益的經驗，用於開發新藥或是發展保健食品也是一種中草藥現在化之選擇。除此之外，還有其他的路嗎？來自中研院楊寧蓀老師實驗室的團隊正開啟了一條與眾不同的道路，也許這就是發揚中國人古老智慧的好方法。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2nd-ascent-boot-camp-yam-extract/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

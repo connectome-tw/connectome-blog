@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun-Han Su on Connectome</title>
+    <link>http://localhost:1313/authors/jun-han-su/</link>
+    <description>Recent content in Jun-Han Su on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 13 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/jun-han-su/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>「吃炸魚薯條的日子：劍橋生技見聞」專欄─人才培育的重要性</title>
+      <link>http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu-cultivation/</link>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu-cultivation/</guid>
+      <description>如同前篇所說，要形成完整的生技產業聚落，除了技術、資金等要素，其中一個重要的成分就是豐沛且多元的人才庫，例如優質的技術、管理、智財…等人才。然而由於生技產業的技術門檻高，參與其中的人最好應具備一些相關知識背景，才能合作得宜。劍橋大學有鑒於這種產業發展需求，自2001年起開始透過正式課程以及相關活動催生各式各樣具有生物科技背景的專業人才。本文將以作者這一年的經驗為基礎，介紹劍橋大學生物科學企業碩士 (Master’s in Bioscience Enterprise, MBE) 的課程內容以及相關活動。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu-cultivation/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「吃炸魚薯條的日子：劍橋生技見聞」專欄─劍橋現象的形成要素</title>
+      <link>http://localhost:1313/posts/cambridge-biotech-fishnchips-infrastructure/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cambridge-biotech-fishnchips-infrastructure/</guid>
+      <description>筆者在寫這篇文章的同時，台灣生技股表現正如日中天。投資人對生技產業看好，願意挹注資金固然是生技公司的一大機會，然而，一個產業要能永續發展必須要有許多要素同時配合，若無法同時打下堅實的產業基礎，短期的投資熱潮不全然對生技產業是好事。本期開始將針對劍橋聚落在過去半個世紀得以發展的成功要素進行一系列的探討，更期望各位先進給予指教。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cambridge-biotech-fishnchips-infrastructure/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「吃炸魚薯條的日子：劍橋生技見聞」專欄─劍橋科技聚落的概述</title>
+      <link>http://localhost:1313/posts/fishnchips-cambridge-biotech-cluster/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fishnchips-cambridge-biotech-cluster/</guid>
+      <description>劍橋市 (Cambridge) 座落於英格蘭東方，是一個人口約12萬的中小型城市，劍橋大學即位於城市的核心。雖然人口僅佔英國整體的0.2%，人均專利產出卻比所有其他英國城市的總和還高，儼然就是英國的科技研發重鎮。​</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fishnchips-cambridge-biotech-cluster/feature.png" />
+    </item>
+    
+    <item>
+      <title>「吃炸魚薯條的日子：劍橋生技見聞」專欄創刊號</title>
+      <link>http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu/</guid>
+      <description>&amp;lt;蘇俊翰專欄&amp;gt;本專欄將記錄作者於英國劍橋大學攻讀生物科學企業碩士其間的所見所聞，佐以美國、歐洲和新興市場的生技產業發展情形，提供讀者生物科技、醫藥，照護、醫材乃至農業科技產業更開闊的全球視野。同時，本專欄將不定期摘錄服務於生技產業的資深產、官、學界的前輩，對特定議題做更深入的探討並且分享職涯心得與經驗。然而由於作者在生技領域仍屬後生晚輩，文章觀察和見解若有偏頗或失真之處，還請各位前輩們多多給予指教。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cambridge-biotech-fishnchips-1-jun-hansu/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connect 吧 on Connectome</title>
+    <link>http://localhost:1313/connectbar/</link>
+    <description>Recent content in Connect 吧 on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 24 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/connectbar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>實習分享計畫</title>
+      <link>http://localhost:1313/connectbar/intership-sharing-recruit/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/intership-sharing-recruit/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/intership-sharing-recruit/feature.png" />
+    </item>
+    
+    <item>
+      <title>生技產業薪資分享</title>
+      <link>http://localhost:1313/connectbar/salary-sharing-recruit/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/salary-sharing-recruit/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/salary-sharing-recruit/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Connectome 海外連結計畫</title>
+      <link>http://localhost:1313/connectbar/oversea-connection-sharing-recruit/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/oversea-connection-sharing-recruit/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/oversea-connection-sharing-recruit/feature.png" />
+    </item>
+    
+    <item>
+      <title>原料藥廠</title>
+      <link>http://localhost:1313/connectbar/api/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/api/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/api/feature.png" />
+    </item>
+    
+    <item>
+      <title>本土藥廠</title>
+      <link>http://localhost:1313/connectbar/local-pharma/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/local-pharma/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/local-pharma/feature.png" />
+    </item>
+    
+    <item>
+      <title>外商藥廠</title>
+      <link>http://localhost:1313/connectbar/foreign-pharma/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/foreign-pharma/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/foreign-pharma/feature.png" />
+    </item>
+    
+    <item>
+      <title>醫藥物流業</title>
+      <link>http://localhost:1313/connectbar/medical-logistics/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/medical-logistics/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/medical-logistics/feature.png" />
+    </item>
+    
+    <item>
+      <title>保健食品廠商</title>
+      <link>http://localhost:1313/connectbar/health-food-companies/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/health-food-companies/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/health-food-companies/feature.png" />
+    </item>
+    
+    <item>
+      <title>臨床試驗</title>
+      <link>http://localhost:1313/connectbar/clinical-trial/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/clinical-trial/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/clinical-trial/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>醫療器材</title>
+      <link>http://localhost:1313/connectbar/medical-device/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/medical-device/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/medical-device/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>研發型生技新藥</title>
+      <link>http://localhost:1313/connectbar/rd-biotech/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/rd-biotech/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/rd-biotech/feature.png" />
+    </item>
+    
+    <item>
+      <title>Connectome 菁英育成計畫</title>
+      <link>http://localhost:1313/connectbar/connectome-elite-breeding/</link>
+      <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/connectbar/connectome-elite-breeding/</guid>
+      <description>回首去年甫創立 Connectome 時，不斷吸收新知且大量接觸前輩，在懵懂中，力求突破的歷程。今日的我們藉著資訊流通平台，傳遞最新、最好的生技訊息給大眾，更相信 Connectome 能主動出擊，為生技產業人才培育創造更多成效！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/connectome-elite-breeding/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

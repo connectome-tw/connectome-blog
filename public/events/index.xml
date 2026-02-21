@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Connectome</title>
+    <link>http://localhost:1313/events/</link>
+    <description>Recent content in Events on Connectome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>【藥遷你的視野#2】溝通力工作坊：剛與柔的對話</title>
+      <link>http://localhost:1313/events/pham171209/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/pham171209/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/pham171209/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>生技產業職涯講座：BioLegend 執行長 賴正光(Gene Lay)</title>
+      <link>http://localhost:1313/events/biogroup1123/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biogroup1123/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biogroup1123/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>微生物永續利用國際研討會暨第十四屆亞洲菌種聯盟會議</title>
+      <link>http://localhost:1313/events/acm14-firdi-bcrc/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/acm14-firdi-bcrc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/acm14-firdi-bcrc/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2017 Season 4 Bio-Startup 生技新創交流會</title>
+      <link>http://localhost:1313/events/biobdgroup171208/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biobdgroup171208/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biobdgroup171208/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>【藥遷你的視野#1】表達力工作坊：力與美的結合</title>
+      <link>http://localhost:1313/events/pharmmixperience-event-1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/pharmmixperience-event-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bio-Startup MBA program</title>
+      <link>http://localhost:1313/events/bio-startup-mba/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/bio-startup-mba/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>數位健康新時尚 - 一同前進智慧健康論壇</title>
+      <link>http://localhost:1313/events/tss20170823/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/tss20170823/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/tss20170823/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>eCTD 電子查驗送件最佳規範實例與簡介</title>
+      <link>http://localhost:1313/events/ectd-gga/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ectd-gga/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ectd-gga/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>真人圖書館-生技職人傳承經驗 青年職涯再升級</title>
+      <link>http://localhost:1313/events/trpma170701/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/trpma170701/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/trpma170701/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ValGenesis確效生命週期管理：合規藥廠實現無紙化確效之最佳解決方案</title>
+      <link>http://localhost:1313/events/biotaiwanexhibitiongga/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biotaiwanexhibitiongga/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biotaiwanexhibitiongga/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>GSK 校園徵才說明會</title>
+      <link>http://localhost:1313/events/dreamer170605/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dreamer170605/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamer170605/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>BioXers’ Networking 2 生醫跨客交流週末</title>
+      <link>http://localhost:1313/events/bioxer170520/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/bioxer170520/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bioxer170520/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>國際數位醫療新創展</title>
+      <link>http://localhost:1313/events/garageplus170602/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/garageplus170602/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/garageplus170602/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Merck Sharp &amp;amp; Dohme 默沙東藥廠徵才說明會</title>
+      <link>http://localhost:1313/events/dreamers170517/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dreamers170517/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamers170517/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>生技．設計松</title>
+      <link>http://localhost:1313/events/cycu170603/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/cycu170603/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/cycu170603/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>HTC 未來醫療實習生招募計畫 2017</title>
+      <link>http://localhost:1313/events/htchealthcareintern/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/htchealthcareintern/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/htchealthcareintern/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>國際大師論壇&amp;lt;&amp;lt;Digital Health: from Hospital to Home&amp;gt;&amp;gt;</title>
+      <link>http://localhost:1313/events/bit2010505/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/bit2010505/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bit2010505/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>【美敦力•徵的就是你】校園徵才說明會</title>
+      <link>http://localhost:1313/events/2017dreamerscampusrecruitment/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/2017dreamerscampusrecruitment/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/2017dreamerscampusrecruitment/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2017 中央研究院 生醫暨化學人才就業博覽會</title>
+      <link>http://localhost:1313/events/2017biomedicalchemicalcareerfair/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/2017biomedicalchemicalcareerfair/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/2017biomedicalchemicalcareerfair/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>徵的就是你 ● 百靈佳徵才說明會</title>
+      <link>http://localhost:1313/events/dremaer170323/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dremaer170323/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dremaer170323/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「醫藥開發營運自由暨智財協同機制」研討會</title>
+      <link>http://localhost:1313/events/wispro170317/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/wispro170317/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/wispro170317/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2017藥品和醫療器材法規科學與創新國際研討會</title>
+      <link>http://localhost:1313/events/fidmd/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/fidmd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/fidmd/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2017春 YouTube&amp;amp; Facebook 日本職涯線上直播</title>
+      <link>http://localhost:1313/events/netxtokyouwij20170305/</link>
+      <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/netxtokyouwij20170305/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/netxtokyouwij20170305/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>BioPhalanx 生技研發論壇</title>
+      <link>http://localhost:1313/events/biophalanx-2nd/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biophalanx-2nd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biophalanx-2nd/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2017年臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程</title>
+      <link>http://localhost:1313/events/dcb17021819/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dcb17021819/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb17021819/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Prestige Project IV 生技製藥的資本市場</title>
+      <link>http://localhost:1313/events/prestige161224/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/prestige161224/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161224/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>政大x陽明科技法律工作坊</title>
+      <link>http://localhost:1313/events/ncculawnymutech2017/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ncculawnymutech2017/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ncculawnymutech2017/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>臨床研究專員(Clinical Research Associate, CRA)  專業實務課程及工作坊</title>
+      <link>http://localhost:1313/events/dcb16121718/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dcb16121718/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb16121718/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016 第二場投資人論壇～生技醫藥領域下一波投資風口</title>
+      <link>http://localhost:1313/events/moeasmea161104/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/moeasmea161104/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/moeasmea161104/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>​聚焦亞太新興市場-生醫產業商機分享論壇</title>
+      <link>http://localhost:1313/events/ntut161021/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ntut161021/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntut161021/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>NTU Prestige Project II R&amp;amp;D：研發部門藥做什麼?</title>
+      <link>http://localhost:1313/events/prestige161013/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/prestige161013/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161013/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>NTU Prestige project I 醫藥代表價值、任務與客戶關係</title>
+      <link>http://localhost:1313/events/prestige161005/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/prestige161005/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161005/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016 成大國際生醫工程研討會</title>
+      <link>http://localhost:1313/events/bees161005/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/bees161005/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bees161005/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「製造於以色列」的台灣創業家: 與伊勒伯創辦人兼執行長熊樂昌博士的對談</title>
+      <link>http://localhost:1313/events/si2c160907/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/si2c160907/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/si2c160907/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ISO 13485:2016 品質管理系統 內部稽核員訓練課程</title>
+      <link>http://localhost:1313/events/ntut0901/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ntut0901/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntut0901/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程</title>
+      <link>http://localhost:1313/events/dcb16100102/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dcb16100102/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb16100102/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>生醫跨界大冒險-闖入M.I.T. Sloan的醫生日記</title>
+      <link>http://localhost:1313/events/hitforasia160907/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/hitforasia160907/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/hitforasia160907/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>尋找創投：創業者與創投的共生關係</title>
+      <link>http://localhost:1313/events/si2c160823/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/si2c160823/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/si2c160823/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>TRPMA 2016大陸醫藥品管理新制與兩岸合作戰略論壇</title>
+      <link>http://localhost:1313/events/trpma16082223/</link>
+      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/trpma16082223/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/trpma16082223/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016 高階醫材研發技術平台暨商機論壇</title>
+      <link>http://localhost:1313/events/ntutvisit160810/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ntutvisit160810/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntutvisit160810/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「銀髮長照x智慧醫療」黑客松 ＝AIM高齡長照工作坊</title>
+      <link>http://localhost:1313/events/aim160625/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/aim160625/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/aim160625/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016 台灣生技月</title>
+      <link>http://localhost:1313/events/biotaiwan2016/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biotaiwan2016/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biotaiwan2016/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016 台灣生醫暨新農業產業選秀大賽</title>
+      <link>http://localhost:1313/events/epoch16/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/epoch16/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/epoch16/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>智慧財產創新服務暨實戰經驗分享</title>
+      <link>http://localhost:1313/events/idb160516/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/idb160516/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/idb160516/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>醫學尬工程 蹦出新智慧</title>
+      <link>http://localhost:1313/events/aim160506/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/aim160506/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/aim160506/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>MedInno Salon-VR醫療新創之路</title>
+      <link>http://localhost:1313/events/medinnocatalyst160507/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/medinnocatalyst160507/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/medinnocatalyst160507/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Prestige Project V 醫藥學術專員 (MSL) - 醫藥學術簡報系列課程</title>
+      <link>http://localhost:1313/events/prestige1605/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/prestige1605/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige1605/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2016年 第五屆「青少年醫學研習營」</title>
+      <link>http://localhost:1313/events/adolescent-medicine-camp/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/adolescent-medicine-camp/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/adolescent-medicine-camp/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>「台灣生技原創力」投資創業講座：第 21 場活動</title>
+      <link>http://localhost:1313/events/stpinarl160407/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/stpinarl160407/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/stpinarl160407/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>經營自己、創造價值: 關於培養自我價值與職場素養的思辨</title>
+      <link>http://localhost:1313/events/prestige160331/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/prestige160331/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige160331/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>[北醫DREAMERS徵才系列] 百瑞精鼎-我的徵才時代</title>
+      <link>http://localhost:1313/events/dreamers160328/</link>
+      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/dreamers160328/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamers160328/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>MEDxLIVE 2016 Course</title>
+      <link>http://localhost:1313/events/ntulivecourse16/</link>
+      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/ntulivecourse16/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntulivecourse16/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>夏日狂潮 -- 生技醫藥材產業 Networking Party 暨交流晚會</title>
+      <link>http://localhost:1313/events/tmu160324/</link>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/tmu160324/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/tmu160324/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>創新醫材公司經驗與創新醫材趨勢演講會</title>
+      <link>http://localhost:1313/events/biopharm150119/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/biopharm150119/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biopharm150119/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
