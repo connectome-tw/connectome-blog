@@ -1,553 +1,501 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>協同宣傳 on Connectome</title>
-    <link>http://localhost:1313/event_type/%E5%8D%94%E5%90%8C%E5%AE%A3%E5%82%B3/</link>
-    <description>Recent content in 協同宣傳 on Connectome</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/event_type/%E5%8D%94%E5%90%8C%E5%AE%A3%E5%82%B3/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>【藥遷你的視野#2】溝通力工作坊：剛與柔的對話</title>
-      <link>http://localhost:1313/events/pham171209/</link>
-      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/pham171209/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/pham171209/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>生技產業職涯講座：BioLegend 執行長 賴正光(Gene Lay)</title>
-      <link>http://localhost:1313/events/biogroup1123/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biogroup1123/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biogroup1123/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>微生物永續利用國際研討會暨第十四屆亞洲菌種聯盟會議</title>
-      <link>http://localhost:1313/events/acm14-firdi-bcrc/</link>
-      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/acm14-firdi-bcrc/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/acm14-firdi-bcrc/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2017 Season 4 Bio-Startup 生技新創交流會</title>
-      <link>http://localhost:1313/events/biobdgroup171208/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biobdgroup171208/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biobdgroup171208/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>【藥遷你的視野#1】表達力工作坊：力與美的結合</title>
-      <link>http://localhost:1313/events/pharmmixperience-event-1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/pharmmixperience-event-1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bio-Startup MBA program</title>
-      <link>http://localhost:1313/events/bio-startup-mba/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/bio-startup-mba/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>數位健康新時尚 - 一同前進智慧健康論壇</title>
-      <link>http://localhost:1313/events/tss20170823/</link>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/tss20170823/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/tss20170823/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>eCTD 電子查驗送件最佳規範實例與簡介</title>
-      <link>http://localhost:1313/events/ectd-gga/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ectd-gga/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ectd-gga/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>真人圖書館-生技職人傳承經驗 青年職涯再升級</title>
-      <link>http://localhost:1313/events/trpma170701/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/trpma170701/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/trpma170701/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ValGenesis確效生命週期管理：合規藥廠實現無紙化確效之最佳解決方案</title>
-      <link>http://localhost:1313/events/biotaiwanexhibitiongga/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biotaiwanexhibitiongga/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biotaiwanexhibitiongga/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>GSK 校園徵才說明會</title>
-      <link>http://localhost:1313/events/dreamer170605/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dreamer170605/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamer170605/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>BioXers’ Networking 2 生醫跨客交流週末</title>
-      <link>http://localhost:1313/events/bioxer170520/</link>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/bioxer170520/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bioxer170520/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>國際數位醫療新創展</title>
-      <link>http://localhost:1313/events/garageplus170602/</link>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/garageplus170602/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/garageplus170602/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Merck Sharp &amp;amp; Dohme 默沙東藥廠徵才說明會</title>
-      <link>http://localhost:1313/events/dreamers170517/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dreamers170517/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamers170517/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>生技．設計松</title>
-      <link>http://localhost:1313/events/cycu170603/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/cycu170603/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/cycu170603/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>HTC 未來醫療實習生招募計畫 2017</title>
-      <link>http://localhost:1313/events/htchealthcareintern/</link>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/htchealthcareintern/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/htchealthcareintern/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>國際大師論壇&amp;lt;&amp;lt;Digital Health: from Hospital to Home&amp;gt;&amp;gt;</title>
-      <link>http://localhost:1313/events/bit2010505/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/bit2010505/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bit2010505/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>【美敦力•徵的就是你】校園徵才說明會</title>
-      <link>http://localhost:1313/events/2017dreamerscampusrecruitment/</link>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/2017dreamerscampusrecruitment/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/2017dreamerscampusrecruitment/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2017 中央研究院 生醫暨化學人才就業博覽會</title>
-      <link>http://localhost:1313/events/2017biomedicalchemicalcareerfair/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/2017biomedicalchemicalcareerfair/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/2017biomedicalchemicalcareerfair/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>徵的就是你 ● 百靈佳徵才說明會</title>
-      <link>http://localhost:1313/events/dremaer170323/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dremaer170323/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dremaer170323/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>「醫藥開發營運自由暨智財協同機制」研討會</title>
-      <link>http://localhost:1313/events/wispro170317/</link>
-      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/wispro170317/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/wispro170317/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2017藥品和醫療器材法規科學與創新國際研討會</title>
-      <link>http://localhost:1313/events/fidmd/</link>
-      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/fidmd/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/fidmd/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2017春 YouTube&amp;amp; Facebook 日本職涯線上直播</title>
-      <link>http://localhost:1313/events/netxtokyouwij20170305/</link>
-      <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/netxtokyouwij20170305/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/netxtokyouwij20170305/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>BioPhalanx 生技研發論壇</title>
-      <link>http://localhost:1313/events/biophalanx-2nd/</link>
-      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biophalanx-2nd/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biophalanx-2nd/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2017年臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程</title>
-      <link>http://localhost:1313/events/dcb17021819/</link>
-      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dcb17021819/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb17021819/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Prestige Project IV 生技製藥的資本市場</title>
-      <link>http://localhost:1313/events/prestige161224/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/prestige161224/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161224/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>政大x陽明科技法律工作坊</title>
-      <link>http://localhost:1313/events/ncculawnymutech2017/</link>
-      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ncculawnymutech2017/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ncculawnymutech2017/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>臨床研究專員(Clinical Research Associate, CRA)  專業實務課程及工作坊</title>
-      <link>http://localhost:1313/events/dcb16121718/</link>
-      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dcb16121718/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb16121718/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016 第二場投資人論壇～生技醫藥領域下一波投資風口</title>
-      <link>http://localhost:1313/events/moeasmea161104/</link>
-      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/moeasmea161104/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/moeasmea161104/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>​聚焦亞太新興市場-生醫產業商機分享論壇</title>
-      <link>http://localhost:1313/events/ntut161021/</link>
-      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ntut161021/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntut161021/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>NTU Prestige Project II R&amp;amp;D：研發部門藥做什麼?</title>
-      <link>http://localhost:1313/events/prestige161013/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/prestige161013/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161013/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>NTU Prestige project I 醫藥代表價值、任務與客戶關係</title>
-      <link>http://localhost:1313/events/prestige161005/</link>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/prestige161005/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige161005/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016 成大國際生醫工程研討會</title>
-      <link>http://localhost:1313/events/bees161005/</link>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/bees161005/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/bees161005/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>「製造於以色列」的台灣創業家: 與伊勒伯創辦人兼執行長熊樂昌博士的對談</title>
-      <link>http://localhost:1313/events/si2c160907/</link>
-      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/si2c160907/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/si2c160907/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ISO 13485:2016 品質管理系統 內部稽核員訓練課程</title>
-      <link>http://localhost:1313/events/ntut0901/</link>
-      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ntut0901/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntut0901/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程</title>
-      <link>http://localhost:1313/events/dcb16100102/</link>
-      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dcb16100102/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dcb16100102/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>生醫跨界大冒險-闖入M.I.T. Sloan的醫生日記</title>
-      <link>http://localhost:1313/events/hitforasia160907/</link>
-      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/hitforasia160907/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/hitforasia160907/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>尋找創投：創業者與創投的共生關係</title>
-      <link>http://localhost:1313/events/si2c160823/</link>
-      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/si2c160823/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/si2c160823/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>TRPMA 2016大陸醫藥品管理新制與兩岸合作戰略論壇</title>
-      <link>http://localhost:1313/events/trpma16082223/</link>
-      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/trpma16082223/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/trpma16082223/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016 高階醫材研發技術平台暨商機論壇</title>
-      <link>http://localhost:1313/events/ntutvisit160810/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ntutvisit160810/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntutvisit160810/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>「銀髮長照x智慧醫療」黑客松 ＝AIM高齡長照工作坊</title>
-      <link>http://localhost:1313/events/aim160625/</link>
-      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/aim160625/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/aim160625/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016 台灣生技月</title>
-      <link>http://localhost:1313/events/biotaiwan2016/</link>
-      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biotaiwan2016/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biotaiwan2016/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016 台灣生醫暨新農業產業選秀大賽</title>
-      <link>http://localhost:1313/events/epoch16/</link>
-      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/epoch16/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/epoch16/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>智慧財產創新服務暨實戰經驗分享</title>
-      <link>http://localhost:1313/events/idb160516/</link>
-      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/idb160516/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/idb160516/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>醫學尬工程 蹦出新智慧</title>
-      <link>http://localhost:1313/events/aim160506/</link>
-      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/aim160506/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/aim160506/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>MedInno Salon-VR醫療新創之路</title>
-      <link>http://localhost:1313/events/medinnocatalyst160507/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/medinnocatalyst160507/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/medinnocatalyst160507/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Prestige Project V 醫藥學術專員 (MSL) - 醫藥學術簡報系列課程</title>
-      <link>http://localhost:1313/events/prestige1605/</link>
-      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/prestige1605/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige1605/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>2016年 第五屆「青少年醫學研習營」</title>
-      <link>http://localhost:1313/events/adolescent-medicine-camp/</link>
-      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/adolescent-medicine-camp/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/adolescent-medicine-camp/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>「台灣生技原創力」投資創業講座：第 21 場活動</title>
-      <link>http://localhost:1313/events/stpinarl160407/</link>
-      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/stpinarl160407/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/stpinarl160407/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>經營自己、創造價值: 關於培養自我價值與職場素養的思辨</title>
-      <link>http://localhost:1313/events/prestige160331/</link>
-      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/prestige160331/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/prestige160331/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>[北醫DREAMERS徵才系列] 百瑞精鼎-我的徵才時代</title>
-      <link>http://localhost:1313/events/dreamers160328/</link>
-      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/dreamers160328/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/dreamers160328/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>MEDxLIVE 2016 Course</title>
-      <link>http://localhost:1313/events/ntulivecourse16/</link>
-      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/ntulivecourse16/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/ntulivecourse16/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>夏日狂潮 -- 生技醫藥材產業 Networking Party 暨交流晚會</title>
-      <link>http://localhost:1313/events/tmu160324/</link>
-      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/tmu160324/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/tmu160324/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>創新醫材公司經驗與創新醫材趨勢演講會</title>
-      <link>http://localhost:1313/events/biopharm150119/</link>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/biopharm150119/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/biopharm150119/feature.jpg" />
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>協同宣傳 on Connectome</title><link>https://connectome.tw/event_type/%E5%8D%94%E5%90%8C%E5%AE%A3%E5%82%B3/</link><description>Recent content in 協同宣傳 on Connectome</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2026</copyright><lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://connectome.tw/event_type/%E5%8D%94%E5%90%8C%E5%AE%A3%E5%82%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>【藥遷你的視野#2】溝通力工作坊：剛與柔的對話</title><link>https://connectome.tw/events/pham171209/</link><pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/pham171209/</guid><description>&lt;p&gt;邀請「假博獅」粉專小編的黃峙銘學長，教你醫藥行銷的成功法則。&lt;br&gt;
+以及博晟生醫公司副總經理的蕭嘉玲學姊，分享學名藥審查登記的審查概念！&lt;/p&gt;
+&lt;p&gt;無論你是學生，想了解平時學校不會教到的醫藥行銷，或是職場新鮮人，對於藥廠與相關領域有興趣，又或者是因講師慕名而來的粉絲，想與講師做交流，都歡迎大家成為工作坊的一員，一同見識不一樣的藥學領域！！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;時間&lt;/strong&gt;│12/09 (六) 1300-1700&lt;br&gt;
+&lt;strong&gt;地點&lt;/strong&gt;│臺北醫學大學&lt;br&gt;
+&lt;strong&gt;對象&lt;/strong&gt;│不限&lt;br&gt;
+&lt;strong&gt;費用&lt;/strong&gt;│社會人士600元；學生450元&lt;br&gt;
+&lt;strong&gt;早鳥優惠&lt;/strong&gt;│11/30(四)前報名，社會人士400元；學生300元！！&lt;br&gt;
+&lt;strong&gt;報名網址&lt;/strong&gt;│&lt;a href="https://www.surveycake.com/s/pVN3R" target="_blank" rel="noreferrer"&gt;https://www.surveycake.com/s/pVN3R​&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;匯款資訊&lt;/strong&gt;│請在報名後的&lt;strong&gt;三日內&lt;/strong&gt;匯款至以下帳戶，並於匯款完成後於以下網址進行後5碼的回報，以方便對帳，謝謝&lt;br&gt;
+匯款銀行：合作金庫銀行&lt;br&gt;
+銀行代碼：006&lt;br&gt;
+帳號：1405872136341&lt;br&gt;
+匯款回報網址：&lt;a href="https://www.surveycake.com/s/Dp94O" target="_blank" rel="noreferrer"&gt;https://www.surveycake.com/s/Dp94O&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/pham171209/feature.jpg"/></item><item><title>生技產業職涯講座：BioLegend 執行長 賴正光(Gene Lay)</title><link>https://connectome.tw/events/biogroup1123/</link><pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biogroup1123/</guid><description>&lt;p&gt;生技產業職涯講座：BioLegend執行長 賴正光(Gene Lay)&lt;/p&gt;
+&lt;p&gt;主講人賴正光（Gene Lay, M.S., D.V.M.）為BioLegend（百進生技股份有限公司）執行長暨創辦人，獲頒2016年傑出企業家獎EY Entrepreneur of The Year 2016，且是生命科學領域的唯一獲獎人。&lt;br&gt;
+賴執行長所創立的BioLegend 致力於免疫產品的研發，是全球第二大抗體試劑供應商，且第一大的Becton Dickinson (BD) 亦收購他早期共同創立的公司PharMingen，在免疫學界扮演舉足輕重的要角。&lt;br&gt;
+在本次演講中，賴執行長將以免疫抗體為題，分享他創辦 PharMingen 及 BioLegend 企業的心路歷程，歡迎對生命科學與生物技術創業有興趣的聽眾到場聽講。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biogroup1123/feature.jpg"/></item><item><title>微生物永續利用國際研討會暨第十四屆亞洲菌種聯盟會議</title><link>https://connectome.tw/events/acm14-firdi-bcrc/</link><pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/acm14-firdi-bcrc/</guid><description>&lt;p&gt;微生物永續利用國際研討會 暨 第十四屆亞洲菌種聯盟會議&lt;br&gt;
+International Microbial Sustainable Use Conference&lt;br&gt;
+The 14th Asian Consortium for the Conservation and Sustainable Use of Microbial Resources&lt;/p&gt;
+&lt;p&gt;財團法人食品工業發展研究所僅訂於2017年12月4日(一)，假台大醫學院國際會議中心101廳，舉辦「微生物永續利用國際研討會暨第十四屆亞洲菌種聯盟會議」。&lt;br&gt;
+機會難得，歡迎各界踴躍報名參加，名額有限，敬請把握 !&lt;/p&gt;
+&lt;p&gt;時間：2017年12月4日 (星期一) 上午8時至下午5時30分 (08:00-09:00報到)&lt;/p&gt;
+&lt;p&gt;地點：台大醫院國際會議中心101廳 (台北市中正區徐州路2號)&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/acm14-firdi-bcrc/feature.jpg"/></item><item><title>2017 Season 4 Bio-Startup 生技新創交流會</title><link>https://connectome.tw/events/biobdgroup171208/</link><pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biobdgroup171208/</guid><description>&lt;p&gt;目前生技圈內,缺乏實戰經驗是產業發展的&amp;quot;痛點&amp;quot;,我們希望藉由我們成功的生技業界經驗,協助想要創業或圓夢的朋友們,一起為台灣生技圈共創美好未來。&lt;/p&gt;
+&lt;p&gt;貴團隊欠缺有經驗的生技行銷團隊嗎？&lt;/p&gt;
+&lt;p&gt;貴團隊想能夠快速商品化嗎？&lt;br&gt;
+貴團隊想營運擴張嗎？&lt;/p&gt;
+&lt;p&gt;歡迎來與我們交流！&lt;/p&gt;
+&lt;p&gt;活動日期：2017.12.08 (五) pm8:00-9:00&lt;br&gt;
+活動地點：台灣大學生機系知武館高坂知武會議室(4F)&lt;br&gt;
+交流會報名：&lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FrdaNgz&amp;amp;h=ATNkte5cQx2D7wF2n5orcIlNNxqUBGbgyw0e1Manl_DCWhBh47QnJ4B4viCxYe3gCUqOdzTg5-JAAA1Ok-kxt1NQck4L93OkLN2MoXlf0tjH0hmEd8MHzGC37gHafFIBPDuP5abP38wHkg" target="_blank" rel="noreferrer"&gt;https://goo.gl/rdaNgz&lt;/a&gt;&lt;br&gt;
+主辦單位：BIOBDGROUP生技顧問公司  &lt;a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fbiobdgroup.com%2F&amp;amp;h=ATNkte5cQx2D7wF2n5orcIlNNxqUBGbgyw0e1Manl_DCWhBh47QnJ4B4viCxYe3gCUqOdzTg5-JAAA1Ok-kxt1NQck4L93OkLN2MoXlf0tjH0hmEd8MHzGC37gHafFIBPDuP5abP38wHkg" target="_blank" rel="noreferrer"&gt;http://biobdgroup.com&lt;/a&gt;&lt;br&gt;
+聯絡電話：02-29515910&lt;br&gt;
+聯絡信箱：&lt;a href="https://web.archive.org/web/20171127062312/mailto:inquiry@biobdgroup.com.tw" target="_blank" rel="noreferrer"&gt;inquiry@biobdgroup.com.tw&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biobdgroup171208/feature.jpg"/></item><item><title>【藥遷你的視野#1】表達力工作坊：力與美的結合</title><link>https://connectome.tw/events/pharmmixperience-event-1/</link><pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/pharmmixperience-event-1/</guid><description>&lt;p&gt;【藥遷你的視野#1】表達力工作坊：力與美的結合&lt;/p&gt;
+&lt;p&gt;簡報，從來不是文字套範本就好，而是一個表達的技巧，一種專業與美感融合的玄妙。&lt;br&gt;
+演講，從來不是上台胡亂裝個樣，而是一段故事的分享，一股清楚條理又深植人心的力量。&lt;br&gt;
+Pharmixperience是一個將藥學進行全方位整合的分享平台，不管是在求學、實習或是職場階段，都盡其所能地散播資源給需要的夥伴們。而這次首度舉辦的【藥遷你的視野#1】表達力工作坊：力與美的結合，將請來兩位同樣是藥學系畢業的重量級校友，他們除了是專業的藥師外，在簡報技巧與演講經驗上也都各自有獨門的傳授心法。&lt;br&gt;
+如果你想知道如何做出精美又專業的簡報，如何駕馭一場從容又精彩的演講，那就快動動你的手指按下報名連結，名額有限，要搶要快~~&lt;/p&gt;</description></item><item><title>Bio-Startup MBA program</title><link>https://connectome.tw/events/bio-startup-mba/</link><pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/bio-startup-mba/</guid><description>&lt;p&gt;[Bio-Startup MBA program]&lt;br&gt;
+目前生技圈內，缺乏實戰經驗是產業發展的&amp;quot;痛點&amp;quot;。我們希望藉由我們成功的生技業界經驗，協助想要創業或圓夢的朋友們，一起為台灣生技圈共創美好未來。&lt;/p&gt;
+&lt;p&gt;Bio-Startup MBA 有別於育成課程，強調：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bio-case study&lt;/li&gt;
+&lt;li&gt;13hr速成班加速器&lt;/li&gt;
+&lt;li&gt;Real Profit Model vs Innovative idea&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;說明會報名：&lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSeDVAT1Og5zlttGM0OvuSVxZ9prAiEu0oPn3XhzMQmzBF0CkQ%2Fviewform&amp;amp;h=ATPvD9ZSsjGmVP5WZMthiTX4QOvxaZ-eRJvVt3znv6jj7Kbju8yYz_9I8IUiE91UxqtEb9JUqfutl8Mrp8LH18F-xWJps9Chk1aEarShKqTij6MrfvsT8s-CynPbw7MEQ2rTB7EdXQ" target="_blank" rel="noreferrer"&gt;https://docs.google.com/forms/d/e/1FAIpQLSeDVAT1Og5zlttGM0OvuSVxZ9prAiEu0oPn3XhzMQmzBF0CkQ/viewform&lt;/a&gt;&lt;/p&gt;</description></item><item><title>數位健康新時尚 - 一同前進智慧健康論壇</title><link>https://connectome.tw/events/tss20170823/</link><pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/tss20170823/</guid><description>&lt;p&gt;[數位健康新時尚 - 一同前進智慧健康論壇] (English available down below)&lt;/p&gt;
+&lt;p&gt;你是正鑽研於智慧健康領域的新創公司嗎?&lt;br&gt;
+你正在苦惱怎麼讓投資人感興趣而投資嗎?&lt;br&gt;
+你知道加速器可以如何幫助新創快速成長，甚至擴張到國際版圖嗎?&lt;/p&gt;
+&lt;p&gt;這些問題將在台灣新創競技場(TaiwanStartupStadium)所舉辦的 BEATS! Smart Health Forum 健康智慧論壇一一為你解答!&lt;br&gt;
+會中我們邀請智慧健康產業的專家、投資人、及經驗豐富的創業家一起討論新創公司該如何找國內外資金、與醫院合作及該如何將資源最大化。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/tss20170823/feature.jpg"/></item><item><title>eCTD 電子查驗送件最佳規範實例與簡介</title><link>https://connectome.tw/events/ectd-gga/</link><pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ectd-gga/</guid><description>&lt;p&gt;報名方式： &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeLZS-D0tPBlZqRRzQiAAUoQDPGvVN6UELpfSuz00okdeRpOQ/viewform" target="_blank" rel="noreferrer"&gt;點我報名&lt;/a&gt;  請點選左方連結填寫個人訊息，以完成報名。&lt;/p&gt;
+&lt;p&gt;時間：7月5日 星期三 9:00~17:00&lt;/p&gt;
+&lt;p&gt;地點：六福萬怡酒店　9樓 風光廳&lt;/p&gt;
+&lt;p&gt;地址：台北市南港區忠孝東路七段359號&lt;/p&gt;
+&lt;p&gt;參加費用：免費&lt;/p&gt;
+&lt;p&gt;主辦單位：德國EXTEDO公司，創源生物科技股份有限公司 GGA Corp.&lt;/p&gt;
+&lt;p&gt;演講者：  &lt;br&gt;
+Dr. Silke Nolkemper 博士 (DirectorConsulting APAC) &lt;br&gt;
+Mr. Stefan Horneborg (Senior Business Development Manager APAC) &lt;br&gt;
+Dr. Pei-Li Li 李佩力 博士 (Vice President, GGA)&lt;/p&gt;
+&lt;p&gt;研討會議程 Agenda &lt;br&gt;
+09:00 – 9:30 Welcome and Opening Presentation  &lt;br&gt;
+09:30 – 12:30 eCTD structure and life cycle management  &lt;br&gt;
+I.   eCTD structure (09:30 – 10:30) &lt;br&gt;
+·  CTD vs. eCTD: differences between paper dossiers and electronic dossiers &lt;br&gt;
+·  General structure of an eCTD  &lt;br&gt;
+·  Files and folders &lt;br&gt;
+·  Meta data &lt;br&gt;
+·  Bookmarks and Hyperlinks &lt;br&gt;
+·  XML-backbone, Envelope &lt;br&gt;
+10:30 – 11:00 中場休息 (茶歇) &lt;br&gt;
+II.   eCTD life cycle management (11:00 – 12:30) &lt;br&gt;
+·  Lifecycle Attributes Experience in EU in e-CTD: how can several strengths and dosage forms be handled in one eCTD dossier (handling of specific sections)&lt;br&gt;
+·  Submission Lifecycle, e.g. Variations, line Extensions &lt;br&gt;
+·  Document Lifecycle (add/replace/delete/append documents) &lt;br&gt;
+12:30 – 13:30 午餐時間 &lt;br&gt;
+13:30 – 15:00  eCTD Regional Differences &lt;br&gt;
+·  Best Practice &lt;br&gt;
+·  EU M1 and ASMF as special structure &lt;br&gt;
+·  US M1 and US DMF &lt;br&gt;
+·  Document requirements for US &lt;br&gt;
+·  ESG &lt;br&gt;
+·  Publishing Services &lt;br&gt;
+15:00 – 15:30 中場休息 (茶歇) &lt;br&gt;
+15:30 – 17:00 Hands On to EXTEDO eCTDmanager or Live Demo Questions and answers&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ectd-gga/feature.jpg"/></item><item><title>真人圖書館-生技職人傳承經驗 青年職涯再升級</title><link>https://connectome.tw/events/trpma170701/</link><pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/trpma170701/</guid><description>&lt;p&gt;TRPMA x 2017 BioTaiwan 生技展活動&lt;br&gt;
+【真人圖書館-生技職人傳承經驗 青年職涯再升級】&lt;br&gt;
+為了讓生科、生技的大學生/研究生們了解生技製藥產業職場工作類型，以及生涯發展，TRPMA邀請在生技新藥產業分析、技術移轉、專案管理及生物資訊工程的生技職人們現身說法，分享他們的工作內容、經歷及心路歷程。&lt;br&gt;
+時間：7月1～2日 2:00~4:00 p.m.&lt;br&gt;
+地點：2017台灣生物科技大展，南港展覽館4F&lt;br&gt;
+TRPMA展覽攤位 M區601號&lt;br&gt;
+報名方式：請線上報名&lt;br&gt;
+&lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fforms%2FZ1ByDF40MbLkEP942&amp;amp;h=ATNdOacG5s1LIGjXbtePa5sOsEsqBuYNXqDWD5Lxd7b_1CKO7v7tRCI_ASLVsbWiUjro37p9uTnDXA5o4UiD7ohQNYDlIr0laAG_THovLaMFjJWz5VPjUXR_CGVlBgDxd7pzYC8FPXyfzQ" target="_blank" rel="noreferrer"&gt;https://goo.gl/forms/Z1ByDF40MbLkEP942&lt;/a&gt;&lt;br&gt;
+名額有限，請儘速報名！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/trpma170701/feature.jpg"/></item><item><title>ValGenesis確效生命週期管理：合規藥廠實現無紙化確效之最佳解決方案</title><link>https://connectome.tw/events/biotaiwanexhibitiongga/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biotaiwanexhibitiongga/</guid><description>&lt;p&gt;關於藥廠確效作業，你有更好的方式!&lt;/p&gt;
+&lt;p&gt;分析方法確效、製成確效、系統設備確效、清潔確效、電腦確效，關於藥廠的各種確效作業，是否讓各位藥廠先進人仰馬翻 ?&lt;/p&gt;
+&lt;p&gt;藥廠生產為確保品質(Quality)、安全性. (Safety)、療效(Efficacy)，必須遵循各種法規需求，如PIC/S GMP, ICH guidelines等，同時也要面對各種稽查如US FDA與客戶查廠，所有流程都須經過確效作業。&lt;/p&gt;
+&lt;p&gt;傳統確效作業需要大量人力時間與紙本記錄，耗費相當多資源與成本。美國Valgenesis公司發展Validation Lifecycle Management System(VLSM) 已超過10年經驗，透過無紙化確效作業Paperless Validation可解決藥生技藥業各式各樣確效難題。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biotaiwanexhibitiongga/feature.jpg"/></item><item><title>GSK 校園徵才說明會</title><link>https://connectome.tw/events/dreamer170605/</link><pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dreamer170605/</guid><description>&lt;p&gt;GSK 校園徵才說明會&lt;br&gt;
+　&lt;br&gt;
+DREAMERS徵才系列再一波！&lt;br&gt;
+來聽聽全球前十大藥廠之一的 GSK 怎麼說&lt;br&gt;
+主管親自說明儲備幹部及暑期實習計畫&lt;br&gt;
+還告訴你如何正確撰寫履歷&lt;br&gt;
+你還在等什麼？趕快來報名！&lt;br&gt;
+　&lt;br&gt;
+【活動資訊】&lt;br&gt;
+▍時間：2017/6/5(一) 18:10開放報到 18:30開始&lt;br&gt;
+▍地點：臺北醫學大學教研大樓3101教室&lt;br&gt;
+▍主辦單位：DREAMERS 藥學企業管理研究社&lt;br&gt;
+▍報名連結：&lt;a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.accupass.com%2Fgo%2F2017gsk&amp;amp;h=ATOlV-HGKHx1_4J8WdgHd9HVgWLrMU4CMJg0uQ10i62OiETeYgW6XlJDkHi9iXBsE7z126ES8KkdZvaISV8s39gsHz1HVRy9AobSZJXM34FgdjEMBCvkkbuJIZvYIk8F9k932SI15060_g" target="_blank" rel="noreferrer"&gt;http://www.accupass.com/go/2017gsk&lt;/a&gt;&lt;br&gt;
+　&lt;br&gt;
+【活動流程】&lt;br&gt;
+18:30&lt;del&gt;19:00 GSK公司介紹&lt;br&gt;
+19:00&lt;/del&gt;19:30 儲備幹部計畫及暑期實習計畫說明&lt;br&gt;
+19:30&lt;del&gt;20:00 如何正確撰寫履歷&lt;br&gt;
+20:00&lt;/del&gt;20:30 Q&amp;amp;A時間&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dreamer170605/feature.jpg"/></item><item><title>BioXers’ Networking 2 生醫跨客交流週末</title><link>https://connectome.tw/events/bioxer170520/</link><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/bioxer170520/</guid><description>&lt;p&gt;「BioXers’ Networking 2 生醫跨客交流週末」熱烈報名中！&lt;/p&gt;
+&lt;p&gt;跨領域已從非主流變為主流，「跨客」正是乘風破浪的先驅&lt;br&gt;
+跨客之路看似簡單，但我們卻常陷入重重困境&lt;br&gt;
+我該跨領域嗎？ 遙遙無期的實驗之路究竟適合我嗎？&lt;br&gt;
+學了一堆東西，卻感覺還是離就業好遠好遠&lt;br&gt;
+身邊同學做專題推甄，我需要念碩博班先鞏固專業再跨域嗎？&lt;/p&gt;
+&lt;p&gt;正擔心種種問題的你，我們將指引你方向&lt;br&gt;
+「BioXers’ Networking 2 生醫跨客交流週末」業師不僅能傳授心法，亦是一個同儕交流的平台！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/bioxer170520/feature.jpg"/></item><item><title>國際數位醫療新創展</title><link>https://connectome.tw/events/garageplus170602/</link><pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/garageplus170602/</guid><description>&lt;p&gt;台灣，讓世界更健康&lt;br&gt;
+Start Up Digital Health Business in Taiwan&lt;br&gt;
+海選國際數位醫療新創公司來台共創商機&lt;/p&gt;
+&lt;p&gt;國家發展委員會與時代基金會Garage+共同籌辦 Startup Global Program，自全球135組、來自22國家的團隊，邀請20組數位醫療(Digital Health)新創企業參與時代基金會主辦的國際數位醫療新創展，接軌台灣產業資源，共創商機。&lt;br&gt;
+20組參展企業來自美國、英國、加拿大、荷蘭、以色列、法國、波蘭等國及台灣團隊，產品、服務皆為數位醫療領域的潛力新秀，敬邀您於6月2日蒞臨展覽，與國際新創企業面對面交流！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/garageplus170602/feature.jpg"/></item><item><title>Merck Sharp &amp;amp; Dohme 默沙東藥廠徵才說明會</title><link>https://connectome.tw/events/dreamers170517/</link><pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dreamers170517/</guid><description>&lt;p&gt;本學期Dreamers最後一場徵才說明會！&lt;br&gt;
+美商默沙東來了！&lt;/p&gt;
+&lt;p&gt;這學期DREAMERS帶來一系列的徵才說明會&lt;br&gt;
+在最後壓軸邀請到的是Merck Sharp &amp;amp; Dohme默沙東藥廠。&lt;/p&gt;
+&lt;p&gt;想加入全球前十大的藥廠嗎?&lt;br&gt;
+想投入擁有超過10種領域、42種人用藥品和疫苗的藥廠嗎?&lt;br&gt;
+想深入了解被FDA批准最多藥品的製藥公司嗎?&lt;br&gt;
+想知道藥廠最需要哪種人才嗎?&lt;/p&gt;
+&lt;p&gt;5/17 1800 在臺北醫學大學  教學研究大樓3102教室&lt;br&gt;
+讓藥廠的高階主管直接告訴你吧!&lt;br&gt;
+快把握這次機會帶著你的履歷表和滿腔的熱情來參加吧!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dreamers170517/feature.jpg"/></item><item><title>生技．設計松</title><link>https://connectome.tw/events/cycu170603/</link><pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/cycu170603/</guid><description>&lt;p&gt;為什麼要辦生技．設計松?&lt;br&gt;
+我們希望透過設計 ，凸顯出生技產品的特色和形象，以提高生技產品的競爭力。&lt;br&gt;
+特別用「松(Marathon)」這個字，是為了營造一個馬拉松式的創作環境，用來聚集生技和設計領域人才，讓他們在特定的時間內緊密合作，最後完成生技產品視覺設計。&lt;br&gt;
+這次活動包含：理論課程、團隊溝通、設計實務、成果展示&amp;hellip;邀請您~逗陣來設計。&lt;/p&gt;
+&lt;p&gt;指導單位：教育部、生技產業創新創業人才培育計畫辦公室&lt;br&gt;
+執行單位：中原大學跨領域生技產業菁英培訓推動中心&lt;br&gt;
+活動時間：2017. 06. 03 (六) 09:00-17:00&lt;br&gt;
+活動地點：中原大學(桃園市中壢區中北路200號)產學大樓2樓培訓教室&lt;br&gt;
+活動辦法：&lt;a href="https://www.google.com/url?q=https%3A%2F%2Fgoo.gl%2F83yvlA&amp;amp;sa=D&amp;amp;ust=1494696490887000&amp;amp;usg=AFQjCNEUg5akqjIM0-hhQy5jiuFDuGTPgQ" target="_blank" rel="noreferrer"&gt;https://goo.gl/83yvlA&lt;/a&gt;&lt;br&gt;
+報名網址：&lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FEIp4LK&amp;amp;h=ATNt7KYHgNz47Q9iBtIU0P5dAW_3yt-jtSkVm7DxBRe_hmQohtaCvEd7cQRMuoxZ9aD90KD_HYza_k6VLTbQ3fxrYAABUw0oqm-KuEEaqe1Q_pFpXoZUKsACglIPz1fK49k-I2wBgPDN" target="_blank" rel="noreferrer"&gt;https://goo.gl/EIp4LK&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/cycu170603/feature.jpg"/></item><item><title>HTC 未來醫療實習生招募計畫 2017</title><link>https://connectome.tw/events/htchealthcareintern/</link><pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/htchealthcareintern/</guid><description>&lt;p&gt;你想要參與未來醫療科技創新的發展嗎？&lt;br&gt;
+與世界級的團隊一起研發產品嗎？&lt;br&gt;
+在履歷上增加亮眼的實習經歷嗎？&lt;br&gt;
+請加入我們HTC未來醫療實習培育計畫&lt;/p&gt;
+&lt;p&gt;公司：HTC 宏達國際電子股份有限公司 健康醫療事業部&lt;/p&gt;
+&lt;p&gt;薪水：面議&lt;/p&gt;
+&lt;p&gt;職稱：Healthcare Innovation Intern&lt;/p&gt;
+&lt;p&gt;地點：全球研發總部 新北市新店&lt;/p&gt;
+&lt;p&gt;我們在找的人才：&lt;br&gt;
+1.大學三至四年級以上醫療相關科系(醫學、護理、營養、放射、藥學、醫管等醫學相關科系)含研究所&lt;br&gt;
+2. 喜歡挑戰，具有創業的精神&lt;br&gt;
+3. 解決問題及良好的溝通能力&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/htchealthcareintern/feature.jpg"/></item><item><title>國際大師論壇&amp;lt;&amp;lt;Digital Health: from Hospital to Home&amp;gt;&amp;gt;</title><link>https://connectome.tw/events/bit2010505/</link><pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/bit2010505/</guid><description>&lt;p&gt;智慧醫療新時代：從醫院醫療到居家照護&lt;/p&gt;
+&lt;p&gt;在高齡化社會和物聯網的趨勢發展下， 智慧醫療的創新題材源源不絕&lt;br&gt;
+面對硬體技術和醫療服務軟實力的整合挑戰，&lt;br&gt;
+智慧醫療 將是臺灣生技產業走向康莊大道的重要發展&lt;/p&gt;
+&lt;p&gt;透過相關醫療器材結合臺灣資通訊和醫療服務優勢，&lt;br&gt;
+不僅能輔助醫療診斷、治療與復健，更能實現從醫院醫療到居家醫療的照護趨勢！&lt;/p&gt;
+&lt;p&gt;由國家實驗研究院科技政策與資訊中心和臺灣生技原創力聯合主辦：國際大師論壇   Digital Health: from Hospital to Home&lt;br&gt;
+邀請國內外成功創業家和臨床醫學專家 共同 分享他們在智慧醫療產品的研發經驗和臨床應用情境&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/bit2010505/feature.jpg"/></item><item><title>【美敦力•徵的就是你】校園徵才說明會</title><link>https://connectome.tw/events/2017dreamerscampusrecruitment/</link><pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/2017dreamerscampusrecruitment/</guid><description>&lt;p&gt;想知道醫材界領頭羊-美敦力成功的秘訣嗎?&lt;br&gt;
+想知道如何成為美敦力的一份子嗎?&lt;br&gt;
+美敦力的人資主管即將親臨現場為您開惑!!&lt;br&gt;
+對美敦力有興趣的你們絕對不能錯過這次的徵才說明會!!!&lt;/p&gt;
+&lt;p&gt;美敦力在1950年代發明世界上第一台可攜帶式心臟節律器，進而發展各式各樣的醫療器材，在醫療科技領域，佔有領先的地位。&lt;br&gt;
+在2016年，美敦力被Human Rights Campaign評選為最佳雇主&lt;/p&gt;
+&lt;p&gt;參加這次的說明會除了收穫滿滿，還能拿到一份精美的紀念品喔!!!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/2017dreamerscampusrecruitment/feature.jpg"/></item><item><title>2017 中央研究院 生醫暨化學人才就業博覽會</title><link>https://connectome.tw/events/2017biomedicalchemicalcareerfair/</link><pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/2017biomedicalchemicalcareerfair/</guid><description>&lt;p&gt;•活動地點：中研院人文社會科學館&lt;br&gt;
+•主辦單位：中研院研究生職涯發展協會&lt;br&gt;
+•協辦單位：中研院生物化學研究所、中研院化學研究所、台大生化科學研究所、中研院分子生物研究所、中研院生物醫學科學研究所、財團法人生化科技教育基金會、中華民國細胞與分子生物學學會&lt;br&gt;
+•廠商報名：&lt;a href="https://sites.google.com/site/gscdcibcibsioc/jobfair-2017/exhibitors#page-comments" target="_blank" rel="noreferrer"&gt;https://sites.google.com/site/gscdcibcibsioc/jobfair-2017/exhibitors#pag&amp;hellip;&lt;/a&gt;&lt;br&gt;
+•活動網頁：&lt;a href="https://sites.google.com/site/gscdcibcibsioc/jobfair-2017" target="_blank" rel="noreferrer"&gt;https://sites.google.com/site/gscdcibcibsioc/jobfair-2017&lt;/a&gt;&lt;br&gt;
+•聯絡窗口：會長 李昱蓉 0910-150-865公關 黃彥文 0989-170-708或來信 &lt;a href="https://web.archive.org/web/20170629125022/mailto:gscdcmanage@gmail.com" target="_blank" rel="noreferrer"&gt;gscdcmanage@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;&lt;span style="color:windowtext"&gt;活動資訊及流程&lt;/span&gt;
+ &lt;div id="活動資訊及流程" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a%e5%8f%8a%e6%b5%81%e7%a8%8b" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;span style="color:windowtext"&gt;本次就業博覽會主要規劃兩大主題活動&lt;/span&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/2017biomedicalchemicalcareerfair/feature.jpg"/></item><item><title>徵的就是你 ● 百靈佳徵才說明會</title><link>https://connectome.tw/events/dremaer170323/</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dremaer170323/</guid><description>&lt;p&gt;若要提到台灣近期成長最快的藥廠&lt;br&gt;
+答案絕對少不了來自德國的百靈佳殷格翰！&lt;/p&gt;
+&lt;p&gt;在醫藥產業的一片紅海之中&lt;br&gt;
+百靈佳在2013～15年繳出每年成長兩成的優秀成績&lt;br&gt;
+而帶領百靈佳在台殺出一條血路的關鍵舵手&lt;br&gt;
+是台灣分公司總經理 邱建誌&lt;/p&gt;
+&lt;p&gt;邱總經理為北醫藥學系畢業的校友&lt;br&gt;
+上任後要求業務「加強專業知識」，用專業能力爭取業績訂單&lt;br&gt;
+並且鼓勵「跨部門合作」，打破以往組織架構藩籬&lt;br&gt;
+把負責同一產品線的業務、行銷、跟研發人員整合為同一個單位&lt;br&gt;
+加強跨部門的溝通與合作&lt;br&gt;
+百靈佳在台排名&lt;br&gt;
+從第23名快速躍升到第13名&lt;br&gt;
+且業績在四年內翻了一倍&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dremaer170323/feature.jpg"/></item><item><title>「醫藥開發營運自由暨智財協同機制」研討會</title><link>https://connectome.tw/events/wispro170317/</link><pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/wispro170317/</guid><description>&lt;p&gt;世博為整合智慧財產、商業法律與跨國租稅之整合性專業服務機構，服務亞洲諸多知名生醫領域集團、企業、學研等並接受政府機關長期委託執行大型計畫，對於生醫產業海內外新創、投資、合資、募資、併購、重組、訴訟、交易以及智慧財產等有關專業服務具有獨特與豐沛專業知識技能方法工具與實務實戰經驗。&lt;/p&gt;
+&lt;p&gt;茲因世博於106年3月17日(五)下午13:00-17:00，假集思北科大會議中心舉辦「&lt;strong&gt;醫藥開發營運自由暨智財協同機制&lt;/strong&gt;」研討會，內容預計分享國內醫藥企業常見智財訴訟類型與因應竅訣，另分享產學研如何藉由專利風險分析控管工具及方法(Freedom-to-operate Mechanism)有效掃雷，此外還會分享如何於醫藥開發流程導入智慧財產協同機制等。各議題會從實務與實例方式實境說明，應有助於提升台灣生醫產學研智慧財產專業知識能量，歡迎各界踴躍報名蒞臨指導。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/wispro170317/feature.jpg"/></item><item><title>2017藥品和醫療器材法規科學與創新國際研討會</title><link>https://connectome.tw/events/fidmd/</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/fidmd/</guid><description>&lt;h3 class="relative group"&gt;歡迎參加「2017藥品和醫療器材法規科學與創新國際研討會」
+ &lt;div id="歡迎參加2017藥品和醫療器材法規科學與創新國際研討會" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%ad%a1%e8%bf%8e%e5%8f%83%e5%8a%a02017%e8%97%a5%e5%93%81%e5%92%8c%e9%86%ab%e7%99%82%e5%99%a8%e6%9d%90%e6%b3%95%e8%a6%8f%e7%a7%91%e5%ad%b8%e8%88%87%e5%89%b5%e6%96%b0%e5%9c%8b%e9%9a%9b%e7%a0%94%e8%a8%8e%e6%9c%83" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;International Conference on Regulatory Approaches for Fostering Innovation in Drugs and Medical Devices&lt;/p&gt;
+&lt;p&gt;前瞻醫療器材科技中心邀請美國(梅約醫學中心、密西根大學)、日本(大阪大學、奈良理工學院)以及新加坡、荷蘭等多位國外知名學者來台進行演講，將於2017/3/30-31盛大舉辦為期2天的國際研討會，誠摯邀請各位一同共襄盛舉！&lt;/p&gt;
+&lt;p&gt;日期：2017年3月30日(四) - 3月31日(五)&lt;br&gt;
+地點：國立成功大學國際會議廳第三演講室&lt;br&gt;
+主辦單位：國立成功大學前瞻療器材科技中心&lt;br&gt;
+協辦單位：財團法人醫藥品查驗中心、國立成功大學生物醫學工程系&lt;br&gt;
+指導單位：教育部&lt;br&gt;
+會議官網：&lt;a href="http://fidmd.strikingly.com/" target="_blank" rel="noreferrer"&gt;http://fidmd.strikingly.com/&lt;/a&gt;&lt;br&gt;
+報名網址：&lt;a href="https://goo.gl/WZBC6q" target="_blank" rel="noreferrer"&gt;https://goo.gl/WZBC6q&lt;/a&gt;&lt;br&gt;
+每日議程：&lt;a href="http://fidmd.strikingly.com/#agenda" target="_blank" rel="noreferrer"&gt;http://fidmd.strikingly.com/#agenda&lt;/a&gt;&lt;br&gt;
+報名時間：即日起至2017年3月28日(二)下午17:00止，名額有限，請盡早報名。&lt;br&gt;
+報名費用 : 免費&lt;br&gt;
+聯絡窗口：06-2353535#3419 梁小姐 &lt;a href="https://web.archive.org/web/20170317054150/mailto:annieliangncku@gmail.com" target="_blank" rel="noreferrer"&gt;annieliangncku@gmail.com&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/fidmd/feature.jpg"/></item><item><title>2017春 YouTube&amp;amp; Facebook 日本職涯線上直播</title><link>https://connectome.tw/events/netxtokyouwij20170305/</link><pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/netxtokyouwij20170305/</guid><description>&lt;p&gt;2017春YouTube&amp;amp; Facebook 日本職涯線上直播&lt;/p&gt;
+&lt;p&gt;12位旅日就職的台大校友，跨海分享日本職涯趨勢! &lt;br&gt;
+3月5號當日無論身在何地，你都可以透過網路跨海掌握座談內容! &lt;/p&gt;
+&lt;p&gt;報名網頁: &lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2F75UBth&amp;amp;h=ATMM-R-4OtayFNvlxPJyD2IKSBiLw5vFUAyZCxXimIefXG6bnj_PJRoLhPTC76gO3nHuVNtitTAZXWoDHMhnW7ypDJ-fXN_1HDv8REKNKRucgfRAzzcrePhURKYzq9WLYx5sr1c&amp;amp;enc=AZNqs8F4GccT9HzTnfe0X5g8_Gz3W1D9jdv0LXlw9s7tBZNoTyEeGStCnA0MTW5X3Zc&amp;amp;s=1" target="_blank" rel="noreferrer"&gt;https://goo.gl/75UBth&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;◎當海外職涯已變成趨勢，你準備好了嗎？&lt;br&gt;
+隨著企業全球化、人才流動國際化與世界各地新創公司崛起，個人職涯規劃不再受限於國界；近年日本為因應 2020 東京奧運，各企業積極採用海外人才，日本優良的生活品質與多元生活型態也吸引了大量韓國、中國、越南、印度籍等人才大量投入日本職場。對身在台灣的你來說擔心的是什麼？在日本工作到底有什麼吸引力？求職管道在哪裡？該尋找正職或是打工渡假？日文能力夠嗎？日本職場文化和台灣又有什麼不同？ 現在就讓在日學長姐為你解惑！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/netxtokyouwij20170305/feature.jpg"/></item><item><title>BioPhalanx 生技研發論壇</title><link>https://connectome.tw/events/biophalanx-2nd/</link><pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biophalanx-2nd/</guid><description>&lt;h1 class="relative group"&gt;[跨界激盪] 不同領域，一同射月!
+ &lt;div id="跨界激盪-不同領域一同射月" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%b7%a8%e7%95%8c%e6%bf%80%e7%9b%aa-%ef%a5%a7%e5%90%8c%ef%a6%b4%e5%9f%9f%e4%b8%80%e5%90%8c%e5%b0%84%e6%9c%88" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;美國總統歐巴馬提出 MoonShot 計畫，包含癌症預防、疫苗研發、基因體學、早期篩檢、免疫療法、混合療法&amp;hellip;等項目，再加上大數據分析，展開全面性的人類健康大行動！&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;關於 BioPhalanx
+ &lt;div id="關於-biophalanx" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e9%97%9c%e6%96%bc-biophalanx" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;BioPhalanx 是不同以往的生技論壇，會用現在最風行的 TED 風格。其理念是：每個 Lab 都有獨特且精彩的研發故事，用普羅大眾聽得懂的語言在這個平台上分享，***&lt;span style="color:#cc0000"&gt;讓不同專業的對話成為可能、不同領域的 idea 互相交流激盪&lt;/span&gt;。***每位講者大約 12 分鐘。我們也會跟 TED 一樣，錄影剪輯放到網路上，讓全世界看到他們的精彩研發成果。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biophalanx-2nd/feature.jpg"/></item><item><title>2017年臨床研究專案經理(Clinical Project Manager, CPM) 專業實務訓練課程</title><link>https://connectome.tw/events/dcb17021819/</link><pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dcb17021819/</guid><description>&lt;p&gt;課程說明： 依據美國Pay Scale Human Capital 2016年統計，臨床研究專案經理(CPM)年薪中位數為88,820美元，在國內外均屬超熱門職業。政府揭櫫「5大創新研發計畫」中亦包含積極推動生物科技產業政策，生技產業受惠利多政策，國內外藥廠、CRO、醫材、醫療機構等相關產業對CPM人才亦需求孔急。本課程為台灣極寶貴之專業實務訓練課程，為無經驗或已任CPM之學員提供全方位藥品、醫材、食品、學術臨床研究之CPM角色功能指導。本課程可提供臨床研究新職涯選擇之整備，藉助豐富經驗的實務講師提供實務研究、專業表格等寶貴工具進行全系列教學，可供立即運用於CPM工作。課程設計涵蓋CPM工作必備職能，遵循ICH GCP法規架構，師資成員延聘自CRO、生技公司、著名藥廠、學界及醫學中心深具臨床研究實務經驗工作者。對有意加入CPM工作卻不知如何切入者或實務亟盼業務精進者均提供難得的學習機會！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dcb17021819/feature.jpg"/></item><item><title>Prestige Project IV 生技製藥的資本市場</title><link>https://connectome.tw/events/prestige161224/</link><pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/prestige161224/</guid><description>&lt;p&gt;【Prestige Project IV - 生技製藥的資本市場 】&lt;br&gt;
+浩鼎新藥臨床試驗解盲未如預期，對台灣生技製藥產業的發展投下一顆震撼彈。曾被視為下一次經濟奇蹟的生技製藥前景該如何是好？&lt;br&gt;
+原料藥與學名藥廠也是生技製藥不可或缺的一員。您知道各家通過PIC/S GMP的國內大廠正蓄勢待發、布局全球嗎？&lt;br&gt;
+不管您是長期關注股市的財經老手或是對於台灣藥業略有興趣的初學者，且聽縱橫產、官、學界四十多年的黃文鴻教授，為您剖析生技製藥產業的風起雲湧！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/prestige161224/feature.jpg"/></item><item><title>政大x陽明科技法律工作坊</title><link>https://connectome.tw/events/ncculawnymutech2017/</link><pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ncculawnymutech2017/</guid><description>&lt;h3 class="relative group"&gt;&amp;laquo;政大x陽明科技法律工作坊&amp;raquo;
+ &lt;div id="政大x陽明科技法律工作坊" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%94%bf%e5%a4%a7x%e9%99%bd%e6%98%8e%e7%a7%91%e6%8a%80%e6%b3%95%e5%be%8b%e5%b7%a5%e4%bd%9c%e5%9d%8a" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;現代社會日新月異，變革快速，各種醫學科技發明使我們生活越來越便利，&lt;br&gt;
+但創新，也衍生出許多問題。&lt;br&gt;
+而這些問題往往又涉及多個專業領域，單靠傳統單領域式思惟就想刨解這些問題，恐怕是有如夸父逐日啊！&lt;br&gt;
+在現代社會，我們將更需要跨領域型人才！！&lt;br&gt;
+而為了因應對於跨領域型人才的需求，陽明生命科學系與政大法律系攜手合作，合辦&amp;laquo;陽明x政大科技法律工作坊。&amp;raquo;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ncculawnymutech2017/feature.jpg"/></item><item><title>臨床研究專員(Clinical Research Associate, CRA) 專業實務課程及工作坊</title><link>https://connectome.tw/events/dcb16121718/</link><pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dcb16121718/</guid><description>&lt;h2 class="relative group"&gt;臨床研究專員(Clinical Research Associate, CRA)專業實務課程及工作坊
+ &lt;div id="臨床研究專員clinical-research-associate-cra專業實務課程及工作坊" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%87%a8%e5%ba%8a%e7%a0%94%e7%a9%b6%e5%b0%88%e5%93%a1clinical-research-associate-cra%e5%b0%88%e6%a5%ad%e5%af%a6%e5%8b%99%e8%aa%b2%e7%a8%8b%e5%8f%8a%e5%b7%a5%e4%bd%9c%e5%9d%8a" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;課程說明：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;依據Clinical Researcher 2016年統計指出，臨床研究專員(CRA)需求職缺在未來6年將呈現34.6%成長，且其專業薪資在各行業排名中名列前茅。政府亦揭櫫「5大創新研發計畫」中亦包含積極推動生物科技產業政策，國內外藥廠、CRO等相關產業對CRA人才更是需求孔急。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dcb16121718/feature.jpg"/></item><item><title>2016 第二場投資人論壇～生技醫藥領域下一波投資風口</title><link>https://connectome.tw/events/moeasmea161104/</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/moeasmea161104/</guid><description>&lt;h2 class="relative group"&gt;2016 第二場投資人論壇～生技醫藥領域下一波投資風口
+ &lt;div id="2016-第二場投資人論壇生技醫藥領域下一波投資風口" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2016-%e7%ac%ac%e4%ba%8c%e5%a0%b4%e6%8a%95%e8%b3%87%e4%ba%ba%e8%ab%96%e5%a3%87%e7%94%9f%e6%8a%80%e9%86%ab%e8%97%a5%e9%a0%98%e5%9f%9f%e4%b8%8b%e4%b8%80%e6%b3%a2%e6%8a%95%e8%b3%87%e9%a2%a8%e5%8f%a3" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;活動介紹&lt;br&gt;
+將安排台灣經濟研究院研六所林秀英副研究員，從全球數位醫療投資動向進行引言，並邀請勤業眾信聯合會計師事務所生技醫療產業負責人虞成全會計師，分析全球與國內生技醫療產業的轉變、投資趨勢與策略；最後，邀請益鼎創投辜雪硯博士，剖析精準醫療的創新模式與投資新動向。希望能透過研究機構、會計師事務所與投資人等不同角度的觀點分享，期能增進投資人對生醫領域的創新模式與商機潛力的掌握力，提升其投資績效。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/moeasmea161104/feature.jpg"/></item><item><title>​聚焦亞太新興市場-生醫產業商機分享論壇</title><link>https://connectome.tw/events/ntut161021/</link><pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ntut161021/</guid><description>&lt;h2 class="relative group"&gt;​聚焦亞太新興市場-生醫產業商機分享論壇
+ &lt;div id="聚焦亞太新興市場-生醫產業商機分享論壇" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%81%9a%e7%84%a6%e4%ba%9e%e5%a4%aa%e6%96%b0%e8%88%88%e5%b8%82%e5%a0%b4-%e7%94%9f%e9%86%ab%e7%94%a2%e6%a5%ad%e5%95%86%e6%a9%9f%e5%88%86%e4%ba%ab%e8%ab%96%e5%a3%87" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;亞洲新興市場崛起，「新南向政策」是當前政府積極推動臺灣經濟結構轉型的重要策略，避免集中單一市場的風險，新興市場的成長契機與區域經濟整合成為延伸臺灣內需市場與對外經濟支撐的主要力量。在眾多產業中生物醫學產業為一能夠持續成長之高科技產業，近二十年在政府與民間共同努力之下，2015年生物醫藥產業營業額為美金96億元。在生醫產品需求增加的情形下，臺灣生醫業者開始尋求合作以利技術精進、製造符合臨床需求之產品以及開拓市場。&lt;br&gt;
+有鑑於此，中華海峽兩岸醫療暨健康產業發展協會延續多年兩岸生技產業交流的經驗，並結合生醫材料表面工程產學技術聯盟服務生醫業者的技術能量，以「聚焦亞太新興市場-生醫產業商機分享」為主題，邀請聯盟會員宣傳推廣並展現臺灣生醫產業潛力，以及邀請亞太區生醫廠商分享跨國合作之寶貴經驗，以促進與國內外廠商或投資夥伴之交流，讓臺灣生醫廠商能藉此論壇了解亞太地區生醫市場、法規現況和投資潛力，並期協助法人及廠商探尋潛在合作契機。&lt;strong&gt;敬邀各界先進踴躍報名參加！&lt;/strong&gt;&lt;br&gt;
+ &lt;br&gt;
+【指導單位】科技部、衛生福利部、經濟部生技醫藥產業發展推動小組、財團法人生物技術開發中心&lt;br&gt;
+【主辦單位】中華海峽兩岸醫療暨健康產業發展協會、臺北科技大學生醫材料表面工程產學技術聯盟&lt;br&gt;
+【活動日期】2016年10 月21日（五）&lt;br&gt;
+【活動時間】13:20-17:00&lt;br&gt;
+【活動地點】臺北科技大學億光大樓2樓 感恩廳 （集思北科大會議中心提供收費地下停車場）&lt;br&gt;
+【參加費用】免費 （名額有限，額滿為止）&lt;br&gt;
+​【報名網址】&lt;a href="https://goo.gl/forms/utag1dyhGvS6lKgf2" target="_blank" rel="noreferrer"&gt;https://goo.gl/forms/utag1dyhGvS6lKgf2&lt;/a&gt;&lt;br&gt;
+【活動詳情】&lt;a href="https://goo.gl/OpULzm" target="_blank" rel="noreferrer"&gt;https://goo.gl/OpULzm&lt;/a&gt;&lt;br&gt;
+《為遵守「個人資料保護法」規定，本活動所蒐集的報名者聯繫資訊（姓名、職稱、電話、傳真、e-mail、護照號碼、身份證字號、出生年月日及地址等），僅作為活動通知與管理以及服務分析之用，不作其他用途》&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ntut161021/feature.jpg"/></item><item><title>NTU Prestige Project II R&amp;amp;D：研發部門藥做什麼?</title><link>https://connectome.tw/events/prestige161013/</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/prestige161013/</guid><description>&lt;h1 class="relative group"&gt;NTU Prestige Project II
+ &lt;div id="ntu-prestige-project-ii" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#ntu-prestige-project-ii" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;R&amp;amp;D：研發部門藥做什麼?&lt;br&gt;
+全國的生技製藥產業正逐漸乘著人的夢想而起飛&lt;br&gt;
+灑下希望的種子在世界各國萌芽&lt;br&gt;
+台灣的嫩芽也在這一波洗禮下茁壯&lt;br&gt;
+而在研發門檻越來越高的潮流中&lt;br&gt;
+研發新藥對於剛發芽的台灣&lt;br&gt;
+是個神話? 抑或是個契機?&lt;/p&gt;
+&lt;p&gt;這次Prestige請到東洋製劑研發中心副總 胡宇方 博士&lt;br&gt;
+來介紹台灣藥業的R&amp;amp;D趨勢及經驗分享&lt;br&gt;
+帶大家認識研發部門的工作&lt;br&gt;
+如何準備自己、掌握機會&lt;br&gt;
+如此難得不好好把握怎麼知道&lt;br&gt;
+要如何抵抗這股生技製藥圈的狂風巨浪?&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/prestige161013/feature.jpg"/></item><item><title>NTU Prestige project I 醫藥代表價值、任務與客戶關係</title><link>https://connectome.tw/events/prestige161005/</link><pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/prestige161005/</guid><description>&lt;h1 class="relative group"&gt;NTU Prestige project I    醫藥代表價值、任務與客戶關係
+ &lt;div id="ntu-prestige-project-i--醫藥代表價值任務與客戶關係" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#ntu-prestige-project-i--%e9%86%ab%e8%97%a5%e4%bb%a3%e8%a1%a8%e5%83%b9%e5%80%bc%e4%bb%bb%e5%8b%99%e8%88%87%e5%ae%a2%e6%88%b6%e9%97%9c%e4%bf%82" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;[課程內容]&lt;/p&gt;
+&lt;p&gt;醫藥代表的角色是───&lt;br&gt;
+代表公司為客戶做產品銷售服務、&lt;br&gt;
+傳達產品處方資訊給醫藥單位、&lt;br&gt;
+將客戶對產品反應意見回饋給公司。&lt;/p&gt;
+&lt;p&gt;而您對醫藥代表的任務與價值之認知為何呢？&lt;br&gt;
+藥廠對於業務代表經常只著重於工作能力的培養，但其精神使命與價值值得各位細細思考，本次課程講師融合實做活動與引導思考：&lt;br&gt;
+在提升業績同時，是不是有什麼方法可以讓自己跳脫社會對業務的刻板印象？&lt;br&gt;
+一位優秀的醫藥代表如何建立自己以及產品的價值？&lt;br&gt;
+如何保持並運用自己的專業讓自己變的更出色、更有競爭力？&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/prestige161005/feature.jpg"/></item><item><title>2016 成大國際生醫工程研討會</title><link>https://connectome.tw/events/bees161005/</link><pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/bees161005/</guid><description>&lt;p&gt;2016 Biomedical Engineering Ecosystem Symposium&lt;/p&gt;
+&lt;p&gt;成功大學前瞻醫療器材科技中心將於10/5-6 舉辦 [2016 Biomedical Engineering Ecosystem Symposium 2016生物醫學工程生態系國際研討會 ] ，本研討會邀請國內外3D列印、精準醫療、生醫材料以及醫療器材四大領域的專家學者進行精彩演講，竭誠歡迎您的蒞臨！本研討會提供免費午餐及IRB 學分(申請中)。&lt;/p&gt;
+&lt;p&gt;2016生物醫學工程生態系國際研討會&lt;br&gt;
+■ 會議說明： &lt;br&gt;
+2016生物醫學工程生態系國際研討會旨在加強生物醫學工程以及醫療器材領域專業人才的互動，鼓勵相互交流生物醫學工程以及醫療器材相關的新見解，分享最先進的研究和醫療器材開發。本研討會主題有四：3D列印、精準醫療、生醫材料以及醫療器材，提供與會者與國際知名生物醫學工程及醫材相關領域的學者知識交流的機會，不僅將建立一個強大的醫工網絡，且希望透過討論能激發與會者在活動期間獲取新知並應用於自己原有的專業領域，期以開創台灣人才於產業研發及研究創新之無限量能。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/bees161005/feature.jpg"/></item><item><title>「製造於以色列」的台灣創業家: 與伊勒伯創辦人兼執行長熊樂昌博士的對談</title><link>https://connectome.tw/events/si2c160907/</link><pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/si2c160907/</guid><description>&lt;h1 class="relative group"&gt;「製造於以色列」的台灣創業家:
+ &lt;div id="製造於以色列的台灣創業家" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%a3%bd%e9%80%a0%e6%96%bc%e4%bb%a5%e8%89%b2%e5%88%97%e7%9a%84%e5%8f%b0%e7%81%a3%e5%89%b5%e6%a5%ad%e5%ae%b6" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+
+&lt;h1 class="relative group"&gt;與伊勒伯創辦人兼執行長熊樂昌博士的對談
+ &lt;div id="與伊勒伯創辦人兼執行長熊樂昌博士的對談" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%88%87%e4%bc%8a%e5%8b%92%e4%bc%af%e5%89%b5%e8%be%a6%e4%ba%ba%e5%85%bc%e5%9f%b7%e8%a1%8c%e9%95%b7%e7%86%8a%e6%a8%82%e6%98%8c%e5%8d%9a%e5%a3%ab%e7%9a%84%e5%b0%8d%e8%ab%87" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以色列面積只有台灣的三分之二，卻擁有全世界第二大的創新生態系統，人均創業密度為全球第一，其中第二大城市特拉維夫(Tel Aviv)更是創業聖地，被稱為矽谷第二。以色列是如何創造出如此蓬勃發展的創業生態系統? 與以色列同樣擁有不大的內需市場、出口導向、本土資金規模小但技術人才充足等特性的台灣，是否可以從中得到借鏡? Si2C SPARK Taiwan這次邀請到”Made in Israel”的台灣創業家熊樂昌博士，分享他在以色列學習及創業的經驗，如何透過成功的技術商品化經驗，獲得國際資金挹注並在台灣打造「以色列風格」的新創公司-伊勒伯科技(Winnoz)。熊博士並將分享以色列新創生態環境以及政策制度、以色列生技醫藥產業概況、當地社群連結方式及強度、以及投資環境、投資人樣態及投資觀察重點等。台灣及以色列能否憑藉各自的強項及互補之處，協同兩國的優勢打造完美的合作模式? 熊博士此次更將以自身創業經驗，鼓勵台灣年輕人「創新思維、適當規畫、勇於冒險、充分溝通、起身執行接受並學會被否定」!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/si2c160907/feature.jpg"/></item><item><title>ISO 13485:2016 品質管理系統 內部稽核員訓練課程</title><link>https://connectome.tw/events/ntut0901/</link><pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ntut0901/</guid><description>&lt;p&gt;眾所矚目的 ISO 13485:2016年版, 終於在2016 年3 月1 日正式公告了。這項醫療器材界 年度最大事件,對相關政府機構,驗證單位,業者,供應鏈等都造成相當大的衝擊,針對此次改版,本聯 盟邀請BSI講師準備了一系列轉版資料、服務與GMP廠房模擬稽核等相關課程，以協助客戶及企 業組織順利轉換至新版。歡迎聯盟成員及其他有興趣者加入ISO 13485 驗證行列。 新版ISO 13485 適用於整個供應鏈，並且可望應用在醫療器材的整個生命週期。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ntut0901/feature.jpg"/></item><item><title>臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程</title><link>https://connectome.tw/events/dcb16100102/</link><pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dcb16100102/</guid><description>&lt;p&gt;臨床研究專案經理(Clinical Project Manager, CPM)  專業實務訓練課程&lt;/p&gt;
+&lt;p&gt;課程說明：依據美國Pay Scale Human Capital 2015年統計，臨床研究專案經理(CPM)年薪中位數為84,349美元，在國內外均屬超熱門職業。新政府揭櫫「5大創新研發計畫」中亦包含積極推動生物科技產業政策，生技產業受惠利多政策，國內外藥廠、CRO、醫材、醫療機構等相關產業對CPM人才亦需求孔急。&lt;br&gt;
+          本課程為台灣極寶貴之專業實務訓練課程，為無經驗或初任CPM之學員提供全方位藥品、醫材、食品、學術臨床研究支CPM角色功能指導。本課程可提供臨床研究新職涯選擇之整備，藉助豐富經驗的實務講師提供實務研究、專業表格等寶貴工具進行全系列教學，可供立即運用於CPM工作。&lt;br&gt;
+          課程設計涵蓋CPM工作必備職能，遵循ICH GCP法規架構，師資成員延聘自CRO、生技公司、著名藥廠、學界及醫學中心深具臨床研究實務經驗工作者。對有意加入CPM工作卻不知如何切入者或實務年資2年內亟盼業務精進者均提供難得的學習機會！小班教學，名額有限，請有志者把握難得的機會報名，全程參與者生技中心(DCB)將提供學員精美上課證書。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dcb16100102/feature.jpg"/></item><item><title>生醫跨界大冒險-闖入M.I.T. Sloan的醫生日記</title><link>https://connectome.tw/events/hitforasia160907/</link><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/hitforasia160907/</guid><description>&lt;p&gt;H.I.T 講座 &amp;ndash;【生醫跨界大冒險-闖入M.I.T. Sloan的醫生日記】&lt;/p&gt;
+&lt;p&gt;原是台灣長庚醫院、雙和醫院腸胃科主治醫師。目前在麻省理工學院(MIT)史隆管理學院修習企業管理(MBA)碩士學位的廖威宣，將利用暑假實習完的空檔回台灣分享從主治醫生到選擇申請MBA的心路歷程以及這年在史隆商學院的求學經驗。&lt;/p&gt;
+&lt;p&gt;如果醫生很重要的使命是懸壺濟世，那擁抱世界之下，人的交流跟商學院的實務是否能為現有的醫療模式帶來更多創新的靈感？這個提問促使廖威宣一年多前做出選擇，跨出生醫創新的第一步。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/hitforasia160907/feature.jpg"/></item><item><title>尋找創投：創業者與創投的共生關係</title><link>https://connectome.tw/events/si2c160823/</link><pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/si2c160823/</guid><description>&lt;p&gt;創業者初與創投接觸或溝通時很容易產生挫折感，最主要是不瞭解投資生態與投資人的期望，導致雙方溝通不良、對話難以聚焦所致。方頌仁博士過去曾擔任AsiaTech基金的台北辦公室合夥人，專注於早期投資。在2008年創立達盈管顧後，專注成長期公司的投資，目前管理4個基金，已投資39家公司，有超過20家公司透過上市櫃或併購而成功退出。達盈三位合夥人過去10年亦為天使投資人，合計投資過30家以上的新創公司。&lt;/p&gt;
+&lt;p&gt;本講座中方頌仁博士將與林桂光副總經理共同分享逐漸改變中的早期投資者、及台灣的創投整體生態，並傳授如何與創投對話的訣竅，以協助創業者儘快與創投取得共識，進而能在創業舞台茁壯成長。講座中同時將討論生技題材投資時特別會被注意的項目、以及於學校技轉或智慧財產權問題處理時的相關議題。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/si2c160823/feature.jpg"/></item><item><title>TRPMA 2016大陸醫藥品管理新制與兩岸合作戰略論壇</title><link>https://connectome.tw/events/trpma16082223/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/trpma16082223/</guid><description>&lt;p&gt;「TRPMA 2016大陸醫藥品管理新制與兩岸合作戰略論壇」將於8 月22及23日，分別針對生技新藥及醫療器材舉行兩場次。本次論壇邀請大陸方恩醫藥張丹董事長、馮毅副總裁 (前大陸CDE主任助理)、以及中國外商製藥協會(RDPAC)卓永清高級顧問等專家，演講分享2015年大陸國務院44公告後，一連串醫藥品法規大幅變革下，大陸生技醫藥產業的發展趨勢、藥品註冊管理新制實施近況，以及新制下新藥新醫材研發的策略規劃。同時也邀請太景生技張俐雯資深主任深入分享太景兩岸新藥研發的實務經驗，並舉行座談。TRPMA敬邀國內、外生技醫藥產業及相關團體踴躍派員參加！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/trpma16082223/feature.jpg"/></item><item><title>2016 高階醫材研發技術平台暨商機論壇</title><link>https://connectome.tw/events/ntutvisit160810/</link><pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ntutvisit160810/</guid><description>&lt;p&gt;   近來，醫材市場已有朝向高階醫材佈局的趨勢，如何抓住這股趨勢成功發展高階醫材，使其成為台灣擁有的產業優勢，同時帶動與建構台灣醫材產業之發展，將是此次論壇主要探討的主題。除此之外，也將著墨於高階醫材市場應用與發展趨勢，以「在地整合，洞悉國際」為主軸，邀請國內及國際專家，深入討論產業策略，剖析國際市場。&lt;/p&gt;
+&lt;p&gt;    本次會議將邀請政府部門與知名企業做精彩的專業論壇。在此，我們誠摯地邀請您參加本次會議，邀請您能一同參加專題論壇，與國內各領域之專家交流洽談，尋找新思路、新方法、整合台灣資源。同時，串聯國內產、學、研、醫之能量推廣企業、產品、技術和服務，歡迎您前來參與本次論壇，共同來加速提升國內生醫材料產業之國際競爭力！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ntutvisit160810/feature.jpg"/></item><item><title>「銀髮長照x智慧醫療」黑客松 ＝AIM高齡長照工作坊</title><link>https://connectome.tw/events/aim160625/</link><pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/aim160625/</guid><description>&lt;p&gt;「銀髮長照x智慧醫療」黑客松 ＝AIM高齡長照工作坊&lt;/p&gt;
+&lt;p&gt;老人福利推動聯盟 x 北醫高齡健康管理學系&lt;br&gt;
+聯手助你了解銀髮產業現況與困境&lt;/p&gt;
+&lt;p&gt;各域高手大募集！&lt;br&gt;
+不論你是學生、還是業界人士，歡迎來挑戰！&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;透過工作坊集思廣益並打造高齡照顧好解方&lt;br&gt;
+藉由學界、醫界、高齡市場開發、健康新創產業&amp;hellip;等各域前輩經驗&lt;br&gt;
+協助你磨練好點子，打造銀髮創新服務方案&lt;br&gt;
+並於當天下午進行提案發表&lt;br&gt;
+成績優異的隊伍&lt;br&gt;
+鼓勵你繼續參加銀享全球「史丹福銀髮設計競賽」&lt;br&gt;
+或微軟「亞洲區imagine cup競賽」&lt;br&gt;
+將有機會前進美國矽谷史丹福或西雅圖微軟總部，站上世界舞台！
+ &lt;div id="將有機會前進美國矽谷史丹福或西雅圖微軟總部站上世界舞台" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%b0%87%e6%9c%89%e6%a9%9f%e6%9c%83%e5%89%8d%e9%80%b2%e7%be%8e%e5%9c%8b%e7%9f%bd%e8%b0%b7%e5%8f%b2%e4%b8%b9%e7%a6%8f%e6%88%96%e8%a5%bf%e9%9b%85%e5%9c%96%e5%be%ae%e8%bb%9f%e7%b8%bd%e9%83%a8%e7%ab%99%e4%b8%8a%e4%b8%96%e7%95%8c%e8%88%9e%e5%8f%b0" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;時間：2016/06/25 (六) 08:30 ~ 17:30&lt;br&gt;
+地點：臺北市中山區長安東路1段18號6樓 (經濟部通訊產業發展推動小組 601室)&lt;br&gt;
+活動詳情： &lt;a href="http://www.accupass.com/event/register/1606021519011082726303" target="_blank" rel="noreferrer"&gt;http://www.accupass.com/event/register/1606021519011082726303&lt;/a&gt;&lt;br&gt;
+報名請見： &lt;a href="https://goo.gl/4LHBXk" target="_blank" rel="noreferrer"&gt;https://goo.gl/4LHBXk&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/aim160625/feature.jpg"/></item><item><title>2016 台灣生技月</title><link>https://connectome.tw/events/biotaiwan2016/</link><pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biotaiwan2016/</guid><description>&lt;p&gt;台灣生技月(BioTaiwan)已由亞太轉進為國際重要的大型生物科技產業（Biotechnology）專業活動之一；BioTaiwan 以五合一形式舉行，包含有亞洲生技商機高峰論壇、兩岸生醫產業合作論壇、國際研討會、生物科技大展以及生技商機媒合會。著重在連結全球生技產業價值鏈，並佈局亞太地區各經濟體合作之指標性生技展會。&lt;/p&gt;
+&lt;p&gt;BioTaiwan除了國內產官學研界之熱烈參與外，亦吸引來自亞太及世界各地生物科技廠商、藥廠、創投與會，如中國、日本、韓國、新加坡、印度、香港、澳洲、紐西蘭、荷蘭等，來參與產品、服務、技術及新知之交流及合作、，藉由此平台帶動生技各領域發展、創造兆元產業商機。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biotaiwan2016/feature.jpg"/></item><item><title>2016 台灣生醫暨新農業產業選秀大賽</title><link>https://connectome.tw/events/epoch16/</link><pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/epoch16/</guid><description>&lt;p&gt;2016 台灣生醫暨新農業產業選秀大賽&lt;/p&gt;
+&lt;p&gt;指導   行政院科技會報辦公室&lt;br&gt;
+主辦       工業技術研究院、台灣生物產業發展協會、台北市生物產業協會、台灣科技農企業發展協會、中華農企業發展協會、時代基金會&lt;br&gt;
+贊助  杏國新藥股份有限公司、泰合生技藥品股份有限公司&lt;/p&gt;
+&lt;p&gt;【歷年前三名企業 最高推薦】台耀化學、德英生物科技、杏國新藥、明達醫學、台灣微脂體、永昕生物醫藥、因華生技、泰合生技、百泰生物科技、芝林企業、利統、瑞寶基因、中華海洋生技、綠盈國際花卉：「獲此國家級最高榮譽，不僅有效提高知名度、激勵同仁士氣，也吸引國內外資源的注意，增加許多創投界探詢、潛力夥伴尋求合作、或市場開發的新機會，對公司的持續成長和長程發展，是相當重要的肯定和助力。」 (2015得獎企業推薦：&lt;a href="http://goo.gl/GQbKcP" target="_blank" rel="noreferrer"&gt;http://goo.gl/GQbKcP&lt;/a&gt;)&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/epoch16/feature.jpg"/></item><item><title>智慧財產創新服務暨實戰經驗分享</title><link>https://connectome.tw/events/idb160516/</link><pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/idb160516/</guid><description>&lt;p&gt;智慧財產創新服務暨實戰經驗分享&lt;/p&gt;
+&lt;p&gt;跨國「運營」與「運贏」智慧財產能量益發重要，政府提供產、學、研所需智財相關專業服務資源，包括：籌組「智慧財產服務特種部隊」、建置「公有雲專利資料庫」、推動「智財服務機構能量登錄」，並提供跨國專利與產業動態全球即時情報資源、延攬具跨國實戰經驗之專家、及整合國內技術服務業者提供各界所需服務。&lt;/p&gt;
+&lt;p&gt;5/16(一)於空總創新基地舉辦智財創新服務分享，除詳盡介紹上述各項資源外，亦邀請多年跨國經驗專家帶來優質智財策略擬定思維，及涵蓋通訊、文創、生醫等不同領域企業分享委外服務經驗，輔以智財服務業者就智財管理、加值、評價、法務等不同面向說明，讓各界了解智財服務價值鏈內容及重要性，靈活運用政府服務，啟動自身智財加值計畫，歡迎各界踴躍出席！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/idb160516/feature.jpg"/></item><item><title>醫學尬工程 蹦出新智慧</title><link>https://connectome.tw/events/aim160506/</link><pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/aim160506/</guid><description>&lt;p&gt;人工智慧目前被廣泛用於各行各業當中&lt;br&gt;
+其中醫學領域也已經有人工智慧化的趨勢了&lt;br&gt;
+身為醫學與工程的一份子! 你會實作自己的邏輯分類器嗎?&lt;br&gt;
+5/6 AIM 人工智慧醫學組織 系列活動 將舉辦AI工作坊&lt;/p&gt;
+&lt;p&gt;我們請來了&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;北醫大醫學資訊研究所 羅崇銘老師&lt;/li&gt;
+&lt;li&gt;北醫附設醫院 復健科_ 康峻宏醫師&lt;br&gt;
+為大家分析傳統醫學訊號如何用工程的方式表達，並詳述其生理上與工程的特徵與意義&lt;/li&gt;
+&lt;li&gt;台大醫工所_林哲宇博士&lt;br&gt;
+講解數學模型的預測與其建立實作基礎，讓與會者都瞭解到人工智慧(AI)，如何運用於復健醫學與生醫訊號上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;來為我們開啟 人工智慧面面觀、生醫訊號分析和實作分類器模型， 歡迎大家一起來參與! 蹦出新智慧!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/aim160506/feature.jpg"/></item><item><title>MedInno Salon-VR醫療新創之路</title><link>https://connectome.tw/events/medinnocatalyst160507/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/medinnocatalyst160507/</guid><description>&lt;p&gt;【MedInno Salon - 醫材產業沙龍】&lt;br&gt;
+【國際醫材產業個案分材 X 台灣智慧醫療發展方向】&lt;/p&gt;
+&lt;p&gt;根據商業週刊2016年3月刊報導，今年被喻為虛擬實境 (Virtual Reality) 元年，從年初CES消費性電子展、3/28 FaceBook搶先推出VR裝置，到科技大廠微軟、索尼、宏達電等也陸續推出新品，而在醫療領域又是如何？&lt;br&gt;
+MedInno Catalyst 醫療器材催化器在此推出新一季創業沙龍，主題圍繞在VR醫療新創之路，新創團隊的幕後推手，來自成功大學虛擬實境與多媒體實驗室主持人方晶晶教授與職能治療系馬慧英教授聯手主講，VR技術在臨床醫學上有怎樣的應用模式與創新？&lt;br&gt;
+除了創新技術，醫療上對於法規、智慧財產甚至創業者本身的經驗，此次沙龍也設計了跨領域觀點的交叉討論，整體的醫療創新發展，為您一次蒐集。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/medinnocatalyst160507/feature.jpg"/></item><item><title>Prestige Project V 醫藥學術專員 (MSL) - 醫藥學術簡報系列課程</title><link>https://connectome.tw/events/prestige1605/</link><pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/prestige1605/</guid><description>&lt;h2 class="relative group"&gt;[Prestige Project V 醫藥學術專員 (MSL) - 醫藥學術簡報系列課程]&lt;br&gt;
+隆重推出! 精心設計! 四堂醫藥學術簡報系列課程!&lt;br&gt;
+第一堂我們將以 MSL醫藥學術專員的介紹做為系列課程的開場。&lt;br&gt;
+由MSL Ben講師帶領我們了解醫藥學術簡報的製作重點以及向醫師報告的技巧。&lt;br&gt;
+後續系列課程&amp;ndash;簡報製作大補帖&lt;br&gt;
+第二、三堂由主講超過兩百場簡報培訓課程的Bill講師&lt;br&gt;
+教授簡報製作的心法、方法、技法！&lt;br&gt;
+並於第四堂課實際成果展現，體驗MSL的職場經歷！
+ &lt;div id="並於第四堂課實際成果展現體驗msl的職場經歷" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%a6%e6%96%bc%e7%ac%ac%e5%9b%9b%e5%a0%82%e8%aa%b2%e5%af%a6%e9%9a%9b%e6%88%90%e6%9e%9c%e5%b1%95%e7%8f%be%e9%ab%94%e9%a9%97msl%e7%9a%84%e8%81%b7%e5%a0%b4%e7%b6%93%e6%ad%b7" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;開放單報第一堂，名額60人，給想瞭解MSL的你/妳。&lt;br&gt;
+5/3(二)第一堂18:30-2130@台大水森館101講堂&lt;br&gt;
+&lt;a href="http://prestige.kktix.cc/events/5c74b1e2-69a1cc-7a782a" target="_blank" rel="noreferrer"&gt;http://prestige.kktix.cc/events/5c74b1e2-69a1cc-7a782a&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/prestige1605/feature.jpg"/></item><item><title>2016年 第五屆「青少年醫學研習營」</title><link>https://connectome.tw/events/adolescent-medicine-camp/</link><pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/adolescent-medicine-camp/</guid><description>&lt;h2 class="relative group"&gt;2016年第五屆青少年醫學營-人人都長壽的超高齡社會
+ &lt;div id="2016年第五屆青少年醫學營-人人都長壽的超高齡社會" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2016%e5%b9%b4%e7%ac%ac%e4%ba%94%e5%b1%86%e9%9d%92%e5%b0%91%e5%b9%b4%e9%86%ab%e5%ad%b8%e7%87%9f-%e4%ba%ba%e4%ba%ba%e9%83%bd%e9%95%b7%e5%a3%bd%e7%9a%84%e8%b6%85%e9%ab%98%e9%bd%a1%e7%a4%be%e6%9c%83" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;主題：人人都長壽的超高齡社會&lt;/li&gt;
+&lt;li&gt;時間：2016年5月29日(星期日) 上午9:00-12:00&lt;/li&gt;
+&lt;li&gt;地點：陽明大學活動中心大禮堂(台北市北投區立農街2段155號)&lt;/li&gt;
+&lt;li&gt;目標：提高青少年對高齡醫學之知識與興趣，培養國家未來的生醫科技人才。&lt;/li&gt;
+&lt;li&gt;參加者：公私立高中生及教師。&lt;/li&gt;
+&lt;li&gt;報名方式及費用：網路免費報名(採網路報名，額滿截止，限1000名)&lt;/li&gt;
+&lt;li&gt;報名截止日期：即日起至2016年4月30日&lt;/li&gt;
+&lt;li&gt;活動費用:免費，會後並發放研習証書一份。&lt;/li&gt;
+&lt;li&gt;主辦單位：國立陽明大學、臺北榮民總醫院、財團法人張昭鼎紀念基金會&lt;/li&gt;
+&lt;li&gt;協辦單位：私立延平中學&lt;/li&gt;
+&lt;li&gt;報名查詢：&lt;a href="http://www.saints-united.com/cctmf/cct_rs97.jsp" target="_blank" rel="noreferrer"&gt;http://www.saints-united.com/cctmf/cct_rs97.jsp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;課程活動：請參考&lt;a href="http://www.cctmf.org.tw/20160529.pdf" target="_blank" rel="noreferrer"&gt;附件(PDF檔案)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/adolescent-medicine-camp/feature.jpg"/></item><item><title>「台灣生技原創力」投資創業講座：第 21 場活動</title><link>https://connectome.tw/events/stpinarl160407/</link><pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/stpinarl160407/</guid><description>&lt;p&gt;在4/7的「台灣生技原創力」系列講座，我們榮幸邀請到邀請第二十場活動講者，引發熱烈討論的工研院生醫醫材所副所長蔡秀娟博士擔任客座主持人。當天的重量級講者是Dr. Gerald J. Kost。Dr. Kost來自美國UC Davis ，是在Point-of-Care Testing (POCT)領域國際級的Key Opinion Leader。當天的團隊為剛榮獲第十二屆國家新創獎的iXensor安盛生科，安盛將介紹他們創新的手機血糖量測系統。&lt;/p&gt;
+&lt;p&gt;因為機會難得但場地座位有限，我們希望優先邀請和POCT領域相關研發、投資或者有興趣的論壇夥伴參加。有興趣的論壇夥伴，請您撥冗10分鐘協助上網填寫問卷，一起參與制訂台灣POCT guidelines，4/7活動當天Dr. Kost 將報告問卷調查結果。&lt;a href="https://zh.surveymonkey.com/r/3VDG6CH" target="_blank" rel="noreferrer"&gt;https://zh.surveymonkey.com/r/3VDG6CH&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/stpinarl160407/feature.jpg"/></item><item><title>經營自己、創造價值: 關於培養自我價值與職場素養的思辨</title><link>https://connectome.tw/events/prestige160331/</link><pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/prestige160331/</guid><description>&lt;h1 class="relative group"&gt;[經營自己、創造價值: 關於培養自我價值與職場素養的思辨]
+ &lt;div id="經營自己創造價值-關於培養自我價值與職場素養的思辨" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%b6%93%e7%87%9f%e8%87%aa%e5%b7%b1%e5%89%b5%e9%80%a0%e5%83%b9%e5%80%bc-%e9%97%9c%e6%96%bc%e5%9f%b9%e9%a4%8a%e8%87%aa%e6%88%91%e5%83%b9%e5%80%bc%e8%88%87%e8%81%b7%e5%a0%b4%e7%b4%a0%e9%a4%8a%e7%9a%84%e6%80%9d%e8%be%a8" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;台大PRESTIGE &amp;amp; 北醫DREAMERS 聯合主辦&lt;/p&gt;
+&lt;p&gt;主講者: 惠氏前總裁 王文德先生&lt;/p&gt;
+&lt;p&gt;時間: 3/31 (四)18:30-21:00 (18:15 開始入場)&lt;/p&gt;
+&lt;p&gt;地點: 台大水森館 101講堂&lt;/p&gt;
+&lt;p&gt;費用: 煩於現場報到時繳交(費用包含講師費、行政雜費)&lt;/p&gt;
+&lt;p&gt;在學生(不限學校):100 台大/北醫校友: 200 其他人士:300&lt;/p&gt;
+&lt;p&gt;報名網址: &lt;a href="http://prestige.kktix.cc/events/5c74b1e2-69a1cc-d311fc" target="_blank" rel="noreferrer"&gt;http://prestige.kktix.cc/events/5c74b1e2-69a1cc-d311fc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;[活動簡介]
+ &lt;div id="活動簡介" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%b4%bb%e5%8b%95%e7%b0%a1%e4%bb%8b" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;您是一個社會新鮮人嗎? 您對於未來的職涯規劃感到茫然嗎?&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/prestige160331/feature.jpg"/></item><item><title>[北醫DREAMERS徵才系列] 百瑞精鼎-我的徵才時代</title><link>https://connectome.tw/events/dreamers160328/</link><pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/dreamers160328/</guid><description>&lt;p&gt;百瑞精鼎（PAREXEL International Co., Ltd.）是一家致力於藥物臨床試驗研究的臨床研究委託機構（Contract Research Organization），協助世界各國大藥廠從事新藥開發及臨床試驗。&lt;br&gt;
+百瑞精鼎總部位於美國，為那斯達克(NASDAQ)上市公司，提供客戶最專業和符合國際標準的臨床研究委託服務，目前已成為國內規模最大、服務項目最完整之專業國際CRO公司。&lt;br&gt;
+2014年，更獲台灣醫界聯盟基金會評選為台灣表現最佳的CRO公司。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/dreamers160328/feature.jpg"/></item><item><title>MEDxLIVE 2016 Course</title><link>https://connectome.tw/events/ntulivecourse16/</link><pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/ntulivecourse16/</guid><description>&lt;p&gt;你想成為數位時代下的健康領域創業家嗎 ! 不斷探索的你，準備好了嗎！&lt;br&gt;
+MEDx LIVE 2016 Course 是一個打造台灣未來醫療科技人才的課程, 以project-based互動式教學方式引導學員進行思辨, learning by doing.&lt;br&gt;
+選課對象：本課程將招收約 20 名學員(預計為 4 個隊伍)，開放給對於生醫創業領導有高度興趣的學生與業界人士。&lt;/p&gt;
+&lt;p&gt;申請連結：&lt;a href="http://goo.gl/forms/I2EBFyTs2r" target="_blank" rel="noreferrer"&gt;http://goo.gl/forms/I2EBFyTs2r&lt;/a&gt;&lt;br&gt;
+截止日期：3/21 Monday, last weekend to register&lt;br&gt;
+課程時間：2016/4/9(六)、4/16 (六)、 4/23(六)、4/30 (六, optional)：前3 -4堂課 9:00 ~13:00&lt;br&gt;
+Final Presentation：5/14(六)：18:00 ~ 22:00&lt;br&gt;
+課程費用：5,000 NTD－全職學生；10,000 NTD - 業界人士&lt;br&gt;
+贈送2本書籍：The 4 hour work week、Speak like TED。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/ntulivecourse16/feature.jpg"/></item><item><title>夏日狂潮 -- 生技醫藥材產業 Networking Party 暨交流晚會</title><link>https://connectome.tw/events/tmu160324/</link><pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/tmu160324/</guid><description>&lt;p&gt;夏日狂潮—生技醫藥材產業Networking Party暨交流晚會&lt;/p&gt;
+&lt;p&gt;想在短時間內認識多位知名企業之高階經理人嗎？&lt;br&gt;
+想認識其他同行優秀的同學及夥伴嗎？&lt;br&gt;
+想在一個晚上，就大大的擴充自己的人脈口袋嗎？&lt;br&gt;
+那你絕對不能錯過這次的Party！&lt;br&gt;
+北醫史上第一場」，以生醫產業為主所精心打造之Party&lt;br&gt;
+知名企業主管百忙抽空，機會難得，錯過這次，再等？年！&lt;/p&gt;
+&lt;p&gt;本次活動由臺北醫學大學企業管理研究社、DREAMERS藥學企業管理研究社、卓越領導社共同舉辦，旨在提供所有對生醫領域有興趣之人士一個擴展人脈、認識市場、了解自我以及交流意見的場合，期望在這樣一個輕鬆的夜晚，能帶給大家與以往不一樣的收穫！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/tmu160324/feature.jpg"/></item><item><title>創新醫材公司經驗與創新醫材趨勢演講會</title><link>https://connectome.tw/events/biopharm150119/</link><pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate><guid>https://connectome.tw/events/biopharm150119/</guid><description>&lt;p&gt;我國醫療器材產業在結合精密機械、資通訊產業的技術能量，以及醫界先進的實際使用經驗後，近年來，產生不少新創醫材公司，考量到生技醫藥公司創業惟艱，在法規，資金，智財等不同面項會遭遇種種問題。因此經濟部生醫推動小組與交大 EMBA 合作，由工研院北美公司邀請多年來在其引介下與台灣有互動合作的電腦刀（CyberKnife）發明人 Dr. John R. Adler，分享於醫材產業 25 多年的創業與營運經驗，及在 Stanford 大學任職創新醫療器材副主席所觀察到的創新醫材趨勢。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/events/biopharm150119/feature.jpg"/></item></channel></rss>

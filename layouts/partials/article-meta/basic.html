@@ -71,15 +71,7 @@
   {{/* Tags moved to after body in single.html — no taxonomy output here for single scope */}}
   {{ if and (ne $scope "single") (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false)) }}
     <div class="flex flex-row flex-wrap items-center">
-      {{ range $taxonomy, $terms := .Site.Taxonomies }}
-        {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
-          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
-            {{ range $context.GetTerms $taxonomy }}
-              <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">{{ partial "badge.html" .LinkTitle }}</a>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
+      {{ partial "article-meta/taxonomy-badges.html" $context }}
     </div>
   {{ end }}
 

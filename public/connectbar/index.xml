@@ -1,133 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Connect 吧 on Connectome</title>
-    <link>http://localhost:1313/connectbar/</link>
-    <description>Recent content in Connect 吧 on Connectome</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 24 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/connectbar/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>實習分享計畫</title>
-      <link>http://localhost:1313/connectbar/intership-sharing-recruit/</link>
-      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/intership-sharing-recruit/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/intership-sharing-recruit/feature.png" />
-    </item>
-    
-    <item>
-      <title>生技產業薪資分享</title>
-      <link>http://localhost:1313/connectbar/salary-sharing-recruit/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/salary-sharing-recruit/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/salary-sharing-recruit/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Connectome 海外連結計畫</title>
-      <link>http://localhost:1313/connectbar/oversea-connection-sharing-recruit/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/oversea-connection-sharing-recruit/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/oversea-connection-sharing-recruit/feature.png" />
-    </item>
-    
-    <item>
-      <title>原料藥廠</title>
-      <link>http://localhost:1313/connectbar/api/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/api/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/api/feature.png" />
-    </item>
-    
-    <item>
-      <title>本土藥廠</title>
-      <link>http://localhost:1313/connectbar/local-pharma/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/local-pharma/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/local-pharma/feature.png" />
-    </item>
-    
-    <item>
-      <title>外商藥廠</title>
-      <link>http://localhost:1313/connectbar/foreign-pharma/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/foreign-pharma/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/foreign-pharma/feature.png" />
-    </item>
-    
-    <item>
-      <title>醫藥物流業</title>
-      <link>http://localhost:1313/connectbar/medical-logistics/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/medical-logistics/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/medical-logistics/feature.png" />
-    </item>
-    
-    <item>
-      <title>保健食品廠商</title>
-      <link>http://localhost:1313/connectbar/health-food-companies/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/health-food-companies/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/health-food-companies/feature.png" />
-    </item>
-    
-    <item>
-      <title>臨床試驗</title>
-      <link>http://localhost:1313/connectbar/clinical-trial/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/clinical-trial/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/clinical-trial/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>醫療器材</title>
-      <link>http://localhost:1313/connectbar/medical-device/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/medical-device/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/medical-device/feature.jpeg" />
-    </item>
-    
-    <item>
-      <title>研發型生技新藥</title>
-      <link>http://localhost:1313/connectbar/rd-biotech/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/rd-biotech/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/rd-biotech/feature.png" />
-    </item>
-    
-    <item>
-      <title>Connectome 菁英育成計畫</title>
-      <link>http://localhost:1313/connectbar/connectome-elite-breeding/</link>
-      <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/connectbar/connectome-elite-breeding/</guid>
-      <description>回首去年甫創立 Connectome 時，不斷吸收新知且大量接觸前輩，在懵懂中，力求突破的歷程。今日的我們藉著資訊流通平台，傳遞最新、最好的生技訊息給大眾，更相信 Connectome 能主動出擊，為生技產業人才培育創造更多成效！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/connectbar/connectome-elite-breeding/feature.jpg" />
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Connect 吧 on Connectome</title><link>https://connectome.tw/connectbar/</link><description>Recent content in Connect 吧 on Connectome</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2026</copyright><lastBuildDate>Sun, 24 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://connectome.tw/connectbar/index.xml" rel="self" type="application/rss+xml"/><item><title>實習分享計畫</title><link>https://connectome.tw/connectbar/intership-sharing-recruit/</link><pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/intership-sharing-recruit/</guid><description>&lt;p&gt;2012 年開始，Connectome 在部落格建置了實習故事專區，我們號召有參與產業實習經驗的朋友撰文分享自己的經歷。我們相信，有更多人的分享、關注，將可帶來更多討論！&lt;/p&gt;
+&lt;p&gt;填寫問卷，一起分享自己的實習故事：&lt;a href="http://goo.gl/LrczHh" target="_blank" rel="noreferrer"&gt;問卷連結&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/intership-sharing-recruit/feature.png"/></item><item><title>生技產業薪資分享</title><link>https://connectome.tw/connectbar/salary-sharing-recruit/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/salary-sharing-recruit/</guid><description>&lt;p&gt;在考量工作時除了能帶來成就感以及成長外，薪資亦是相當重要的影響因素，然而關於薪資的資訊卻往往相當難以取得，因此 Connectome 團隊便設計了這樣的薪資匿名分享平台，並同時收集對該公司的評價與工作細節、型態等，期望能藉由這樣的資訊，能作為求職者對薪資要求的參考依據，以及職涯規劃與發展的參考，並促進資訊的流通與透明，創造更友善的求職環境。&lt;/p&gt;
+&lt;p&gt;然而我們知道薪資往往是企業或個人不願洩漏的，因此本平台完全匿名，也不硬性規定填寫公司名稱，希望能吸引更多人填寫，期待讀者共同響應。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/salary-sharing-recruit/feature.jpg"/></item><item><title>Connectome 海外連結計畫</title><link>https://connectome.tw/connectbar/oversea-connection-sharing-recruit/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/oversea-connection-sharing-recruit/</guid><description>&lt;h2 class="relative group"&gt;和我們一起分享你/妳的生技故事，激盪出屬於台灣的生技世界觀！
+ &lt;div id="和我們一起分享你妳的生技故事激盪出屬於台灣的生技世界觀" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%92%8c%e6%88%91%e5%80%91%e4%b8%80%e8%b5%b7%e5%88%86%e4%ba%ab%e4%bd%a0%e5%a6%b3%e7%9a%84%e7%94%9f%e6%8a%80%e6%95%85%e4%ba%8b%e6%bf%80%e7%9b%aa%e5%87%ba%e5%b1%ac%e6%96%bc%e5%8f%b0%e7%81%a3%e7%9a%84%e7%94%9f%e6%8a%80%e4%b8%96%e7%95%8c%e8%a7%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;如何分享？
+ &lt;div id="如何分享" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%a6%82%e4%bd%95%e5%88%86%e4%ba%ab" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Column（專欄系列）：&lt;/strong&gt; 建立您的小專欄，擁有自己的粉絲！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Select（單篇分享）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mini-Forum（回台分享會）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online Interview（線上專訪）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其他：&lt;/strong&gt; 歡迎洽談任何合作、分享的形式！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;看看其他分享者的經驗故事：
+ &lt;div id="看看其他分享者的經驗故事" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%9c%8b%e7%9c%8b%e5%85%b6%e4%bb%96%e5%88%86%e4%ba%ab%e8%80%85%e7%9a%84%e7%b6%93%e9%a9%97%e6%95%85%e4%ba%8b" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/posts/cambridge-biotech-fishnchips-1-jun-hansu/" &gt;「吃炸魚薯條的日子：劍橋生技見聞」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/posts/california-biotech-first/" &gt;「飛越太平洋 – 加州生技產學見聞」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/posts/biotech-entrepreneurship/" &gt;「生技創業，沒有你想像中的難」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/columns/%E4%BE%86%E8%87%AA%E5%8A%A0%E5%B7%9E%E7%94%9F%E6%8A%80%E7%94%A2%E6%A5%AD%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B0%81%E4%BF%A1/" &gt;「來自加州生技產業的十二封信」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/columns/%E7%94%9F%E6%8A%80%E8%88%87%E8%B3%87%E5%B7%A5%E7%9A%84%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82-%E8%B7%A8%E9%A0%98%E5%9F%9F%E7%94%A2%E5%AD%B8%E8%A6%8B%E8%81%9E/" &gt;「生技與資工的親密關係 – 跨領域產學見聞」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://connectome.tw/posts/phds-ready-china/" &gt;「博士新鮮人，你/妳準備好登陸了嗎？」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;和我們一起伸展連結的觸角，就從填寫 &lt;a href="https://docs.google.com/forms/d/1aYMzLTGLxf7LDBiNLigDW4kmwj7LXZlTnytdY7exSZ0/viewform" target="_blank" rel="noreferrer"&gt;分享問卷&lt;/a&gt; 開始！&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/oversea-connection-sharing-recruit/feature.png"/></item><item><title>原料藥廠</title><link>https://connectome.tw/connectbar/api/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/api/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。
+台灣的原料藥廠具有一定的競爭力，在國際競爭合作與專利藥將陸續到期的時空背景下，被視為極具有發展潛力的生技領域。Connectome 在此為讀者收集了五家原料藥廠企業名錄，並附上求職連結與介紹，實際幫助讀者了解有哪些企業可供選擇，若您的公司亦屬於此一範疇，歡迎來信告訴我們。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;台灣神隆股份有限公司&lt;/strong&gt; &lt;a href="http://www.scinopharm.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=3c60436c346c3e6848423a1d1d1d1d5f2443a363189j99" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+台灣神隆(ScinoPharm Taiwan)為國際性原料藥公司，提供完整的原料藥(API)及中間體的製程研究開發與生產製造服務，擁有專業的技術團隊，針對學名藥及新藥開發客戶供應高價值、高品質且不抵觸專利之原料藥，也提供專利藥廠具競爭效益之商業量產服務。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/api/feature.png"/></item><item><title>本土藥廠</title><link>https://connectome.tw/connectbar/local-pharma/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/local-pharma/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;中天&lt;/strong&gt; &lt;a href="http://www.microbio.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=623a436e48463f2130683b1d1d1d1d5f2443a363189j50" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+中天生物科技公司成立於2000年。中天以發展生技新藥與優質保健功效食品為主，於2006年股票上櫃。自成立迄今，中天已連續七年榮獲國家生技醫療品質獎，連續四年蟬連全國保健食品類第一名，同時榮獲優良生物科技產業發展獎、經濟部產業科技發展獎、生醫新創獎及台北生技獎等多項殊榮。其中「化療漾」內服液，取得台灣第一件癌症口服新藥藥證，繼「化療漾」後，治療缺鐵性貧血症的「Herbiron」新藥，也接獲衛生署TFDA（食品藥物管理局）審查通過新藥查驗登記（NDA），並有多項已進入人體臨床試驗，同時，在「保健食品」領域已分別建立直營門市（棉花田生機連鎖）、直銷（清醍醐健康事業）、經銷（李時珍本草屋）等通路，為未來長期發展建立堅強基石。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/local-pharma/feature.png"/></item><item><title>外商藥廠</title><link>https://connectome.tw/connectbar/foreign-pharma/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/foreign-pharma/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。在外商藥廠工作，相信是許多生技領域求職者趨之若鶩的目標；在此 Connectome 參考 ptt bioindustry 版友先進所發表文章（原文章標題：醫藥生技產業求職連結整理），針對外商藥廠部分進行整理，提供給有意爭取外商藥廠職位的朋友們，能更快找到適合自己的機會。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;美商亞培 Abbott Taiwan&lt;/strong&gt; &lt;a href="http://www.abbott.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.abbott.com.tw/" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+亞培藥廠台灣分公司於民國72年（1983）成立，總部設於台北市，營業辦公室分佈於台北、台中、高雄三地。全國各地並派駐區業務人員推展業務服務顧客。主要產品自英、美及歐洲等地的亞培機構進口，並負責所有亞培產品在台灣的銷售、配送及售後服務。亞培是國內特殊疾病營養品產品線最完整的領導品牌公司，主要針對生病營養失衡、開刀後患者的健康維護，以口飲或管灌方式，提供最適當的營養補充；西藥主要提供免疫風濕、心血管疾病、愛滋病等處方用藥，開刀用麻醉劑，以及維他命產品，目前在國內愛滋病用藥及麻醉劑領域是市場的領導者。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/foreign-pharma/feature.png"/></item><item><title>醫藥物流業</title><link>https://connectome.tw/connectbar/medical-logistics/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/medical-logistics/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。
+Connectome 目前為讀者收集了四家醫藥物流企業名錄，並附上求職連結與介紹，實際幫助讀者了解有哪些企業可供選擇，若您的公司亦屬於此一範疇，歡迎來信告訴我們。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;久裕企業股份有限公司&lt;/strong&gt; (佳醫集團關係企業) &lt;a href="http://www.arich.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=3860436d5e463e2330423b1d1d1d1d5f24437323189j56" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+為國際專業之行銷推廣和經銷服務公司，不僅提供全方位的價值鏈服務，更聚焦於醫院診所專科推廣及藥局處方釋出指示用藥之行銷，目前終端客戶包括全省各醫學中心、區域醫院、地區醫院、診所、連鎖藥局、單點藥局、量販通路等超過12,000家對象，年營業總額逾150億，於台灣藥品市場佔有率達13.3%，為本土最大之醫藥行銷服務體系。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/medical-logistics/feature.png"/></item><item><title>保健食品廠商</title><link>https://connectome.tw/connectbar/health-food-companies/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/health-food-companies/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;遠東生物科技股份有限公司&lt;/strong&gt; &lt;a href="http://www.febico.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=3c704226485c3e223c583a1d1d1d1d5f2443a363189j99" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+遠東生技創立於1990年，以研發藻類中具有生物活性之物質為目標。期望能開發出造福人群之醫藥產品；近年來積極投入醫藥試劑及國內特有疾病之治療藥物或食品開發。遠東生技設立微藻研究所，以微藻為基礎進行生物科技相關技術與產品開發之研究，主要利用高科技微藻基因工程，將微藻特殊有效成份製成具高商業價值之生技產品。除了鞏固原有微藻及其相關衍生機能保健食品，更建置高科技發酵設備，專供發酵類生技產品的開發與研究，目前已可量產納豆激酶粉末、芽孢乳酸菌粉末與靈芝菌絲粉末，提供消費者多元機能保健食品。為一天然、有機、純淨、專業的微藻保健食品領導品牌。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/health-food-companies/feature.png"/></item><item><title>臨床試驗</title><link>https://connectome.tw/connectbar/clinical-trial/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/clinical-trial/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。
+Connectome 目前為讀者收集了八間在台灣與臨床試驗有關的企業，並附上求職連結與介紹，實際幫助讀者了解有哪些企業可供選擇，若您的公司亦屬於臨床試驗相關產業，歡迎來信告訴我們。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;佳生科技顧問股份有限公司&lt;/strong&gt; &lt;a href="http://www.ppccro.com/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=483a4427485c3e6a52423c1d1d1d1d5f2443a363189j56" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+PPC is one of the prestigious CRO grew up in Taiwan with local affiliates around the Asia-Pacific region in Japan, China, Hong Kong, Singapore, Korea and Australia for Asian Study.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;昆泰股份有限公司&lt;/strong&gt; &lt;a href="http://www.quintiles.com/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=4860426e4c5c3f2340323c1d1d1d1d5f2443a363189j56" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+Quintiles is the global leader in pharmaceutical services. We improve healthcare worldwide by providing innovative, quality professional expertise, market intelligence and partnering solutions to meet the dynamic needs of the pharmaceutical, biotechnology and healthcare industries. Quintiles has 16,000 specialized employees and offices in 50 countries.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/clinical-trial/feature.jpg"/></item><item><title>醫療器材</title><link>https://connectome.tw/connectbar/medical-device/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/medical-device/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。
+Connectome 目前為讀者收集了十一家醫療器材企業名錄，並附上求職連結與介紹，實際幫助讀者了解有哪些企業可供選擇，若您的公司亦屬於此一範疇，歡迎來信告訴我們。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;五鼎生物技術股份有限公司&lt;/strong&gt; &lt;a href="http://www.apexbio.com.tw/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;amp;j=403a446c346c3e6848423a1d1d1d1d5f2443a363189j48" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+本公司成立目標為發展成全方位的生物科技公司並積極從事研究、開發、生產、製造、銷售生物技術相關產品。目前已利用自行研發之先進生物感測技術(Biosensor)成功開發出掌上型血糖測試系統、自我檢測尿酸測試系統和多功能生化小型自我檢測系統。產品系列皆已陸續通過 ISO、FDA、GMP、SFDA 並與跨國藥廠集團及歐美亞醫療通路商簽定長期產品共同推廣合作契約。未來發展方向將加強研發管理，繼續發展本公司專長之生物感測電極系列產品、分生免疫系列產品技術開發，及環保檢測產品與中草藥保健食品之開發與銷售。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/medical-device/feature.jpeg"/></item><item><title>研發型生技新藥</title><link>https://connectome.tw/connectbar/rd-biotech/</link><pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/rd-biotech/</guid><description>&lt;p&gt;以下企業名錄整理自 Connectome 舊站（企業官網與求職連結可能已變更，僅供參考）。
+Connectome 依 2012 年所成立的「台灣研發型生技新藥發展協會」(&lt;a href="http://www.trpma.org.tw/index.php/tw/" target="_blank" rel="noreferrer"&gt;TRPMA&lt;/a&gt;) 的會員名單，整理了多達 21 家的研發型生技新藥企業，供讀者大略了解協會組成以及求職，期待讀者能找到適合的工作，為台灣生技產業盡一份心力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;友霖生技醫藥股份有限公司&lt;/strong&gt; &lt;a href="http://www.oppharma.com/" target="_blank" rel="noreferrer"&gt;官網&lt;/a&gt; &lt;a href="http://www.oppharma.com/index.php/cht/join_us/job_occupation" target="_blank" rel="noreferrer"&gt;職缺&lt;/a&gt;&lt;br&gt;
+「友霖生技」是友華生技醫藥於 2008 年 2 月 1 日成立的子公司，專注藥物研發及製造。位於雲林虎尾科學園區之新藥廠，是台灣第一家依照 PIC/S GMP、歐盟 GMP 及美國食品藥物管理局 (FDA) 21CFR 國際標準所全新興建的藥廠。在 2010 年第二季完工啟用後，2011 年七月接獲行政院衛生署食品藥物管理局 (TFDA) 認定，符合藥物製造工廠設廠標準第三編藥品優良製造規範 (PIC/S GMP)。友霖生技將以研發特殊劑型藥品並取得全球配方專利作為業務發展主力，同時引進國外藥廠具有專利保護的新產品製造技術在台生產，並向日本美國及歐盟申請產品認證，進軍海外市場。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/rd-biotech/feature.png"/></item><item><title>Connectome 菁英育成計畫</title><link>https://connectome.tw/connectbar/connectome-elite-breeding/</link><pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate><guid>https://connectome.tw/connectbar/connectome-elite-breeding/</guid><description>回首去年甫創立 Connectome 時，不斷吸收新知且大量接觸前輩，在懵懂中，力求突破的歷程。今日的我們藉著資訊流通平台，傳遞最新、最好的生技訊息給大眾，更相信 Connectome 能主動出擊，為生技產業人才培育創造更多成效！</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://connectome.tw/connectbar/connectome-elite-breeding/feature.jpg"/></item></channel></rss>
