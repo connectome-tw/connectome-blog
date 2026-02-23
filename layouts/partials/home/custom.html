@@ -1,11 +1,12 @@
 {{/* connectome.tw custom homepage: carousel + 2-col (posts left, editor's picks right) */}}
-<div class="max-w-7xl mx-auto px-4">
+<div>
   {{/* --- Carousel Logic --- */}}
   {{ $carouselItems := slice }}
 
   {{/* 1. Get Custom Picks (up to 6) */}}
-  {{ $customPicks := index .Site.Data "carousel-picks" | default slice }}
-  {{ range first 6 $customPicks }}
+  {{ $customPicksRaw := index .Site.Data "carousel-picks" | default (index .Site.Data "carousel_picks" | default slice)
+  }}
+  {{ range first 6 $customPicksRaw }}
   {{ $page := $.Site.GetPage . }}
   {{ if $page }}
   {{ $carouselItems = $carouselItems | append $page }}
@@ -182,10 +183,20 @@
   {{ end }}
 
   {{/* --- 2-Col Layout: Posts (Left) & Editor's Picks (Right) --- */}}
+  {{ $picksRaw := index .Site.Data "editors-picks" | default (index .Site.Data "editors_picks" | default slice) }}
+  {{ $validPicks := slice }}
+  {{ range $picksRaw }}
+  {{ $p := $.Site.GetPage . }}
+  {{ if $p }}
+  {{ $validPicks = $validPicks | append $p }}
+  {{ end }}
+  {{ end }}
+  {{ $hasPicks := gt (len $validPicks) 0 }}
+
   <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
 
     {{/* Left: posts list */}}
-    <div class="lg:flex-[2] lg:min-w-0">
+    <div class="{{ if $hasPicks }}lg:w-2/3{{ else }}w-full{{ end }} lg:min-w-0">
       <h2 class="text-2xl font-extrabold mb-6">最新文章</h2>
       {{ $posts := where .Site.RegularPages "Section" "posts" }}
       {{ $paginator := .Paginate ($posts) 10 }}
@@ -208,29 +219,20 @@
     </div>
 
     {{/* Right: Editor's picks, sticky */}}
-    <aside class="lg:flex-[1] lg:min-w-0 lg:sticky lg:top-24 self-start">
+    {{ if $hasPicks }}
+    <aside class="lg:w-1/3 lg:min-w-0 lg:sticky lg:top-24 self-start">
       <h2 class="text-xl font-extrabold mb-4 flex items-center gap-2">
         {{/* Optional styling for a lightweight flare */}}
         <span class="w-1.5 h-6 bg-primary-500 rounded-full inline-block"></span>
         熱門文章
       </h2>
 
-      {{ $picks := index .Site.Data "editors-picks" | default slice }}
-      <div class="space-y-4">
-        {{ range $picks }}
-        {{ $page := $.Site.GetPage . }}
-        {{ if $page }}
-        <a href="{{ $page.Permalink }}"
-          class="block group p-4 rounded-xl border border-neutral-200 dark:border-neutral-700 bg-white dark:bg-neutral-800 hover:shadow-sm hover:border-primary-300 dark:hover:border-primary-500 transition-all">
-          {{/* Title */}}
-          <h3
-            class="text-sm font-semibold text-neutral-900 dark:text-neutral-100 leading-snug group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
-            {{ $page.Title }}
-          </h3>
-        </a>
-        {{ end }}
+      <div class="space-y-1">
+        {{ range $validPicks }}
+        {{ partial "article-link/title-link.html" (dict "Page" .) }}
         {{ end }}
       </div>
     </aside>
+    {{ end }}
   </div>
 </div>
