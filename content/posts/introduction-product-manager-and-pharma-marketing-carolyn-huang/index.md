@@ -45,4 +45,4 @@
 
 <span style="color:#ffffff">.</span> 希望以上文字對你/妳有些幫助，也希望未來十年二十年可能繼續留在這個產業的我，也能分享到你/妳的經驗談喔! <span style="color:#ffffff">.</span>
 
-<span style="color:#ff0000">Connectome 致力於增進讀者對生技產業的了解，而職場見聞與職涯心得更是我們努力推廣的內容，在此感謝 Carolyn 與我們分享熱情、生動的職場見聞，期待更多讀者加入分享的行列，幫助年輕學子的生涯規劃與發展，歡迎主動[來信接洽各種合作機會或投稿</span>](/connectbar)! ![:)](https://web.archive.org/web/20191210083416im_/http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g)
+<span style="color:#ff0000">Connectome 致力於增進讀者對生技產業的了解，而職場見聞與職涯心得更是我們努力推廣的內容，在此感謝 Carolyn 與我們分享熱情、生動的職場見聞，期待更多讀者加入分享的行列，幫助年輕學子的生涯規劃與發展，歡迎主動[來信接洽各種合作機會或投稿</span>](/connectbar)! ! :)

@@ -31,4 +31,4 @@ V. NTU Got Talent: Final Presentation and Demo Day
 
 申請連結：<http://goo.gl/forms/I2EBFyTs2r>  
 主辦單位：NTU LIVE    <https://goo.gl/u3JjcC>  
-有任何疑問歡迎來信洽詢：[chris@ntulive.com](https://web.archive.org/web/20170102105338/mailto:chris@ntulive.com)
+有任何疑問歡迎來信洽詢：[chris@ntulive.com](mailto:chris@ntulive.com)

@@ -14,7 +14,7 @@
 地點：台北市中山區八德路2段174巷28號 3F 社企小棧  
 主辦單位：Si2C-SPARK、STPI  
 報名網址：<https://payment.narlabs.org.tw/Register/5ec27f56e55c82d459e9c9c04fbf9c09>  
-聯絡人：柯品臣專案副理  (02)2737-7030 [pcko@siic.com.tw](https://web.archive.org/web/20170103210419/mailto:pcko@siic.com.tw)
+聯絡人：柯品臣專案副理  (02)2737-7030 [pcko@siic.com.tw](mailto:pcko@siic.com.tw)
 
 **方頌仁**  **創辦人**
 

@@ -33,9 +33,9 @@ Glybera 的適應症為 lipoprotein lipase (LPL) deficiency，這是一種每百
 
 綜合以上因素，作者認為 Glybera 的核准，並不能預言如同當年治療用單株抗體成為暢銷藥物 (blockbusters) 的巨幅成長即將發生，但<span style="color:#800000">如果基因療法能定位在利基藥物 (nichebusters) 而不一定是暢銷藥物，基因療法在未來市場的前景依舊可期。</span>
 
-[![](https://web.archive.org/web/20170607183139im_/http://www.nature.com/nbt/journal/v30/n9/images/homecover.gif)](http://www.nature.com/nbt/journal/v30/n9/index.html)
+![](homecover.gif)
 
-原文連結 (Editorial): <http://www.nature.com/nbt/journal/v30/n9/full/nbt.2363.html>Nature Biotechnology, volume 30, number 9, page 805
+原文連結 [Editorial](http://www.nature.com/nbt/journal/v30/n9/full/nbt.2363.html): Nature Biotechnology, volume 30, number 9, page 805
 
 註1: 詳細的發展中基因療法一覽, 可參考同期的另篇文章, "First gene therapy nears landmark European market authorization", 此篇針對Glybera在市場、法規面帶來的衝擊有更詳細的討論。
 

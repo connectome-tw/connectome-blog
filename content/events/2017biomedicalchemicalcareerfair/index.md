@@ -11,7 +11,7 @@
 •協辦單位：中研院生物化學研究所、中研院化學研究所、台大生化科學研究所、中研院分子生物研究所、中研院生物醫學科學研究所、財團法人生化科技教育基金會、中華民國細胞與分子生物學學會  
 •廠商報名：[https://sites.google.com/site/gscdcibcibsioc/jobfair-2017/exhibitors#pag...](https://sites.google.com/site/gscdcibcibsioc/jobfair-2017/exhibitors#page-comments)  
 •活動網頁：<https://sites.google.com/site/gscdcibcibsioc/jobfair-2017>  
-•聯絡窗口：會長 李昱蓉 0910-150-865公關 黃彥文 0989-170-708或來信 [gscdcmanage@gmail.com](https://web.archive.org/web/20170629125022/mailto:gscdcmanage@gmail.com)
+•聯絡窗口：會長 李昱蓉 0910-150-865公關 黃彥文 0989-170-708或來信 [gscdcmanage@gmail.com](mailto:gscdcmanage@gmail.com)
 
 ## <span style="color:windowtext">活動資訊及流程</span>
 

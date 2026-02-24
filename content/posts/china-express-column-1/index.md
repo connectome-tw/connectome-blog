@@ -43,4 +43,4 @@
 本專欄刻意使用中國用詞，且註明星號，並在文後附上台灣用詞翻譯，讓讀者有猜燈謎的感覺。  
 本專欄中所提的「中國」，是依照國際商業慣例所指的「China」:地區，亦指中華人民共和國國家食品藥品監督管理總局（China Food and Drug  Administration）實際管轄的區域。
 
-**<span style="color:#993300">本文作者為</span>** **<span style="color:#993300">Connectome 團隊 李明澤，任何指教敬請來信 [ChinaExpress.Column@gmail.com](https://web.archive.org/web/20181106180859/mailto:ChinaExpress.Column@gmail.com)</span>**
+**<span style="color:#993300">本文作者為</span>** **<span style="color:#993300">Connectome 團隊 李明澤，任何指教敬請來信 [ChinaExpress.Column@gmail.com](mailto:ChinaExpress.Column@gmail.com)</span>**

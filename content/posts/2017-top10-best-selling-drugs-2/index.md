@@ -13,7 +13,7 @@
 
 首先看到 Avastin、Herceptin 及 Prevnar13 的排名較2016年上升，倒不是因為的銷售額的增長，而是受到原本排名3-5名的Remicade、Enbrel 及 Lantus皆藥品專利到期、新藥、相似藥的陸續出現被預期競爭力不如以往所致。排名第五的 Harvoni 也在新藥和其他 C 肝藥物的競爭下被預期銷售總額將會降低 20 億美元。接下就由 Connectome 繼續來介紹這些暢銷藥物的藥效與藥物市場變化趨勢。
 
-![](sites/default/files/2017%E5%8D%81%E5%A4%A7%E6%9A%A2%E9%8A%B7%E8%97%A5%E7%89%A9%E6%8E%92%E5%90%8D%E9%A0%90%E6%B8%AC_0.jpg)
+![](2017十大暢銷藥物排名預測_0.jpg)
 
 <span style="color:#000080">**4. Avastin**</span>
 

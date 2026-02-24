@@ -11,7 +11,7 @@
   images: ["feature.jpg"]
 ---
 
-![](sites/default/files/2017%E5%8D%81%E5%A4%A7%E6%9A%A2%E9%8A%B7%E8%97%A5%E7%89%A9%E6%8E%92%E5%90%8D%E9%A0%90%E6%B8%AC_0.jpg)
+![](2017十大暢銷藥物排名預測_0.jpg)
 
 參考資料： GEN The Top 15 Best-Selling Drugs of 2016
 

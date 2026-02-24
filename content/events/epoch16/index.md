@@ -28,4 +28,4 @@
 ※新農業組鼓勵朝「健康、人文、永續、小而美、跨領域、國際化」發展，透過營運模式、服務和行銷的創新，改變產業結構和價值鏈。  
 ※詳情：<http://www.epoch.org.tw/project/bioagri>
 
-※服務專線(秘書處)：時代基金會 02-2511-2678 #16; [amber@epoch.org.tw](https://web.archive.org/web/20171126050529/mailto:amber@epoch.org.tw)
+※服務專線(秘書處)：時代基金會 02-2511-2678 #16; [amber@epoch.org.tw](mailto:amber@epoch.org.tw)

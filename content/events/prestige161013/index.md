@@ -40,5 +40,5 @@ St. John's University 藥劑博士
 ＊＊報名網址及課程內容請參考：<http://prestige.kktix.cc/events/e3631b73-905bf3-0228d2-0c4ca7?preview_token=7f173cff306df2061b5346a2b6bf9ba3>
 
 聯絡人資料：李鎮宏 0932-332121  
-信箱 [ntuprestige@gmail.com](https://web.archive.org/web/20170103193306/mailto:ntuprestige@gmail.com)  
+信箱 [ntuprestige@gmail.com](mailto:ntuprestige@gmail.com)  
 ※更多社團詳細資訊請參考 Prestige FB 粉專：<https://www.facebook.com/ntuprestige/>

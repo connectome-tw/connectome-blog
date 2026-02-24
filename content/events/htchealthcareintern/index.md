@@ -34,9 +34,9 @@
   
 請將履歷寄至：  
 Lewis Chang  
-[lewis_chang@htc.com](https://web.archive.org/web/20170606141231/mailto:lewis_chang@htc.com)  
+[lewis_chang@htc.com](mailto:lewis_chang@htc.com)  
   
-  
+
 HTC Health Care  
 [https://deepq.com](https://deepq.com/)  
   
