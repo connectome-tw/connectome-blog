@@ -33,7 +33,7 @@
 
 最後，學姐推薦「從A到A+ (Good to Great)」這本書，依照其中的人生發展概念試著**<span style="color:#800000">「找到自己的優勢、喜歡做的事情及熱情所在」</span>**，了解**<span style="color:#800000">「自己是誰？擅長什麼？喜歡什麼？」</span>**，並且思考**<span style="color:#800000">「想達成未來的目標，而現在需要做什麼樣的努力？」</span>**。有了計劃，才能一步步達成自己設定的目標！ [![kwy-2](img-3-kwy-2.jpg)](img-3-kwy-2.jpg)
 
-<span style="color:#800000">※    凱雯學姊目前受邀為 Connectome 部落格撰寫「[**來自加州生技產業的十二封信**](/taxonomy/term/137/)」專欄，歡迎追蹤閱讀。</span>
+<span style="color:#800000">※    凱雯學姊目前受邀為 Connectome 部落格撰寫「[**來自加州生技產業的十二封信**](/columns/來自加州生技產業的十二封信/)」專欄，歡迎追蹤閱讀。</span>
 
 <span style="color:#800000">※    演講中提到的求職網站連結：</span> <span style="color:#800000"> </span>
 
