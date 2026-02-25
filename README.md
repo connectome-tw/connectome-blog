@@ -1,38 +1,21 @@
-# Connectome Blog — Hugo + Blowfish
+# Connectome Blog
 
-Static site for connectome.tw. Migrated from Drupal; content extracted from `wayback_connectome/`.
+這是生成 [connectome.tw](https://connectome.tw) 網頁的專案。  
+Connectome 主要在 2012 - 2017 年間活躍，  
+團隊成員們在 201８ 年前後因為各自得原因慢慢減少了產出，  
+最終網站在 2022 年中停止營運。  
 
-## Setup
+本專案於 2026 年初從 Wayback Machine 上爬回超過九成的資料，目標是：  
+1. **讓 Connectome 團隊成員們曾經付出過的努力還能繼續活在網路上**，並以  
+2. **維運成本最低** 為第一優先考量。  
 
-1. **Install Hugo** (≥0.141.0). See `SETUP.md`.
-2. **Submodule:** `git submodule update --init themes/blowfish`
+因此，選擇架設在完全免費的 GitHub Pages，  
+用免費開源的 Hugo + Blowfish 生成，  
+並用 GitHub Actions 的免費額度自動部署更新。  
 
-## Local dev
+這個技術選擇當然會讓網站的更新較為困難，  
+但是以 2026 年初團隊成員的狀況來看，  
+降低長期維運成本顯然較為重要。
 
-```bash
-hugo serve
-```
-
-Open http://localhost:1313/
-
-## Build
-
-```bash
-hugo
-```
-
-Output: `public/`
-
-## Search (Pagefind)
-
-Run after Hugo build:
-
-```bash
-npx pagefind --site public
-```
-
-Then the search button in the header will work.
-
-## Contributing
-
-Open a PR → after merge to `main`, the site is built and published to **https://connectome.tw**. See [CONTRIBUTING.md](CONTRIBUTING.md).
+如果想要貢獻新內容、或編輯既有內容，  
+可以參看 [CONTRIBUTING.md](CONTRIBUTING.md)。
