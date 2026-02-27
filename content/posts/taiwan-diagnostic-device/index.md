@@ -33,6 +33,6 @@
 
 <span style="color:#800000">本文僅做為產業介紹與活動推廣之用；文中所列舉公司皆參考經濟部工業局2012年生技白皮書，Connectome亦不與以上所述之廠商有任何直接或間接之雇傭、投資、融資關係。</span>
 
-<span style="color:#333399">**延伸閱讀:**</span> 1. [台灣體外診斷醫療器材市場現況分析](http://tinyurl.com/8bg6jho) 2. [體外診斷醫療器材 (IVD)](http://tinyurl.com/9cqd8xy)
+<span style="color:#333399">**延伸閱讀**:</span> 1. [台灣體外診斷醫療器材市場現況分析](http://tinyurl.com/8bg6jho) 2. [體外診斷醫療器材 (IVD)](http://tinyurl.com/9cqd8xy)
 
-<span style="color:#333399">**參考資料:**</span> 1. [經濟部工業局 2012生技產業白皮書](http://crm.biopharm.org.tw/wb/)
+<span style="color:#333399">**參考資料**:</span> 1. [經濟部工業局 2012生技產業白皮書](http://crm.biopharm.org.tw/wb/)

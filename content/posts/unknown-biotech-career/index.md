@@ -47,4 +47,4 @@
 
 最後，除了進入生技產業外，生科博士還可能繼續進修攻讀專利法，或是轉入科技政策、科學期刊編輯、生技顧問公司、以及一般管理顧問公司，都是許多人投入、能夠學以致用的工作。
 
-<span style="color:#808080">**參考資料：**</span> <span style="color:#808080">Toby Freedman, “Career Opportunities in Biotechnology and Drug Development”, Cold Spring Harbor Laboratory Press, New York, 2007.</span>
+<span style="color:#808080">**參考資料**：</span> <span style="color:#808080">Toby Freedman, “Career Opportunities in Biotechnology and Drug Development”, Cold Spring Harbor Laboratory Press, New York, 2007.</span>

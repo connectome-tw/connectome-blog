@@ -2,7 +2,7 @@
   title: "生技旗艦航向何方?"
   date: "2013-03-06T00:00:00Z"
   url: "/posts/bio-flagships/"
-  summary: "<span style=\"color:rgb(0, 0, 0)\">在 1970~1990 年代，生技業出現了數家具代表性的旗艦型公司，甚至是國家型的公司，股票市場及國家本身對這些公司都寄予厚望並給予支持，但保護主義往往導致公司的失敗，其下場不是消失就是被藥廠併購。生技旗艦型公司的時代已經過去，生技公司與藥廠的界線逐漸模糊，原因之一是對生技新創公司的投資者而言，藥廠併購是他們資金離場的首要選項，而藥廠也開始參與生技新創公司的投資，因此生技公司很少能不跟藥廠的發展扯上關係。但現在因為 </span>[<span style=\"color:rgb(0, 0, 0)\">Health Technology Assessment Program</span>](http://www.cde.org.tw/FAQ/HTA/Pages/%E9%86%AB%E8%97%A5%E7%A7%91%E6%8A%80%E8%A9%95%E4%BC%B0.aspx \"何謂醫療科技評估?\")<span style=\"color:rgb(0, 0, 0)\"> (HTA) 的推動，藥廠原有的商業模式及策略可能將不再適用，創新才是搶下市場的最重要工具，新創公司應專注在它們有興趣、認為有潛力的方向上，或拓展新的領域，不要再跟隨藥廠的腳步。能顛覆現況的公司是什麼模樣還不清楚，但它遲早會來臨，並改變現有的藥業模式，成為新一代的生技旗艦。</span>"
+  summary: 在 1970 - 1990 年代，生技業出現了數家具代表性的旗艦型公司，甚至是國家型的公司，股票市場及國家本身對這些公司都寄予厚望並給予支持，但保護主義往往導致公司的失敗，其下場不是消失就是被藥廠併購。生技旗艦型公司的時代已經過去，生技公司與藥廠的界線逐漸模糊，原因之一是對生技新創公司的投資者而言，藥廠併購是他們資金離場的首要選項，而藥廠也開始參與生技新創公司的投資，因此生技公司很少能不跟藥廠的發展扯上關係。但現在因為 [Health Technology Assessment Program](http://www.cde.org.tw/FAQ/HTA/Pages/%E9%86%AB%E8%97%A5%E7%A7%91%E6%8A%80%E8%A9%95%E4%BC%B0.aspx) (HTA) 的推動，藥廠原有的商業模式及策略可能將不再適用，創新才是搶下市場的最重要工具，新創公司應專注在它們有興趣、認為有潛力的方向上，或拓展新的領域，不要再跟隨藥廠的腳步。能顛覆現況的公司是什麼模樣還不清楚，但它遲早會來臨，並改變現有的藥業模式，成為新一代的生技旗艦。</span>"
   authors: ["thelazyone"]
   region: ["台灣"]
   scope: ["產業"]
@@ -13,7 +13,7 @@
 
   <span style="color:#808080">(Photo: programwitch)</span>
 
-**本文摘錄自 [Nature Biotechnology 2012](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2453.html)年12月 [Where have the flagships gone](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2453.html "前往閱讀")?** <span style="color:#ffffff"> </span>
+**本文摘錄自 [Nature Biotechnology](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2453.html) 2012 年 12 月 [Where have the flagships gone](http://www.nature.com/nbt/journal/v30/n12/full/nbt.2453.html "前往閱讀")?** <span style="color:#ffffff"> </span>
 
 ## **<span style="color:#3366ff">生技旗艦型公司的時代已經過去</span>**
 

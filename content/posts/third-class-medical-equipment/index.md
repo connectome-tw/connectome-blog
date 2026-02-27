@@ -45,9 +45,9 @@
 
 <span style="color:#ffffff">.</span>
 
-**註1 2012 美國國家生物經濟藍圖：**[http://tinyurl.com/cd9j485](http://www.whitehouse.gov/sites/default/ files/microsites/ostp/national_bioeconom y_blueprint_april_2012.pdf)
+**註1 - 2012 美國國家生物經濟藍圖**：http://www.whitehouse.gov/sites/default/files/microsites/ostp/national_bioeconomy_blueprint_april_2012.pdf
 
-**註2 港大技術轉移介紹：**<http://www.ke.hku.hk/cht/solutions/technology-transfer>
+**註2- 港大技術轉移介紹**：http://www.ke.hku.hk/cht/solutions/technology-transfer
 
 <span style="color:#808080">- 本篇為林育頡學長在 Connectome 11月10日「生技人，醫材知多少」職涯沙龍的分享整理 -</span>
 

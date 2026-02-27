@@ -24,7 +24,7 @@
 
 ![](https://web.archive.org/web/20200220181624im_/http://farm5.staticflickr.com/4130/5030513517_54d9e8cebc_n.jpg "Photo: Raoul Pop")
 
-<span style="color:#dc143c">**Tip! 開車移動計畫小訣竅：**</span>
+<span style="color:#dc143c">**Tip! 開車移動計畫小訣竅**：</span>
 
 <span style="color:#999999">關於開車移動，每個人有不同的喜好與習慣，但我的經驗是首先鎖定最遠的醫院並在最早的時間到達，然後慢慢回到市區，如此便可以在下午留下些閒散時間用以開發新客戶或是回家休息，有些人則喜歡先拜訪鄰近的醫院，好處是不必如此早起，但是缺點是往往回程遇上下班車潮，這是個人選擇了。</span>
 
