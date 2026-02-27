@@ -33,4 +33,4 @@
 銀行名稱：永豐銀行世貿分行 (銀行代號807；分行代號0014)  
 銀行帳號：044-018-0000158-1  
   
-聯絡人：葉盈欣 Tel: (02)2783-1262#14 E-mail: [ninayeh@trpma.org.tw](https://web.archive.org/web/20171126175420/mailto:ninayeh@trpma.org.tw)
+聯絡人：葉盈欣 Tel: (02)2783-1262#14 E-mail: [ninayeh@trpma.org.tw](mailto:ninayeh@trpma.org.tw)

@@ -34,7 +34,7 @@
 
 醫藥衛生合作當中，又以臨床試驗為試水溫的先行合作方式。<span style="color:#800000">**目前**協議僅落實台灣和中國彼此的國產製藥，對於非兩岸的跨國大公司還沒有開放。</span>而文章一開始提及台灣微脂體和太景的相關新聞，即是利用「海峽兩岸醫藥衛生合作協議」的現行制度 – 「**綠色通道**」來實行。台灣臨床試驗的主管機關是 TFDA (台灣食品衛生藥物管理局)，而和 TFDA 對等的大陸主管機關是 SFDA (中國國家食品藥品監督管理局)，兩造雙方組成「醫藥品安全管理及研發工作組」來共同執行這份協議。
 
-**![](https://web.archive.org/web/20201128140337im_/https://lh3.googleusercontent.com/a3GrZS57ibERLxMo0fcarHxepB_dgickBYKIJQlvAt1rLbi8lVIeZKluw31uDFXaBpLXdyPa43rSX-Ksr5s6EdwqSxFpkkaokRw76d0TrgdXK95XtixBD_ZN)**
+![](TFDA.png)
 
    圖片來源：TFDA – [產業動態「兩岸開啟技術審查交流大門」](http://www.fda.gov.tw/upload/133/Content/2012102511405920005.pdf)（有趣的是這政府出品的圖，誤植藥品和醫材兩項綠色通道。）
 

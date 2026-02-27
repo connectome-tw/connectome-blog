@@ -41,4 +41,4 @@ CONNECTOME - **連結生技人才**
 
 **新站成立，象徵原始初衷也注入新氣象的 logo 誕生，保留的是原來象徵多元跨領域的色彩，更強調的是點線連結體的概念，CONNECTOME 將成為更開放、屬於每個想要力行改變的生技人的舞台。CONNECTOME 連結生技人才。歡迎大家一起與我們 CONNECT 吧！**
 
-![Connectome logo](/images/about/Commectome_new_logo_1500x350.png)
+![Connectome logo](/Connectome_new_logo_1500x350.png)

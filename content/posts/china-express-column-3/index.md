@@ -76,4 +76,4 @@
 
 <http://news.zhixiaoguan.com/20150825/30980/>
 
-<span style="color:#a52a2a">**本文作者為** **Connectome 團隊 李明澤，任何指教敬請來信**</span>[<span style="color:#a52a2a">ChinaExpress.Column@gmail.com</span>](https://web.archive.org/web/20201203194404/mailto:ChinaExpress.Column@gmail.com)
+<span style="color:#a52a2a">**本文作者為** **Connectome 團隊 李明澤，任何指教敬請來信**</span>[<span style="color:#a52a2a">ChinaExpress.Column@gmail.com</span>](mailto:ChinaExpress.Column@gmail.com)

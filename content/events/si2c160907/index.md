@@ -20,7 +20,7 @@
 地點：科技大樓4樓4002會議室 (台北市大安區和平東路二段106號4樓)  
 報名網址：<http://goo.gl/LeuZCx>  
 主辦單位：Si2C-SPARK、STPI  
-聯絡我們：柯品臣專案副理  (02)2737-7030  [pcko@siic.com.tw](https://web.archive.org/web/20170103193241/mailto:pcko@siic.com.tw)
+聯絡我們：柯品臣專案副理  (02)2737-7030  [pcko@siic.com.tw](mailto:pcko@siic.com.tw)
 
 為讓此次的講座更能貼近參與者欲了解的議題，請各位貴賓在報名網頁中填寫想要請教熊樂昌博士的問題，主辦單位將彙整與講者討論，並視情況安排在講座內容中。
 

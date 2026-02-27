@@ -22,7 +22,7 @@ International Conference on Regulatory Approaches for Fostering Innovation in Dr
 每日議程：<http://fidmd.strikingly.com/#agenda>  
 報名時間：即日起至2017年3月28日(二)下午17:00止，名額有限，請盡早報名。  
 報名費用 : 免費  
-聯絡窗口：06-2353535#3419 梁小姐 [annieliangncku@gmail.com](https://web.archive.org/web/20170317054150/mailto:annieliangncku@gmail.com)
+聯絡窗口：06-2353535#3419 梁小姐 [annieliangncku@gmail.com](mailto:annieliangncku@gmail.com)
 
 相關網址：<http://fidmd.strikingly.com/>
 

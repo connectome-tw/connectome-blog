@@ -55,4 +55,4 @@
 
 **[Connectionary](http://www.flickr.com/photos/97565412@N03/sets/72157634149166929/ "點我看更多生醫詞彙")相關詞彙介紹**
 
-[![](https://web.archive.org/web/20200213152109im_/http://farm3.staticflickr.com/2884/9054386881_3e4df6dbf6_c.jpg)](http://www.flickr.com/photos/97565412@N03/9054386881/sizes/c/in/set-72157634149166929/)
+[![](http://farm3.staticflickr.com/2884/9054386881_3e4df6dbf6_c.jpg)](http://www.flickr.com/photos/97565412@N03/9054386881/sizes/c/in/set-72157634149166929/)

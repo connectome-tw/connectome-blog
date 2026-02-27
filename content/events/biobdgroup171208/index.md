@@ -20,7 +20,7 @@
 交流會報名：[https://goo.gl/rdaNgz](https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FrdaNgz&h=ATNkte5cQx2D7wF2n5orcIlNNxqUBGbgyw0e1Manl_DCWhBh47QnJ4B4viCxYe3gCUqOdzTg5-JAAA1Ok-kxt1NQck4L93OkLN2MoXlf0tjH0hmEd8MHzGC37gHafFIBPDuP5abP38wHkg)  
 主辦單位：BIOBDGROUP生技顧問公司  [http://biobdgroup.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fbiobdgroup.com%2F&h=ATNkte5cQx2D7wF2n5orcIlNNxqUBGbgyw0e1Manl_DCWhBh47QnJ4B4viCxYe3gCUqOdzTg5-JAAA1Ok-kxt1NQck4L93OkLN2MoXlf0tjH0hmEd8MHzGC37gHafFIBPDuP5abP38wHkg)  
 聯絡電話：02-29515910  
-聯絡信箱：[inquiry@biobdgroup.com.tw](https://web.archive.org/web/20171127062312/mailto:inquiry@biobdgroup.com.tw)
+聯絡信箱：[inquiry@biobdgroup.com.tw](mailto:inquiry@biobdgroup.com.tw)
 
 #加速器  
 #創業  

@@ -24,10 +24,10 @@
 ■ 每日議程：敬請參閱官網   
 ■ 報名時間：即日起至105年9月30日(五)下午17:00止，名額有限，請盡早報名。  
 ■ 報名費用 : 免費  
-■ 聯絡窗口：06-2363157 翁博士 [b88501113@gmail.com](https://web.archive.org/web/20170103172414/mailto:b88501113@gmail.com)、 梁小姐 [annieliangncku@gmail.com](https://web.archive.org/web/20170103172414/mailto:annieliangncku@gmail.com)
+■ 聯絡窗口：06-2363157 翁博士 [b88501113@gmail.com](mailto:b88501113@gmail.com)、 梁小姐 [annieliangncku@gmail.com](mailto:annieliangncku@gmail.com)
 
 發佈日期：2016-09-19 00:00:00  
 聯絡人：翁振勛  
 聯絡電話：06-2353535-3418  
 相關網址：<http://2016bees.strikingly.com/>  
-E-Mail：[b88501113@gmail.com](https://web.archive.org/web/20170103172414/mailto:b88501113@gmail.com)
+E-Mail：[b88501113@gmail.com](mailto:b88501113@gmail.com)

@@ -6,8 +6,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -19,9 +17,9 @@ jobs:
           submodules: recursive
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          hugo-version: "0.145.0"
           extended: true
 
       - name: Build
@@ -30,8 +28,11 @@ jobs:
       - name: Pagefind
         run: npx pagefind --site public
 
+      - name: Disable Jekyll on GitHub Pages
+        run: touch public/.nojekyll
+
       - name: Deploy
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
