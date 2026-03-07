@@ -1,7 +1,7 @@
 ---
   title: "iGEM @ Taiwan─參賽現狀與競賽本質"
   date: "2012-12-11T00:00:00Z"
-  url: "/posts/igem-taiwa/"
+  url: "/posts/igem-taiwan/"
   summary: "<span style=\"color:rgb(0, 0, 0)\">合成生物學是什麼？iGEM又是一個怎麼樣的比賽？Connectome 一直鼓勵大家跨出舒適圈、勇於做不同的嘗試。在各校 iGEM 招生報名前夕，我們邀請到台灣醫學生研究通訊主編，同時也是陽明大學 2011 年 iGEM 計畫設計人蔡尚叡來為大家整理 iGEM 競賽以及台灣的參賽現狀。同學們，就趁這個機會來了解一下吧</span><span style=\"color:rgb(0, 0, 255); text-align:justify\">！</span>"
   authors: ["蔡尚叡"]
   region: ["台灣"]
@@ -19,11 +19,11 @@ iGEM 起源於 2003 年麻省理工大學 (Massachusetts Institute of Technology
 
 這項比賽的參賽成員預設為大學部學生，但也開放部分名額 (需佔全隊人數 1/3 以下) 的研究所學生參與組隊；世界趨勢約為一般大學部三~四年級學生組隊參加，而台灣各隊伍的成員年級則多為大一大二學生。比賽當中，用以建構生物系統時，所用到的生物元件 (biological parts¶) 可由各隊自行籌措，亦可使用iGEM官方提供的生物元件包 [(DNA Kit of Parts; Distribution Kits)](http://partsregistry.org/Help:Distribution_Kits)，但其最大的特色是標準化每一段 DNA 序列之間鏈接的序列 ─ 此種鏈接規則為 iGEM 創辦人之一 Tom Knight 透過電腦程式篩選各種限制酶所設計出，特徵是不管執行幾步驟、或是從頭端或從尾端接入，拼裝成的總體生物元件 DNA 序列依然只存在著其於最頭端與最尾端的固定限制酶切位 [細節請參考[這裡](http://ginkgobioworks.com/support/BioBrick_Assembly_Manual.pdf)]。
 
-<span style="color:#808080">[註] ¶. 生物系統元件的概念，若放在「基因體序列就是生命的軟體 (genome is the software of life)」的概念下考量，便指稱基因組上，具有最小功能性單位的 DNA 序列片段，其可能是 microRNA, 功能基因, riboswitch, ribosome binding site (RBS), terminator…, etc.</span>
+<span style="color:#808080">[註]：生物系統元件的概念，若放在「基因體序列就是生命的軟體 (genome is the software of life)」的概念下考量，便指稱基因組上，具有最小功能性單位的 DNA 序列片段，其可能是 microRNA, 功能基因, riboswitch, ribosome binding site (RBS), terminator…, etc.</span>
 
 又因為此制度實乃 iGEM 主辦方為了避免各隊伍持有之生物元件的智財權利爭執、各隊之間的資源不對等、以及為推展學術競賽動能，而特別採用的開放原始碼 (open source model) 模式，因此，為維持原始碼資料庫的流通，iGEM 官方採取近似於「創用 CC (Creative Commons)」的策略，強制所有參賽隊伍在建構其生物系統時，所新增與組裝的生物元件，皆須於 [Parts Registry 網站](http://partsregistry.org/Main_Page)中登錄，並於隊伍專屬 wiki 格式網頁編輯終了之前，將各生物元件之實體 DNA 克隆 (clone) 至指定質體上，寄發至位於 MIT 的 [BioBrick Foundation](http://biobricks.org/) 總部存放。
 
-[競賽內容方面](http://2012.igem.org/Judging/Track_Selection)，則由 iGEM 主辦方，按照專注的應用領域與問題本質，分為以下八大類組 (tracks)，供各隊報名時選擇；各類組的優勝者將會於第二階段世界賽 (World Championship) 統一頒發，名額歷年來多約 1~2 隊：
+[競賽內容方面](http://2012.igem.org/Judging/Track_Selection)，則由 iGEM 主辦方，按照專注的應用領域與問題本質，分為以下八大類組 (tracks)，供各隊報名時選擇；各類組的優勝者將會於第二階段世界賽 (World Championship) 統一頒發，名額歷年來多約 1 - 2 隊：
 
 * 創新應用 (New Application)
 * 食物與能源 (Food/Energy)
@@ -57,11 +57,9 @@ iGEM 起源於 2003 年麻省理工大學 (Massachusetts Institute of Technology
 
 <span style="color:#ffffff">.</span>
 
-**延伸閱讀：**
+**延伸閱讀**：
 
-陽明大學 iGEM 專訪 - 張傳雄老師與蔡尚叡同學訪談, *台灣醫學生研究通訊**TMSRC*, **第十八期** (monograph published on the Internet; last retrieved on 2012/12/11)：
-
-<http://twmedrescomm.blogspot.tw/2012/07/blog-post.html>
+陽明大學 iGEM 專訪 - 張傳雄老師與蔡尚叡同學訪談, *台灣醫學生研究通訊TMSRC*, **第十八期** (monograph published on the Internet; last retrieved on 2012/12/11)：<http://twmedrescomm.blogspot.tw/2012/07/blog-post.html>
 
 ——
 

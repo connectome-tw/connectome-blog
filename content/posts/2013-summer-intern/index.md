@@ -78,7 +78,7 @@
 
 **參與者資格**：醫藥衛生學科類、企業管理相關、一般商業學類大學生或碩士生
 
-**詳細資訊網站[連結](http://www.104.com.tw/jobbank/custjob/index.php?r=job&j=4339412455453e5530313962516335175595f41284b353f202020201c373a2524290j51&jobsource=tip)、過往[實習心得](/posts/gsk-intership/ "GSK暑期實習分享 – 楊士平")**
+**詳細資訊網站[連結](http://www.104.com.tw/jobbank/custjob/index.php?r=job&j=4339412455453e5530313962516335175595f41284b353f202020201c373a2524290j51&jobsource=tip)、過往[實習心得](/posts/gsk-internship/ "GSK暑期實習分享 – 楊士平")**
 
 **備註**：<span style="color:#800000">除了透過上述連結報名外，</span><span style="color:#800000">參加 **[2013找尋校園CEO</span>](http://www.hpvteamwork.com/ "2013找尋校園CEO-防癌宣導企劃競賽")**，晉級隊伍的成員不限科系均可申請實習，而獲選者將在行銷部門實習。
 

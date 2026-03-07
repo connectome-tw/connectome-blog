@@ -21,7 +21,7 @@
 
 **工作日期**：7/1-8/29
 
-**實習故事**：[GSK暑期實習分享 – 楊士平](/posts/gsk-intership/)
+**實習故事**：[GSK暑期實習分享 – 楊士平](/posts/gsk-internship/)
 
 ## <span style="color:#333399">**台灣禮來**</span>
 

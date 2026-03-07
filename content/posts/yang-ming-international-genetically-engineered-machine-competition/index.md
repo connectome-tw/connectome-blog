@@ -2,7 +2,7 @@
   title: "瘋 iGEM─Venus Marvel"
   date: "2013-02-18T00:00:00Z"
   url: "/posts/yang-ming-international-genetically-engineered-machine-competition/"
-  summary: "[國際基因工程生物競賽](/posts/igem-taiwa/) ( International Genetically Engineered Machine competition, iGEM ) 系列報導中，Connectome 這次將進一步介紹 2012 年 iGEM 陽明團隊。陽明大學是台灣第一個參加 iGEM 的隊伍，自 2007 年生物資訊研究所張傳雄老師帶領以來，年年屢獲佳績，今年更以「Venus Marvel」為題，在亞洲區獲得金牌，晉級世界決賽。在為期一年的參賽過程中，究竟有什麼樣的收獲與啟發，就讓 Connectome 來為大家介紹。"
+  summary: "[國際基因工程生物競賽](/posts/igem-taiwan/) ( International Genetically Engineered Machine competition, iGEM ) 系列報導中，Connectome 這次將進一步介紹 2012 年 iGEM 陽明團隊。陽明大學是台灣第一個參加 iGEM 的隊伍，自 2007 年生物資訊研究所張傳雄老師帶領以來，年年屢獲佳績，今年更以「Venus Marvel」為題，在亞洲區獲得金牌，晉級世界決賽。在為期一年的參賽過程中，究竟有什麼樣的收獲與啟發，就讓 Connectome 來為大家介紹。"
   authors: ["吳婉甄"]
   region: ["台灣"]
   scope: ["團隊"]
@@ -12,11 +12,16 @@
 
  - 此篇為 iGEM 系列報導 2012 陽明隊專訪 - 
 
-## <span style="color:#3366ff">**陽明** **iGEM** **簡歷**</span>
+## <span style="color:#3366ff">**陽明 iGEM 簡歷**</span>
 
-<span style="color:#333333">2007 年 iGEM 金牌</span> <span style="color:#333333">2008 年 iGEM 銀牌</span> <span style="color:#333333">2009 年 iGEM 銅牌</span> <span style="color:#333333">2010 年 iGEM 銀牌</span> <span style="color:#333333">2011 年 iGEM 金牌 & Advanced to Championship</span> <span style="color:#333333">2012 年 iGEM 金牌 & Advanced to Championship</span> <span style="color:#ffffff">..</span>
+<span style="color:#333333">2007 年 iGEM 金牌</span>  
+<span style="color:#333333">2008 年 iGEM 銀牌</span>  
+<span style="color:#333333">2009 年 iGEM 銅牌</span>  
+<span style="color:#333333">2010   年 iGEM 銀牌</span>  
+<span style="color:#333333">2011   年 iGEM 金牌 & Advanced to Championship</span>  
+<span style="color:#333333">2012   年 iGEM 金牌 & Advanced to Championship</span>  
 
-## <span style="color:#3366ff">**Before iGEM</span>**
+## <span style="color:#3366ff">Before iGEM</span>
 
 今年陽明的團隊是由去年曾參加過 iGEM、已有一年經驗的醫學系陳仕豪同學所帶領，從 2011 年一月份的招生說明會開始，吸引了將近四十位不同系所的同學加入，之後隨著時間經過漸漸剩下約十五人的團隊。最初，大家加入 iGEM 的原因都不盡相同，也許是為了在大學生涯留下一些紀錄、做一件自己不會後悔的事，或是想去名校與世界大學生交流，每個同學都抱著不同的期待，因 iGEM 而聚在一起。參加 iGEM 不但能習得實驗方法，<span style="color:#800000">相較於到實驗室當暑期實習生，它更多了腦力激盪和親自蒐集材料、實踐創意的訓練過程</span>。然而，除了繁重的課業壓力、大學生必備社團活動，有些同學還有專題實驗室必須兼顧，因此每次只能利用假日晚上的時間開會討論，**雖然忙翻天，但大家卻一致同意，只要有心，還是能夠擠出時間。** <span style="color:#ffffff">.</span>
 
@@ -24,7 +29,7 @@
 
 <span style="color:#333399">**腦力激盪**</span>**<span style="color:#333399">擬定題目！</span>**
 
-開始大家先將自己的想法發表在 WIKI 上，並於每次的會議中進一步討論，藉由討論刪掉較不可行的提案。回過頭來看，被刪掉的題目不可勝數。雖然一開始大家對題目選擇的意見分歧，但團隊並沒有因此而分裂，不同小組的成員仍然會彼此討論實驗進度或所遇到的問題。直到剩下數個題目勝出時，大家便開始專注尋找相關文獻，因為**<span style="color:#800000">題目不僅要有創意，更需證明其可行性</span>。**當最後剩下“內共生”及“金星人”兩個主題時，大家遲遲難以抉擇，經過一而再、再而三的不斷討論，終於決議將兩個點子合而為一，今年的題目也正式誕生。**討論題目的過程或許在旁人眼中看來相當耗時，但是仕豪自信的說，這個思考辯論的過程還是很珍貴的。**所以在下個年度最初的腦力激盪階段，仍鼓勵團員們不要受限，盡情天馬行空的發想，之後再來尋找解決問題的辦法，這樣才可能激發更多可能性。
+開始大家先將自己的想法發表在 WIKI 上，並於每次的會議中進一步討論，藉由討論刪掉較不可行的提案。回過頭來看，被刪掉的題目不可勝數。雖然一開始大家對題目選擇的意見分歧，但團隊並沒有因此而分裂，不同小組的成員仍然會彼此討論實驗進度或所遇到的問題。直到剩下數個題目勝出時，大家便開始專注尋找相關文獻，因為<span style="color:#800000">**題目不僅要有創意，更需證明其可行性**</span>。當最後剩下“內共生”及“金星人”兩個主題時，大家遲遲難以抉擇，經過一而再、再而三的不斷討論，終於決議將兩個點子合而為一，今年的題目也正式誕生。**討論題目的過程或許在旁人眼中看來相當耗時，但是仕豪自信的說，這個思考辯論的過程還是很珍貴的。** 所以在下個年度最初的腦力激盪階段，仍鼓勵團員們不要受限，盡情天馬行空的發想，之後再來尋找解決問題的辦法，這樣才可能激發更多可能性。
 
 <span style="color:#333399">**金星人** **-** </span>**<span style="color:#333399">硫元素代謝路徑</span>**
 

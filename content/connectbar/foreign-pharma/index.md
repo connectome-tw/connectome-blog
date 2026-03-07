@@ -46,7 +46,7 @@ connectbarSection: company-list
 - **台灣禮來股份有限公司 Eli Lilly and Company** [官網](https://www.lilly.com.tw/) [職缺](https://www.lilly.com.tw/)  
   禮來公司(Eli Lilly and Company)成立於1876年，目前是全球十大藥廠之一，總部位於印第安納州的印第安那波利市(Indianapolis, Indiana, U.S.A.)。禮來的產品主要集中在中樞神經系統用藥、癌症用藥、內分泌疾病、婦女保健、感染疾病、心血管用藥等領域，多是同類產品中藥效較佳、上市時間最早，且為社會大眾最需要的藥物。
 
-- **荷商葛蘭素史克藥廠股份有限公司台灣分公司 GSK** [官網](http://www.gsk.tw/) [職缺](http://www.gsk.tw/) [站內介紹](/posts/top-10-global-big-pharma-1/) [實習心得](/posts/gsk-intership/)  
+- **荷商葛蘭素史克藥廠股份有限公司台灣分公司 GSK** [官網](http://www.gsk.tw/) [職缺](http://www.gsk.tw/) [站內介紹](/posts/top-10-global-big-pharma-1/) [實習心得](/posts/gsk-internship/)  
   GSK台灣分公司在台成立已二十年餘，目前員工約三百六十名，由台北辦公室運籌帷幄全台業務。GSK積極與台灣產官學界合作，爭取大型臨床研究在台執行，以培訓本地人才、發揮本地設備的價值，讓台灣的臨床研究水準與國際接軌，並積極響應政府倡導重點發展科技—生技發展，期與政府透過多項合作計劃，引進更多國際先進的技術及科技，促使台灣更加迅速達到國際化與全球化。作為生命健康產業的一環，GSK關懷台灣社會以及民眾健康，與醫療專業團體共同推廣民眾衛教活動，GSK關懷台灣社會、捐贈國內外義診團藥品以協助貧困病患，並於南亞海嘯、921地震以及SARS、納莉颱風等天災來襲時，捐贈物資、藥品與救助金到有需要的地方，發揮人溺己溺的精神，共為美好健康台灣而努力。
 
 - **嬌生股份有限公司楊森藥廠 JANSSEN-CILAG** [官網](http://www.jnj.com/) [職缺](http://www.jnj.com/) [站內介紹](/posts/top-10-global-big-pharma-1/) [實習心得](/posts/janssen-pharma-intership-chen-ming-cheng/)  
