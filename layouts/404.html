@@ -24,6 +24,10 @@
         window.location.replace(redirects[nodeMatch[1]]);
         return;
       }
+      if (redirects && redirects[path]) {
+        window.location.replace(redirects[path]);
+        return;
+      }
       document.getElementById('message').textContent = '5 秒後導向首頁...';
       setTimeout(function() { window.location.replace('/'); }, 5000);
     })();

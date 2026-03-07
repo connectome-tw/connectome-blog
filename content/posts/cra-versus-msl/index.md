@@ -14,7 +14,7 @@
 ---
 
 Photo: Travis Jon Allison  
-<span style="color:#000080">**CRA (Clinical Research Associate) 工作介紹</span>**
+<span style="color:#000080">**CRA (Clinical Research Associate) 工作介紹**</span>
 
 許多讀者一定都曾聽過台灣是一個十分適合發展臨床試驗產業的地方。不過究竟[臨床試驗](/job_function/臨床試驗/ "觀看所有含\"臨床試驗\"標籤的文章")該如何進行呢? 臨床試驗專員CRA擔任的角色又是甚麼呢?
 
@@ -37,7 +37,7 @@ Photo: Travis Jon Allison
 > 各大藥廠皆建立起這樣的模式與部門。
 > ```
 
-## <span style="color:#333399">**MSL所需的核心能力：**</span>
+## <span style="color:#333399">**MSL所需的核心能力**：</span>
 
 聽起來能夠擔任MSL的人必須要有十八般武藝，既要具有**充分的背景知識**與醫師討論專業問題 (大部分的MSL皆具有博士學位或是在藥廠工作多年，了解完整新藥開發的過程)，也要有**良好的溝通能力**能夠讓醫師安心，願意與你分享第一線醫療過程中遇到的困難及心中創新的想法！更要有敏銳的觀察力，甚至是規劃執行臨床試驗或新藥研發合作案的能力，了解未來能夠與醫師合作的機會！
 
